@@ -1,0 +1,2443 @@
+Action Num,HandNum,TimeStamp,Small Blind,Big Blind,StartHeroTurn,Game Phase,Hero Chips,Villain Chips,Pot Chips,Hole Cards,Board Cards,Log Line
+0,1,"13:10:45,920",10,20,True,PREFLOP,4990,4980,30,"[?s,?h]",,"PREFLOP
+"
+1,1,"13:11:02,067",10,20,False,PREFLOP,4980,4980,40,"[?s,?h]",,"Guest15166 calls $10.
+"
+2,1,"13:11:02,119",10,20,True,PREFLOP,4980,4960,60,"[?s,?h]",,"Guest84440 bets $20.
+"
+3,1,"13:11:05,412",10,20,False,PREFLOP,4960,4960,80,"[?s,?h]",,"Guest15166 calls $20.
+"
+4,1,"13:11:05,460",10,20,False,FLOP,4960,4960,80,"[?s,?h]","[2h,Ah,Ts]","FLOP [board cards 2h,Ah,Ts]
+"
+5,1,"13:11:14,677",10,20,True,FLOP,4960,4960,80,"[?s,?h]","[2h,Ah,Ts]","Guest84440 checks.
+"
+6,1,"13:11:14,860",10,20,False,FLOP,4960,4960,80,"[?s,?h]","[2h,Ah,Ts]","Guest15166 checks.
+"
+7,1,"13:11:14,860",10,20,False,TURN,4960,4960,80,"[?s,?h]","[2h,Ah,Ts,Ad]","TURN [board cards 2h,Ah,Ts,Ad]
+"
+8,1,"13:11:22,461",10,20,True,TURN,4960,4960,80,"[?s,?h]","[2h,Ah,Ts,Ad]","Guest84440 checks.
+"
+9,1,"13:11:22,590",10,20,False,TURN,4960,4960,80,"[?s,?h]","[2h,Ah,Ts,Ad]","Guest15166 checks.
+"
+10,1,"13:11:22,641",10,20,False,RIVER,4960,4960,80,"[?s,?h]","[2h,Ah,Ts,Ad,Ks]","RIVER [board cards 2h,Ah,Ts,Ad,Ks]
+"
+11,1,"13:11:30,654",10,20,True,RIVER,4960,4960,80,"[?s,?h]","[2h,Ah,Ts,Ad,Ks]","Guest84440 checks.
+"
+12,1,"13:11:30,784",10,20,False,RIVER,4960,4960,80,"[?s,?h]","[2h,Ah,Ts,Ad,Ks]","Guest15166 checks.
+"
+12,1,"13:11:30,784",10,20,False,RIVER,4960,4960,80,"[?s,?h]","[2h,Ah,Ts,Ad,Ks]","Guest84440 shows [ 6h,6d] - Two Pair, Aces and Sixes
+"
+13,1,"13:11:30,837",10,20,False,RIVER,4960,5040,0,"[?s,?h]","[2h,Ah,Ts,Ad,Ks]","Guest84440 wins $80
+"
+14,2,"13:11:37,988",10,20,False,PREFLOP,4940,5030,30,"[?s,?h]",,"PREFLOP
+"
+15,2,"13:11:41,745",10,20,True,PREFLOP,4940,5020,40,"[?s,?h]",,"Guest84440 calls $10.
+"
+16,2,"13:11:41,887",10,20,False,PREFLOP,4920,5020,60,"[?s,?h]",,"Guest15166 bets $20.
+"
+17,2,"13:11:45,705",10,20,True,PREFLOP,4920,5000,80,"[?s,?h]",,"Guest84440 calls $20.
+"
+18,2,"13:11:45,727",10,20,True,FLOP,4920,5000,80,"[?s,?h]","[Qh,9s,4c]","FLOP [board cards Qh,9s,4c]
+"
+19,2,"13:11:53,273",10,20,False,FLOP,4920,5000,80,"[?s,?h]","[Qh,9s,4c]","Guest15166 folds.
+"
+20,2,"13:11:53,330",10,20,False,FLOP,4920,5080,0,"[?s,?h]","[Qh,9s,4c]","Guest84440 wins $80
+"
+21,2,"13:11:57,583",10,20,False,FLOP,4920,5080,0,"[?s,?h]","[Qh,9s,4c]","Guest84440 shows [Ac,Kc]
+"
+22,3,"13:12:00,414",10,20,True,PREFLOP,4910,5060,30,"[Qh,3c]",,"PREFLOP
+"
+23,3,"13:12:03,408",10,20,False,PREFLOP,4900,5060,40,"[Qh,3c]",,"Guest15166 calls $10.
+"
+24,3,"13:12:04,956",10,20,True,PREFLOP,4900,5060,40,"[Qh,3c]",,"Guest84440 checks.
+"
+25,3,"13:12:04,978",10,20,False,FLOP,4900,5060,40,"[Qh,3c]","[4d,Kc,Ad]","FLOP [board cards 4d,Kc,Ad]
+"
+26,3,"13:12:10,193",10,20,True,FLOP,4900,5040,60,"[Qh,3c]","[4d,Kc,Ad]","Guest84440 bets $20.
+"
+27,3,"13:12:13,031",10,20,False,FLOP,4880,5040,80,"[Qh,3c]","[4d,Kc,Ad]","Guest15166 calls $20.
+"
+28,3,"13:12:14,031",10,20,False,TURN,4880,5040,80,"[Qh,3c]","[4d,Kc,Ad,6h]","TURN [board cards 4d,Kc,Ad,6h]
+"
+29,3,"13:12:15,950",10,20,True,TURN,4880,5020,100,"[Qh,3c]","[4d,Kc,Ad,6h]","Guest84440 bets $20.
+"
+30,3,"13:12:17,807",10,20,False,TURN,4860,5020,120,"[Qh,3c]","[4d,Kc,Ad,6h]","Guest15166 calls $20.
+"
+31,3,"13:12:17,855",10,20,False,RIVER,4860,5020,120,"[Qh,3c]","[4d,Kc,Ad,6h,3s]","RIVER [board cards 4d,Kc,Ad,6h,3s]
+"
+32,3,"13:12:23,900",10,20,True,RIVER,4860,5000,140,"[Qh,3c]","[4d,Kc,Ad,6h,3s]","Guest84440 bets $20.
+"
+33,3,"13:12:25,467",10,20,False,RIVER,4820,5000,180,"[Qh,3c]","[4d,Kc,Ad,6h,3s]","Guest15166 bets $40.
+"
+34,3,"13:12:29,430",10,20,True,RIVER,4820,4980,200,"[Qh,3c]","[4d,Kc,Ad,6h,3s]","Guest84440 calls $20.
+"
+34,3,"13:12:29,430",10,20,False,RIVER,4820,4980,200,"[Qh,3c]","[4d,Kc,Ad,6h,3s]","Guest15166 shows [ Qh,3c] - One Pair, Threes
+"
+34,3,"13:12:29,430",10,20,False,RIVER,4820,4980,200,"[Qh,3c]","[4d,Kc,Ad,6h,3s]","Guest84440 shows [ 4s,Ah] - Two Pair, Aces and Fours
+"
+35,3,"13:12:29,465",10,20,False,RIVER,4820,5180,0,"[Qh,3c]","[4d,Kc,Ad,6h,3s]","Guest84440 wins $200
+"
+36,4,"13:12:36,559",10,20,False,PREFLOP,4800,5170,30,"[Ad,Th]",,"PREFLOP
+"
+37,4,"13:12:44,893",10,20,True,PREFLOP,4800,5170,30,"[Ad,Th]",,"Guest84440 folds.
+"
+38,4,"13:12:44,907",10,20,False,PREFLOP,4830,5170,0,"[Ad,Th]",,"Guest15166 wins $30
+"
+39,4,"13:12:50,348",10,20,False,PREFLOP,4830,5170,0,"[Ad,Th]",,"Guest15166 shows [Ad,Th]
+"
+40,5,"13:12:52,026",10,20,True,PREFLOP,4820,5150,30,"[Qc,7h]",,"PREFLOP
+"
+41,5,"13:12:57,370",10,20,False,PREFLOP,4810,5150,40,"[Qc,7h]",,"Guest15166 calls $10.
+"
+42,5,"13:12:57,536",10,20,True,PREFLOP,4810,5150,40,"[Qc,7h]",,"Guest84440 checks.
+"
+43,5,"13:12:57,584",10,20,False,FLOP,4810,5150,40,"[Qc,7h]","[Ts,Tc,4c]","FLOP [board cards Ts,Tc,4c]
+"
+44,5,"13:13:03,633",10,20,True,FLOP,4810,5150,40,"[Qc,7h]","[Ts,Tc,4c]","Guest84440 checks.
+"
+45,5,"13:13:05,215",10,20,False,FLOP,4810,5150,40,"[Qc,7h]","[Ts,Tc,4c]","Guest15166 checks.
+"
+46,5,"13:13:05,266",10,20,False,TURN,4810,5150,40,"[Qc,7h]","[Ts,Tc,4c,9d]","TURN [board cards Ts,Tc,4c,9d]
+"
+47,5,"13:13:07,625",10,20,True,TURN,4810,5150,40,"[Qc,7h]","[Ts,Tc,4c,9d]","Guest84440 checks.
+"
+48,5,"13:13:08,286",10,20,False,TURN,4810,5150,40,"[Qc,7h]","[Ts,Tc,4c,9d]","Guest15166 checks.
+"
+49,5,"13:13:08,337",10,20,False,RIVER,4810,5150,40,"[Qc,7h]","[Ts,Tc,4c,9d,3d]","RIVER [board cards Ts,Tc,4c,9d,3d]
+"
+50,5,"13:13:11,823",10,20,True,RIVER,4810,5150,40,"[Qc,7h]","[Ts,Tc,4c,9d,3d]","Guest84440 checks.
+"
+51,5,"13:13:12,716",10,20,False,RIVER,4810,5150,40,"[Qc,7h]","[Ts,Tc,4c,9d,3d]","Guest15166 checks.
+"
+51,5,"13:13:12,716",10,20,False,RIVER,4810,5150,40,"[Qc,7h]","[Ts,Tc,4c,9d,3d]","Guest84440 shows [ 8s,Qh] - One Pair, Tens
+"
+52,5,"13:13:12,768",10,20,False,RIVER,4810,5190,0,"[Qc,7h]","[Ts,Tc,4c,9d,3d]","Guest84440 wins $40
+"
+53,5,"13:13:15,426",10,20,False,RIVER,4810,5190,0,"[Qc,7h]","[Ts,Tc,4c,9d,3d]","Guest15166 shows [ Qc,7h] - One Pair, Tens, fifth card Seven
+"
+54,6,"13:13:19,836",10,20,False,PREFLOP,4790,5180,30,"[Qs,2c]",,"PREFLOP
+"
+55,6,"13:13:22,780",10,20,True,PREFLOP,4790,5170,40,"[Qs,2c]",,"Guest84440 calls $10.
+"
+56,6,"13:13:27,059",10,20,False,PREFLOP,4790,5170,40,"[Qs,2c]",,"Guest15166 checks.
+"
+57,6,"13:13:27,110",10,20,True,FLOP,4790,5170,40,"[Qs,2c]","[Jd,Ks,9h]","FLOP [board cards Jd,Ks,9h]
+"
+58,6,"13:13:32,296",10,20,False,FLOP,4790,5170,40,"[Qs,2c]","[Jd,Ks,9h]","Guest15166 checks.
+"
+59,6,"13:13:32,455",10,20,True,FLOP,4790,5170,40,"[Qs,2c]","[Jd,Ks,9h]","Guest84440 checks.
+"
+60,6,"13:13:32,506",10,20,True,TURN,4790,5170,40,"[Qs,2c]","[Jd,Ks,9h,Qh]","TURN [board cards Jd,Ks,9h,Qh]
+"
+61,6,"13:13:35,363",10,20,False,TURN,4770,5170,60,"[Qs,2c]","[Jd,Ks,9h,Qh]","Guest15166 bets $20.
+"
+62,6,"13:13:39,606",10,20,True,TURN,4770,5150,80,"[Qs,2c]","[Jd,Ks,9h,Qh]","Guest84440 calls $20.
+"
+63,6,"13:13:39,616",10,20,True,RIVER,4770,5150,80,"[Qs,2c]","[Jd,Ks,9h,Qh,Kc]","RIVER [board cards Jd,Ks,9h,Qh,Kc]
+"
+64,6,"13:13:43,588",10,20,False,RIVER,4750,5150,100,"[Qs,2c]","[Jd,Ks,9h,Qh,Kc]","Guest15166 bets $20.
+"
+65,6,"13:13:53,808",10,20,True,RIVER,4750,5150,100,"[Qs,2c]","[Jd,Ks,9h,Qh,Kc]","Guest84440 folds.
+"
+66,6,"13:13:53,820",10,20,False,RIVER,4850,5150,0,"[Qs,2c]","[Jd,Ks,9h,Qh,Kc]","Guest15166 wins $100
+"
+67,6,"13:13:56,175",10,20,False,RIVER,4850,5150,0,"[Qs,2c]","[Jd,Ks,9h,Qh,Kc]","Guest15166 shows [Qs,2c]
+"
+68,7,"13:14:00,830",10,20,True,PREFLOP,4840,5130,30,"[5c,6c]",,"PREFLOP
+"
+69,7,"13:14:04,368",10,20,False,PREFLOP,4830,5130,40,"[5c,6c]",,"Guest15166 calls $10.
+"
+70,7,"13:14:07,427",10,20,True,PREFLOP,4830,5130,40,"[5c,6c]",,"Guest84440 checks.
+"
+71,7,"13:14:07,600",10,20,False,FLOP,4830,5130,40,"[5c,6c]","[Kd,9s,8c]","FLOP [board cards Kd,9s,8c]
+"
+72,7,"13:14:12,534",10,20,True,FLOP,4830,5130,40,"[5c,6c]","[Kd,9s,8c]","Guest84440 checks.
+"
+73,7,"13:14:13,374",10,20,False,FLOP,4830,5130,40,"[5c,6c]","[Kd,9s,8c]","Guest15166 checks.
+"
+74,7,"13:14:13,424",10,20,False,TURN,4830,5130,40,"[5c,6c]","[Kd,9s,8c,3d]","TURN [board cards Kd,9s,8c,3d]
+"
+75,7,"13:14:17,155",10,20,True,TURN,4830,5130,40,"[5c,6c]","[Kd,9s,8c,3d]","Guest84440 checks.
+"
+76,7,"13:14:17,285",10,20,False,TURN,4830,5130,40,"[5c,6c]","[Kd,9s,8c,3d]","Guest15166 checks.
+"
+77,7,"13:14:17,344",10,20,False,RIVER,4830,5130,40,"[5c,6c]","[Kd,9s,8c,3d,Qs]","RIVER [board cards Kd,9s,8c,3d,Qs]
+"
+78,7,"13:14:20,023",10,20,True,RIVER,4830,5130,40,"[5c,6c]","[Kd,9s,8c,3d,Qs]","Guest84440 checks.
+"
+79,7,"13:14:20,127",10,20,False,RIVER,4830,5130,40,"[5c,6c]","[Kd,9s,8c,3d,Qs]","Guest15166 checks.
+"
+79,7,"13:14:20,127",10,20,False,RIVER,4830,5130,40,"[5c,6c]","[Kd,9s,8c,3d,Qs]","Guest84440 shows [ 4c,7h] - High Card, King
+"
+80,7,"13:14:20,179",10,20,False,RIVER,4830,5170,0,"[5c,6c]","[Kd,9s,8c,3d,Qs]","Guest84440 wins $40
+"
+81,7,"13:14:22,713",10,20,False,RIVER,4830,5170,0,"[5c,6c]","[Kd,9s,8c,3d,Qs]","Guest15166 shows [ 5c,6c] - High Card, King, fifth card Six
+"
+82,8,"13:14:27,258",10,20,False,PREFLOP,4810,5160,30,"[?s,?h]",,"PREFLOP
+"
+83,8,"13:14:30,160",10,20,True,PREFLOP,4810,5150,40,"[?s,?h]",,"Guest84440 calls $10.
+"
+84,8,"13:14:31,934",10,20,False,PREFLOP,4810,5150,40,"[?s,?h]",,"Guest15166 checks.
+"
+85,8,"13:14:31,983",10,20,True,FLOP,4810,5150,40,"[?s,?h]","[4d,Kc,7s]","FLOP [board cards 4d,Kc,7s]
+"
+86,8,"13:14:38,574",10,20,False,FLOP,4810,5150,40,"[?s,?h]","[4d,Kc,7s]","Guest15166 checks.
+"
+87,8,"13:14:38,967",10,20,True,FLOP,4810,5130,60,"[?s,?h]","[4d,Kc,7s]","Guest84440 bets $20.
+"
+88,8,"13:14:40,358",10,20,False,FLOP,4810,5130,60,"[?s,?h]","[4d,Kc,7s]","Guest15166 folds.
+"
+89,8,"13:14:40,423",10,20,False,FLOP,4810,5190,0,"[?s,?h]","[4d,Kc,7s]","Guest84440 wins $60
+"
+90,8,"13:14:42,548",10,20,False,FLOP,4810,5190,0,"[?s,?h]","[4d,Kc,7s]","Guest84440 shows [Ac,7d]
+"
+91,9,"13:14:47,531",20,40,True,PREFLOP,4790,5150,60,"[6d,5c]",,"PREFLOP
+"
+92,9,"13:14:53,482",20,40,False,PREFLOP,4770,5150,80,"[6d,5c]",,"Guest15166 calls $20.
+"
+93,9,"13:14:53,647",20,40,True,PREFLOP,4770,5110,120,"[6d,5c]",,"Guest84440 bets $40.
+"
+94,9,"13:15:00,578",20,40,False,PREFLOP,4730,5110,160,"[6d,5c]",,"Guest15166 calls $40.
+"
+95,9,"13:15:00,628",20,40,False,FLOP,4730,5110,160,"[6d,5c]","[6c,7s,8d]","FLOP [board cards 6c,7s,8d]
+"
+96,9,"13:15:09,072",20,40,True,FLOP,4730,5070,200,"[6d,5c]","[6c,7s,8d]","Guest84440 bets $40.
+"
+97,9,"13:15:13,361",20,40,False,FLOP,4650,5070,280,"[6d,5c]","[6c,7s,8d]","Guest15166 bets $80.
+"
+98,9,"13:15:16,409",20,40,True,FLOP,4650,5030,320,"[6d,5c]","[6c,7s,8d]","Guest84440 calls $40.
+"
+99,9,"13:15:16,459",20,40,False,TURN,4650,5030,320,"[6d,5c]","[6c,7s,8d,Jc]","TURN [board cards 6c,7s,8d,Jc]
+"
+100,9,"13:15:21,463",20,40,True,TURN,4650,5030,320,"[6d,5c]","[6c,7s,8d,Jc]","Guest84440 checks.
+"
+101,9,"13:15:21,574",20,40,False,TURN,4650,5030,320,"[6d,5c]","[6c,7s,8d,Jc]","Guest15166 checks.
+"
+102,9,"13:15:21,624",20,40,False,RIVER,4650,5030,320,"[6d,5c]","[6c,7s,8d,Jc,5d]","RIVER [board cards 6c,7s,8d,Jc,5d]
+"
+103,9,"13:15:23,859",20,40,True,RIVER,4650,5030,320,"[6d,5c]","[6c,7s,8d,Jc,5d]","Guest84440 checks.
+"
+104,9,"13:15:24,811",20,40,False,RIVER,4610,5030,360,"[6d,5c]","[6c,7s,8d,Jc,5d]","Guest15166 bets $40.
+"
+105,9,"13:15:28,219",20,40,True,RIVER,4610,4990,400,"[6d,5c]","[6c,7s,8d,Jc,5d]","Guest84440 calls $40.
+"
+105,9,"13:15:28,219",20,40,False,RIVER,4610,4990,400,"[6d,5c]","[6c,7s,8d,Jc,5d]","Guest15166 shows [ 6d,5c] - Two Pair, Sixes and Fives
+"
+105,9,"13:15:28,219",20,40,False,RIVER,4610,4990,400,"[6d,5c]","[6c,7s,8d,Jc,5d]","Guest84440 shows [ 4s,8s] - Straight, Eight high
+"
+106,9,"13:15:28,255",20,40,False,RIVER,4610,5390,0,"[6d,5c]","[6c,7s,8d,Jc,5d]","Guest84440 wins $400
+"
+107,10,"13:15:35,346",20,40,False,PREFLOP,4570,5370,60,"[6d,Jh]",,"PREFLOP
+"
+108,10,"13:15:38,255",20,40,True,PREFLOP,4570,5310,120,"[6d,Jh]",,"Guest84440 bets $60.
+"
+109,10,"13:15:41,680",20,40,False,PREFLOP,4530,5310,160,"[6d,Jh]",,"Guest15166 calls $40.
+"
+110,10,"13:15:41,730",20,40,True,FLOP,4530,5310,160,"[6d,Jh]","[6c,9s,4d]","FLOP [board cards 6c,9s,4d]
+"
+111,10,"13:15:48,352",20,40,False,FLOP,4480,5310,210,"[6d,Jh]","[6c,9s,4d]","Guest15166 bets $50.
+"
+112,10,"13:15:51,875",20,40,True,FLOP,4480,5260,260,"[6d,Jh]","[6c,9s,4d]","Guest84440 calls $50.
+"
+113,10,"13:15:51,887",20,40,True,TURN,4480,5260,260,"[6d,Jh]","[6c,9s,4d,5h]","TURN [board cards 6c,9s,4d,5h]
+"
+114,10,"13:15:56,586",20,40,False,TURN,4480,5260,260,"[6d,Jh]","[6c,9s,4d,5h]","Guest15166 checks.
+"
+115,10,"13:15:56,763",20,40,True,TURN,4480,5260,260,"[6d,Jh]","[6c,9s,4d,5h]","Guest84440 checks.
+"
+116,10,"13:15:56,812",20,40,True,RIVER,4480,5260,260,"[6d,Jh]","[6c,9s,4d,5h,2s]","RIVER [board cards 6c,9s,4d,5h,2s]
+"
+117,10,"13:16:01,300",20,40,False,RIVER,4480,5260,260,"[6d,Jh]","[6c,9s,4d,5h,2s]","Guest15166 checks.
+"
+118,10,"13:16:01,459",20,40,True,RIVER,4480,5260,260,"[6d,Jh]","[6c,9s,4d,5h,2s]","Guest84440 checks.
+"
+118,10,"13:16:01,459",20,40,False,RIVER,4480,5260,260,"[6d,Jh]","[6c,9s,4d,5h,2s]","Guest15166 shows [ 6d,Jh] - One Pair, Sixes
+"
+118,10,"13:16:01,459",20,40,False,RIVER,4480,5260,260,"[6d,Jh]","[6c,9s,4d,5h,2s]","Guest84440 shows [ 7s,7h] - One Pair, Sevens
+"
+119,10,"13:16:01,510",20,40,False,RIVER,4480,5520,0,"[6d,Jh]","[6c,9s,4d,5h,2s]","Guest84440 wins $260
+"
+120,11,"13:16:08,635",20,40,True,PREFLOP,4460,5480,60,"[7c,Qd]",,"PREFLOP
+"
+121,11,"13:16:11,308",20,40,False,PREFLOP,4440,5480,80,"[7c,Qd]",,"Guest15166 calls $20.
+"
+122,11,"13:16:11,485",20,40,True,PREFLOP,4440,5440,120,"[7c,Qd]",,"Guest84440 bets $40.
+"
+123,11,"13:16:14,369",20,40,False,PREFLOP,4400,5440,160,"[7c,Qd]",,"Guest15166 calls $40.
+"
+124,11,"13:16:14,428",20,40,False,FLOP,4400,5440,160,"[7c,Qd]","[4h,4c,5h]","FLOP [board cards 4h,4c,5h]
+"
+125,11,"13:16:19,527",20,40,True,FLOP,4400,5440,160,"[7c,Qd]","[4h,4c,5h]","Guest84440 checks.
+"
+126,11,"13:16:19,889",20,40,False,FLOP,4400,5440,160,"[7c,Qd]","[4h,4c,5h]","Guest15166 checks.
+"
+127,11,"13:16:19,905",20,40,False,TURN,4400,5440,160,"[7c,Qd]","[4h,4c,5h,Jh]","TURN [board cards 4h,4c,5h,Jh]
+"
+128,11,"13:16:22,799",20,40,True,TURN,4400,5440,160,"[7c,Qd]","[4h,4c,5h,Jh]","Guest84440 checks.
+"
+129,11,"13:16:22,916",20,40,False,TURN,4400,5440,160,"[7c,Qd]","[4h,4c,5h,Jh]","Guest15166 checks.
+"
+130,11,"13:16:22,967",20,40,False,RIVER,4400,5440,160,"[7c,Qd]","[4h,4c,5h,Jh,8h]","RIVER [board cards 4h,4c,5h,Jh,8h]
+"
+131,11,"13:16:25,259",20,40,True,RIVER,4400,5440,160,"[7c,Qd]","[4h,4c,5h,Jh,8h]","Guest84440 checks.
+"
+132,11,"13:16:25,796",20,40,False,RIVER,4400,5440,160,"[7c,Qd]","[4h,4c,5h,Jh,8h]","Guest15166 checks.
+"
+132,11,"13:16:25,796",20,40,False,RIVER,4400,5440,160,"[7c,Qd]","[4h,4c,5h,Jh,8h]","Guest84440 shows [ Kc,9c] - One Pair, Fours
+"
+133,11,"13:16:25,847",20,40,False,RIVER,4400,5600,0,"[7c,Qd]","[4h,4c,5h,Jh,8h]","Guest84440 wins $160
+"
+134,11,"13:16:27,930",20,40,False,RIVER,4400,5600,0,"[7c,Qd]","[4h,4c,5h,Jh,8h]","Guest15166 shows [ 7c,Qd] - One Pair, Fours, third card Queen
+"
+135,12,"13:16:33,003",20,40,False,PREFLOP,4360,5580,60,"[Qd,Td]",,"PREFLOP
+"
+136,12,"13:16:38,057",20,40,True,PREFLOP,4360,5560,80,"[Qd,Td]",,"Guest84440 calls $20.
+"
+137,12,"13:16:38,183",20,40,False,PREFLOP,4360,5560,80,"[Qd,Td]",,"Guest15166 checks.
+"
+138,12,"13:16:38,234",20,40,True,FLOP,4360,5560,80,"[Qd,Td]","[Ks,2d,As]","FLOP [board cards Ks,2d,As]
+"
+139,12,"13:16:54,507",20,40,False,FLOP,4360,5560,80,"[Qd,Td]","[Ks,2d,As]","Guest15166 checks.
+"
+140,12,"13:16:54,664",20,40,True,FLOP,4360,5560,80,"[Qd,Td]","[Ks,2d,As]","Guest84440 checks.
+"
+141,12,"13:16:54,714",20,40,True,TURN,4360,5560,80,"[Qd,Td]","[Ks,2d,As,9d]","TURN [board cards Ks,2d,As,9d]
+"
+142,12,"13:16:57,602",20,40,False,TURN,4320,5560,120,"[Qd,Td]","[Ks,2d,As,9d]","Guest15166 bets $40.
+"
+143,12,"13:16:58,013",20,40,True,TURN,4320,5480,200,"[Qd,Td]","[Ks,2d,As,9d]","Guest84440 bets $80.
+"
+144,12,"13:16:59,804",20,40,False,TURN,4280,5480,240,"[Qd,Td]","[Ks,2d,As,9d]","Guest15166 calls $40.
+"
+145,12,"13:16:59,856",20,40,True,RIVER,4280,5480,240,"[Qd,Td]","[Ks,2d,As,9d,6s]","RIVER [board cards Ks,2d,As,9d,6s]
+"
+146,12,"13:17:04,194",20,40,False,RIVER,4280,5480,240,"[Qd,Td]","[Ks,2d,As,9d,6s]","Guest15166 checks.
+"
+147,12,"13:17:04,357",20,40,True,RIVER,4280,5440,280,"[Qd,Td]","[Ks,2d,As,9d,6s]","Guest84440 bets $40.
+"
+148,12,"13:17:06,213",20,40,False,RIVER,4240,5440,320,"[Qd,Td]","[Ks,2d,As,9d,6s]","Guest15166 calls $40.
+"
+148,12,"13:17:06,213",20,40,False,RIVER,4240,5440,320,"[Qd,Td]","[Ks,2d,As,9d,6s]","Guest84440 shows [ 4c,9h] - One Pair, Nines
+"
+149,12,"13:17:06,262",20,40,False,RIVER,4240,5760,0,"[Qd,Td]","[Ks,2d,As,9d,6s]","Guest84440 wins $320
+"
+150,12,"13:17:08,611",20,40,False,RIVER,4240,5760,0,"[Qd,Td]","[Ks,2d,As,9d,6s]","Guest15166 shows [ Qd,Td] - High Card, Ace
+"
+151,13,"13:17:13,341",20,40,True,PREFLOP,4220,5720,60,"[Ad,Kd]",,"PREFLOP
+"
+152,13,"13:17:15,128",20,40,False,PREFLOP,4200,5720,80,"[Ad,Kd]",,"Guest15166 calls $20.
+"
+153,13,"13:17:17,891",20,40,True,PREFLOP,4200,5720,80,"[Ad,Kd]",,"Guest84440 checks.
+"
+154,13,"13:17:17,914",20,40,False,FLOP,4200,5720,80,"[Ad,Kd]","[5d,8c,9h]","FLOP [board cards 5d,8c,9h]
+"
+155,13,"13:17:23,079",20,40,True,FLOP,4200,5680,120,"[Ad,Kd]","[5d,8c,9h]","Guest84440 bets $40.
+"
+156,13,"13:17:23,224",20,40,False,FLOP,4120,5680,200,"[Ad,Kd]","[5d,8c,9h]","Guest15166 bets $80.
+"
+157,13,"13:17:29,974",20,40,True,FLOP,4120,5640,240,"[Ad,Kd]","[5d,8c,9h]","Guest84440 calls $40.
+"
+158,13,"13:17:29,986",20,40,False,TURN,4120,5640,240,"[Ad,Kd]","[5d,8c,9h,3h]","TURN [board cards 5d,8c,9h,3h]
+"
+159,13,"13:17:32,085",20,40,True,TURN,4120,5640,240,"[Ad,Kd]","[5d,8c,9h,3h]","Guest84440 checks.
+"
+160,13,"13:17:34,070",20,40,False,TURN,4120,5640,240,"[Ad,Kd]","[5d,8c,9h,3h]","Guest15166 checks.
+"
+161,13,"13:17:34,121",20,40,False,RIVER,4120,5640,240,"[Ad,Kd]","[5d,8c,9h,3h,4s]","RIVER [board cards 5d,8c,9h,3h,4s]
+"
+162,13,"13:17:36,261",20,40,True,RIVER,4120,5640,240,"[Ad,Kd]","[5d,8c,9h,3h,4s]","Guest84440 checks.
+"
+163,13,"13:17:36,880",20,40,False,RIVER,4120,5640,240,"[Ad,Kd]","[5d,8c,9h,3h,4s]","Guest15166 checks.
+"
+163,13,"13:17:36,880",20,40,False,RIVER,4120,5640,240,"[Ad,Kd]","[5d,8c,9h,3h,4s]","Guest15166 shows [ Ad,Kd] - High Card, Ace
+"
+163,13,"13:17:36,880",20,40,False,RIVER,4120,5640,240,"[Ad,Kd]","[5d,8c,9h,3h,4s]","Guest84440 shows [ 5s,Qh] - One Pair, Fives
+"
+164,13,"13:17:36,942",20,40,False,RIVER,4120,5880,0,"[Ad,Kd]","[5d,8c,9h,3h,4s]","Guest84440 wins $240
+"
+165,14,"13:17:44,001",20,40,False,PREFLOP,4080,5860,60,"[?s,?h]",,"PREFLOP
+"
+166,14,"13:17:47,075",20,40,True,PREFLOP,4080,5800,120,"[?s,?h]",,"Guest84440 bets $60.
+"
+167,14,"13:17:51,113",20,40,False,PREFLOP,4040,5800,160,"[?s,?h]",,"Guest15166 calls $40.
+"
+168,14,"13:17:51,162",20,40,True,FLOP,4040,5800,160,"[?s,?h]","[Kc,Td,5c]","FLOP [board cards Kc,Td,5c]
+"
+169,14,"13:17:56,305",20,40,False,FLOP,4040,5800,160,"[?s,?h]","[Kc,Td,5c]","Guest15166 folds.
+"
+170,14,"13:17:56,367",20,40,False,FLOP,4040,5960,0,"[?s,?h]","[Kc,Td,5c]","Guest84440 wins $160
+"
+171,15,"13:18:03,520",20,40,True,PREFLOP,4020,5920,60,"[Qd,8d]",,"PREFLOP
+"
+172,15,"13:18:06,176",20,40,False,PREFLOP,4000,5920,80,"[Qd,8d]",,"Guest15166 calls $20.
+"
+173,15,"13:18:06,632",20,40,True,PREFLOP,4000,5880,120,"[Qd,8d]",,"Guest84440 bets $40.
+"
+174,15,"13:18:07,739",20,40,False,PREFLOP,3920,5880,200,"[Qd,8d]",,"Guest15166 bets $80.
+"
+175,15,"13:18:09,091",20,40,True,PREFLOP,3920,5840,240,"[Qd,8d]",,"Guest84440 calls $40.
+"
+176,15,"13:18:09,103",20,40,False,FLOP,3920,5840,240,"[Qd,8d]","[5s,7s,7d]","FLOP [board cards 5s,7s,7d]
+"
+177,15,"13:18:14,247",20,40,True,FLOP,3920,5800,280,"[Qd,8d]","[5s,7s,7d]","Guest84440 bets $40.
+"
+178,15,"13:18:16,865",20,40,False,FLOP,3840,5800,360,"[Qd,8d]","[5s,7s,7d]","Guest15166 bets $80.
+"
+179,15,"13:18:18,000",20,40,True,FLOP,3840,5720,440,"[Qd,8d]","[5s,7s,7d]","Guest84440 bets $80.
+"
+180,15,"13:18:19,434",20,40,False,FLOP,3800,5720,480,"[Qd,8d]","[5s,7s,7d]","Guest15166 calls $40.
+"
+181,15,"13:18:19,484",20,40,False,TURN,3800,5720,480,"[Qd,8d]","[5s,7s,7d,Ad]","TURN [board cards 5s,7s,7d,Ad]
+"
+182,15,"13:18:21,630",20,40,True,TURN,3800,5720,480,"[Qd,8d]","[5s,7s,7d,Ad]","Guest84440 checks.
+"
+183,15,"13:18:23,203",20,40,False,TURN,3800,5720,480,"[Qd,8d]","[5s,7s,7d,Ad]","Guest15166 checks.
+"
+184,15,"13:18:23,255",20,40,False,RIVER,3800,5720,480,"[Qd,8d]","[5s,7s,7d,Ad,2s]","RIVER [board cards 5s,7s,7d,Ad,2s]
+"
+185,15,"13:18:25,374",20,40,True,RIVER,3800,5680,520,"[Qd,8d]","[5s,7s,7d,Ad,2s]","Guest84440 bets $40.
+"
+186,15,"13:18:27,344",20,40,False,RIVER,3760,5680,560,"[Qd,8d]","[5s,7s,7d,Ad,2s]","Guest15166 calls $40.
+"
+186,15,"13:18:27,344",20,40,False,RIVER,3760,5680,560,"[Qd,8d]","[5s,7s,7d,Ad,2s]","Guest84440 shows [ Ts,As] - Flush, Ace high
+"
+187,15,"13:18:27,393",20,40,False,RIVER,3760,6240,0,"[Qd,8d]","[5s,7s,7d,Ad,2s]","Guest84440 wins $560
+"
+188,15,"13:18:29,209",20,40,False,RIVER,3760,6240,0,"[Qd,8d]","[5s,7s,7d,Ad,2s]","Guest15166 shows [ Qd,8d] - One Pair, Sevens
+"
+189,16,"13:18:34,527",20,40,False,PREFLOP,3720,6220,60,"[Qd,5h]",,"PREFLOP
+"
+190,16,"13:18:38,339",20,40,True,PREFLOP,3720,6200,80,"[Qd,5h]",,"Guest84440 calls $20.
+"
+191,16,"13:18:38,878",20,40,False,PREFLOP,3720,6200,80,"[Qd,5h]",,"Guest15166 checks.
+"
+192,16,"13:18:38,927",20,40,True,FLOP,3720,6200,80,"[Qd,5h]","[9d,As,4h]","FLOP [board cards 9d,As,4h]
+"
+193,16,"13:18:44,079",20,40,False,FLOP,3720,6200,80,"[Qd,5h]","[9d,As,4h]","Guest15166 checks.
+"
+194,16,"13:18:44,274",20,40,True,FLOP,3720,6200,80,"[Qd,5h]","[9d,As,4h]","Guest84440 checks.
+"
+195,16,"13:18:44,324",20,40,True,TURN,3720,6200,80,"[Qd,5h]","[9d,As,4h,6c]","TURN [board cards 9d,As,4h,6c]
+"
+196,16,"13:18:49,839",20,40,False,TURN,3720,6200,80,"[Qd,5h]","[9d,As,4h,6c]","Guest15166 checks.
+"
+197,16,"13:18:49,997",20,40,True,TURN,3720,6200,80,"[Qd,5h]","[9d,As,4h,6c]","Guest84440 checks.
+"
+198,16,"13:18:50,047",20,40,True,RIVER,3720,6200,80,"[Qd,5h]","[9d,As,4h,6c,9c]","RIVER [board cards 9d,As,4h,6c,9c]
+"
+199,16,"13:18:54,186",20,40,False,RIVER,3720,6200,80,"[Qd,5h]","[9d,As,4h,6c,9c]","Guest15166 checks.
+"
+200,16,"13:18:54,415",20,40,True,RIVER,3720,6200,80,"[Qd,5h]","[9d,As,4h,6c,9c]","Guest84440 checks.
+"
+200,16,"13:18:54,415",20,40,False,RIVER,3720,6200,80,"[Qd,5h]","[9d,As,4h,6c,9c]","Guest15166 shows [ Qd,5h] - One Pair, Nines
+"
+201,16,"13:18:54,466",20,40,False,RIVER,3800,6200,0,"[Qd,5h]","[9d,As,4h,6c,9c]","Guest15166 wins $80
+"
+202,16,"13:18:57,833",20,40,False,RIVER,3800,6200,0,"[Qd,5h]","[9d,As,4h,6c,9c]","Guest84440 shows [ 3c,7c] - One Pair, Nines, fourth card Seven
+"
+203,17,"13:19:01,585",40,80,True,PREFLOP,3760,6120,120,"[Ah,Jc]",,"PREFLOP
+"
+204,17,"13:19:05,966",40,80,False,PREFLOP,3720,6120,160,"[Ah,Jc]",,"Guest15166 calls $40.
+"
+205,17,"13:19:06,332",40,80,True,PREFLOP,3720,6120,160,"[Ah,Jc]",,"Guest84440 checks.
+"
+206,17,"13:19:06,344",40,80,False,FLOP,3720,6120,160,"[Ah,Jc]","[Jh,Tc,9d]","FLOP [board cards Jh,Tc,9d]
+"
+207,17,"13:19:12,988",40,80,True,FLOP,3720,6040,240,"[Ah,Jc]","[Jh,Tc,9d]","Guest84440 bets $80.
+"
+208,17,"13:19:17,181",40,80,False,FLOP,3560,6040,400,"[Ah,Jc]","[Jh,Tc,9d]","Guest15166 bets $160.
+"
+209,17,"13:19:18,723",40,80,True,FLOP,3560,5960,480,"[Ah,Jc]","[Jh,Tc,9d]","Guest84440 calls $80.
+"
+210,17,"13:19:18,735",40,80,False,TURN,3560,5960,480,"[Ah,Jc]","[Jh,Tc,9d,3s]","TURN [board cards Jh,Tc,9d,3s]
+"
+211,17,"13:19:24,048",40,80,True,TURN,3560,5880,560,"[Ah,Jc]","[Jh,Tc,9d,3s]","Guest84440 bets $80.
+"
+212,17,"13:19:27,292",40,80,False,TURN,3400,5880,720,"[Ah,Jc]","[Jh,Tc,9d,3s]","Guest15166 bets $160.
+"
+213,17,"13:19:29,065",40,80,True,TURN,3400,5720,880,"[Ah,Jc]","[Jh,Tc,9d,3s]","Guest84440 bets $160.
+"
+214,17,"13:19:31,206",40,80,False,TURN,3320,5720,960,"[Ah,Jc]","[Jh,Tc,9d,3s]","Guest15166 calls $80.
+"
+215,17,"13:19:31,256",40,80,False,RIVER,3320,5720,960,"[Ah,Jc]","[Jh,Tc,9d,3s,2d]","RIVER [board cards Jh,Tc,9d,3s,2d]
+"
+216,17,"13:19:35,868",40,80,True,RIVER,3320,5640,1040,"[Ah,Jc]","[Jh,Tc,9d,3s,2d]","Guest84440 bets $80.
+"
+217,17,"13:19:37,161",40,80,False,RIVER,3160,5640,1200,"[Ah,Jc]","[Jh,Tc,9d,3s,2d]","Guest15166 bets $160.
+"
+218,17,"13:19:39,068",40,80,True,RIVER,3160,5560,1280,"[Ah,Jc]","[Jh,Tc,9d,3s,2d]","Guest84440 calls $80.
+"
+218,17,"13:19:39,068",40,80,False,RIVER,3160,5560,1280,"[Ah,Jc]","[Jh,Tc,9d,3s,2d]","Guest15166 shows [ Ah,Jc] - One Pair, Jacks
+"
+218,17,"13:19:39,068",40,80,False,RIVER,3160,5560,1280,"[Ah,Jc]","[Jh,Tc,9d,3s,2d]","Guest84440 shows [ 3c,Td] - Two Pair, Tens and Threes
+"
+219,17,"13:19:39,101",40,80,False,RIVER,3160,6840,0,"[Ah,Jc]","[Jh,Tc,9d,3s,2d]","Guest84440 wins $1280
+"
+220,18,"13:19:46,085",40,80,False,PREFLOP,3080,6800,120,"[Ts,7s]",,"PREFLOP
+"
+221,18,"13:19:48,216",40,80,True,PREFLOP,3080,6760,160,"[Ts,7s]",,"Guest84440 calls $40.
+"
+222,18,"13:19:51,147",40,80,False,PREFLOP,3000,6760,240,"[Ts,7s]",,"Guest15166 bets $80.
+"
+223,18,"13:19:57,327",40,80,True,PREFLOP,3000,6680,320,"[Ts,7s]",,"Guest84440 calls $80.
+"
+224,18,"13:19:57,350",40,80,True,FLOP,3000,6680,320,"[Ts,7s]","[7d,Jc,Tc]","FLOP [board cards 7d,Jc,Tc]
+"
+225,18,"13:20:02,562",40,80,False,FLOP,2920,6680,400,"[Ts,7s]","[7d,Jc,Tc]","Guest15166 bets $80.
+"
+226,18,"13:20:03,472",40,80,True,FLOP,2920,6520,560,"[Ts,7s]","[7d,Jc,Tc]","Guest84440 bets $160.
+"
+227,18,"13:20:08,412",40,80,False,FLOP,2620,6520,860,"[Ts,7s]","[7d,Jc,Tc]","Guest15166 bets $300.
+"
+228,18,"13:20:10,542",40,80,True,FLOP,2620,6300,1080,"[Ts,7s]","[7d,Jc,Tc]","Guest84440 calls $220.
+"
+229,18,"13:20:10,554",40,80,True,TURN,2620,6300,1080,"[Ts,7s]","[7d,Jc,Tc,3s]","TURN [board cards 7d,Jc,Tc,3s]
+"
+230,18,"13:20:16,308",40,80,False,TURN,2420,6300,1280,"[Ts,7s]","[7d,Jc,Tc,3s]","Guest15166 bets $200.
+"
+231,18,"13:20:18,643",40,80,True,TURN,2420,6100,1480,"[Ts,7s]","[7d,Jc,Tc,3s]","Guest84440 calls $200.
+"
+232,18,"13:20:18,691",40,80,True,RIVER,2420,6100,1480,"[Ts,7s]","[7d,Jc,Tc,3s,2h]","RIVER [board cards 7d,Jc,Tc,3s,2h]
+"
+233,18,"13:20:21,559",40,80,False,RIVER,2420,6100,1480,"[Ts,7s]","[7d,Jc,Tc,3s,2h]","Guest15166 checks.
+"
+234,18,"13:20:23,952",40,80,True,RIVER,2420,6100,1480,"[Ts,7s]","[7d,Jc,Tc,3s,2h]","Guest84440 checks.
+"
+234,18,"13:20:23,952",40,80,False,RIVER,2420,6100,1480,"[Ts,7s]","[7d,Jc,Tc,3s,2h]","Guest15166 shows [ Ts,7s] - Two Pair, Tens and Sevens
+"
+235,18,"13:20:23,985",40,80,False,RIVER,3900,6100,0,"[Ts,7s]","[7d,Jc,Tc,3s,2h]","Guest15166 wins $1480
+"
+236,18,"13:20:26,409",40,80,False,RIVER,3900,6100,0,"[Ts,7s]","[7d,Jc,Tc,3s,2h]","Guest84440 shows [ 6c,3c] - One Pair, Threes
+"
+237,19,"13:20:31,077",40,80,True,PREFLOP,3860,6020,120,"[Jd,3d]",,"PREFLOP
+"
+238,19,"13:20:32,966",40,80,False,PREFLOP,3820,6020,160,"[Jd,3d]",,"Guest15166 calls $40.
+"
+239,19,"13:20:33,128",40,80,True,PREFLOP,3820,6020,160,"[Jd,3d]",,"Guest84440 checks.
+"
+240,19,"13:20:33,178",40,80,False,FLOP,3820,6020,160,"[Jd,3d]","[7s,Th,Qd]","FLOP [board cards 7s,Th,Qd]
+"
+241,19,"13:20:38,292",40,80,True,FLOP,3820,6020,160,"[Jd,3d]","[7s,Th,Qd]","Guest84440 checks.
+"
+242,19,"13:20:40,359",40,80,False,FLOP,3820,6020,160,"[Jd,3d]","[7s,Th,Qd]","Guest15166 checks.
+"
+243,19,"13:20:40,410",40,80,False,TURN,3820,6020,160,"[Jd,3d]","[7s,Th,Qd,9c]","TURN [board cards 7s,Th,Qd,9c]
+"
+244,19,"13:20:43,612",40,80,True,TURN,3820,6020,160,"[Jd,3d]","[7s,Th,Qd,9c]","Guest84440 checks.
+"
+245,19,"13:20:43,725",40,80,False,TURN,3820,6020,160,"[Jd,3d]","[7s,Th,Qd,9c]","Guest15166 checks.
+"
+246,19,"13:20:43,775",40,80,False,RIVER,3820,6020,160,"[Jd,3d]","[7s,Th,Qd,9c,9h]","RIVER [board cards 7s,Th,Qd,9c,9h]
+"
+247,19,"13:20:54,467",40,80,True,RIVER,3820,5940,240,"[Jd,3d]","[7s,Th,Qd,9c,9h]","Guest84440 bets $80.
+"
+248,19,"13:20:58,501",40,80,False,RIVER,3740,5940,320,"[Jd,3d]","[7s,Th,Qd,9c,9h]","Guest15166 calls $80.
+"
+248,19,"13:20:58,501",40,80,False,RIVER,3740,5940,320,"[Jd,3d]","[7s,Th,Qd,9c,9h]","Guest84440 shows [ 8h,Jh] - Straight, Queen high
+"
+249,19,"13:20:58,552",40,80,False,RIVER,3740,6260,0,"[Jd,3d]","[7s,Th,Qd,9c,9h]","Guest84440 wins $320
+"
+250,19,"13:21:00,657",40,80,False,RIVER,3740,6260,0,"[Jd,3d]","[7s,Th,Qd,9c,9h]","Guest15166 shows [ Jd,3d] - One Pair, Nines
+"
+251,20,"13:21:05,688",40,80,False,PREFLOP,3660,6220,120,"[3h,Ac]",,"PREFLOP
+"
+252,20,"13:21:09,827",40,80,True,PREFLOP,3660,6180,160,"[3h,Ac]",,"Guest84440 calls $40.
+"
+253,20,"13:21:09,944",40,80,False,PREFLOP,3660,6180,160,"[3h,Ac]",,"Guest15166 checks.
+"
+254,20,"13:21:09,993",40,80,True,FLOP,3660,6180,160,"[3h,Ac]","[4d,Qh,6c]","FLOP [board cards 4d,Qh,6c]
+"
+255,20,"13:21:15,801",40,80,False,FLOP,3660,6180,160,"[3h,Ac]","[4d,Qh,6c]","Guest15166 checks.
+"
+256,20,"13:21:16,280",40,80,True,FLOP,3660,6180,160,"[3h,Ac]","[4d,Qh,6c]","Guest84440 checks.
+"
+257,20,"13:21:16,290",40,80,True,TURN,3660,6180,160,"[3h,Ac]","[4d,Qh,6c,7c]","TURN [board cards 4d,Qh,6c,7c]
+"
+258,20,"13:21:22,321",40,80,False,TURN,3660,6180,160,"[3h,Ac]","[4d,Qh,6c,7c]","Guest15166 checks.
+"
+259,20,"13:21:22,479",40,80,True,TURN,3660,6180,160,"[3h,Ac]","[4d,Qh,6c,7c]","Guest84440 checks.
+"
+260,20,"13:21:22,529",40,80,True,RIVER,3660,6180,160,"[3h,Ac]","[4d,Qh,6c,7c,Tc]","RIVER [board cards 4d,Qh,6c,7c,Tc]
+"
+261,20,"13:21:24,919",40,80,False,RIVER,3660,6180,160,"[3h,Ac]","[4d,Qh,6c,7c,Tc]","Guest15166 checks.
+"
+262,20,"13:21:27,849",40,80,True,RIVER,3660,6180,160,"[3h,Ac]","[4d,Qh,6c,7c,Tc]","Guest84440 checks.
+"
+262,20,"13:21:27,849",40,80,False,RIVER,3660,6180,160,"[3h,Ac]","[4d,Qh,6c,7c,Tc]","Guest15166 shows [ 3h,Ac] - High Card, Ace
+"
+263,20,"13:21:27,884",40,80,False,RIVER,3820,6180,0,"[3h,Ac]","[4d,Qh,6c,7c,Tc]","Guest15166 wins $160
+"
+264,20,"13:21:31,945",40,80,False,RIVER,3820,6180,0,"[3h,Ac]","[4d,Qh,6c,7c,Tc]","Guest84440 shows [ Kh,9s] - High Card, King
+"
+265,21,"13:21:34,975",40,80,True,PREFLOP,3780,6100,120,"[Ts,Th]",,"PREFLOP
+"
+266,21,"13:21:40,494",40,80,False,PREFLOP,3740,6100,160,"[Ts,Th]",,"Guest15166 calls $40.
+"
+267,21,"13:21:40,659",40,80,True,PREFLOP,3740,6100,160,"[Ts,Th]",,"Guest84440 checks.
+"
+268,21,"13:21:40,708",40,80,False,FLOP,3740,6100,160,"[Ts,Th]","[6d,Kh,3c]","FLOP [board cards 6d,Kh,3c]
+"
+269,21,"13:21:45,871",40,80,True,FLOP,3740,6100,160,"[Ts,Th]","[6d,Kh,3c]","Guest84440 checks.
+"
+270,21,"13:21:46,773",40,80,False,FLOP,3540,6100,360,"[Ts,Th]","[6d,Kh,3c]","Guest15166 bets $200.
+"
+271,21,"13:21:49,762",40,80,True,FLOP,3540,5900,560,"[Ts,Th]","[6d,Kh,3c]","Guest84440 calls $200.
+"
+272,21,"13:21:49,774",40,80,False,TURN,3540,5900,560,"[Ts,Th]","[6d,Kh,3c,9s]","TURN [board cards 6d,Kh,3c,9s]
+"
+273,21,"13:21:51,906",40,80,True,TURN,3540,5900,560,"[Ts,Th]","[6d,Kh,3c,9s]","Guest84440 checks.
+"
+274,21,"13:21:53,249",40,80,False,TURN,3460,5900,640,"[Ts,Th]","[6d,Kh,3c,9s]","Guest15166 bets $80.
+"
+275,21,"13:21:55,191",40,80,True,TURN,3460,5820,720,"[Ts,Th]","[6d,Kh,3c,9s]","Guest84440 calls $80.
+"
+276,21,"13:21:55,203",40,80,False,RIVER,3460,5820,720,"[Ts,Th]","[6d,Kh,3c,9s,2s]","RIVER [board cards 6d,Kh,3c,9s,2s]
+"
+277,21,"13:21:58,054",40,80,True,RIVER,3460,5820,720,"[Ts,Th]","[6d,Kh,3c,9s,2s]","Guest84440 checks.
+"
+278,21,"13:21:58,162",40,80,False,RIVER,3380,5820,800,"[Ts,Th]","[6d,Kh,3c,9s,2s]","Guest15166 bets $80.
+"
+279,21,"13:22:00,208",40,80,True,RIVER,3380,5740,880,"[Ts,Th]","[6d,Kh,3c,9s,2s]","Guest84440 calls $80.
+"
+279,21,"13:22:00,208",40,80,False,RIVER,3380,5740,880,"[Ts,Th]","[6d,Kh,3c,9s,2s]","Guest15166 shows [ Ts,Th] - One Pair, Tens
+"
+280,21,"13:22:00,233",40,80,False,RIVER,4260,5740,0,"[Ts,Th]","[6d,Kh,3c,9s,2s]","Guest15166 wins $880
+"
+281,21,"13:22:03,181",40,80,False,RIVER,4260,5740,0,"[Ts,Th]","[6d,Kh,3c,9s,2s]","Guest84440 shows [ 3h,7d] - One Pair, Threes
+"
+282,22,"13:22:07,332",40,80,False,PREFLOP,4180,5700,120,"[Ac,5d]",,"PREFLOP
+"
+283,22,"13:22:07,432",40,80,True,PREFLOP,4180,5660,160,"[Ac,5d]",,"Guest84440 calls $40.
+"
+284,22,"13:22:09,048",40,80,False,PREFLOP,4180,5660,160,"[Ac,5d]",,"Guest15166 checks.
+"
+285,22,"13:22:09,103",40,80,True,FLOP,4180,5660,160,"[Ac,5d]","[Ks,5s,7s]","FLOP [board cards Ks,5s,7s]
+"
+286,22,"13:22:14,228",40,80,False,FLOP,4100,5660,240,"[Ac,5d]","[Ks,5s,7s]","Guest15166 bets $80.
+"
+287,22,"13:22:17,820",40,80,True,FLOP,4100,5580,320,"[Ac,5d]","[Ks,5s,7s]","Guest84440 calls $80.
+"
+288,22,"13:22:17,830",40,80,True,TURN,4100,5580,320,"[Ac,5d]","[Ks,5s,7s,As]","TURN [board cards Ks,5s,7s,As]
+"
+289,22,"13:22:23,005",40,80,False,TURN,3850,5580,570,"[Ac,5d]","[Ks,5s,7s,As]","Guest15166 bets $250.
+"
+290,22,"13:22:23,770",40,80,True,TURN,3850,5080,1070,"[Ac,5d]","[Ks,5s,7s,As]","Guest84440 bets $500.
+"
+291,22,"13:22:27,652",40,80,False,TURN,3350,5080,1570,"[Ac,5d]","[Ks,5s,7s,As]","Guest15166 bets $500.
+"
+292,22,"13:22:29,323",40,80,True,TURN,3350,4830,1820,"[Ac,5d]","[Ks,5s,7s,As]","Guest84440 calls $250.
+"
+293,22,"13:22:29,372",40,80,True,RIVER,3350,4830,1820,"[Ac,5d]","[Ks,5s,7s,As,4s]","RIVER [board cards Ks,5s,7s,As,4s]
+"
+294,22,"13:22:31,978",40,80,False,RIVER,3350,4830,1820,"[Ac,5d]","[Ks,5s,7s,As,4s]","Guest15166 checks.
+"
+295,22,"13:22:34,205",40,80,True,RIVER,3350,4830,1820,"[Ac,5d]","[Ks,5s,7s,As,4s]","Guest84440 checks.
+"
+295,22,"13:22:34,205",40,80,False,RIVER,3350,4830,1820,"[Ac,5d]","[Ks,5s,7s,As,4s]","Guest15166 shows [ Ac,5d] - Flush, Ace high, fourth card Five
+"
+295,22,"13:22:34,205",40,80,False,RIVER,3350,4830,1820,"[Ac,5d]","[Ks,5s,7s,As,4s]","Guest84440 shows [ 2d,6s] - Flush, Ace high, fourth card Six
+"
+296,22,"13:22:34,227",40,80,False,RIVER,3350,6650,0,"[Ac,5d]","[Ks,5s,7s,As,4s]","Guest84440 wins $1820
+"
+297,23,"13:22:41,293",40,80,True,PREFLOP,3310,6570,120,"[?s,?h]",,"PREFLOP
+"
+298,23,"13:22:44,101",40,80,False,PREFLOP,3270,6570,160,"[?s,?h]",,"Guest15166 calls $40.
+"
+299,23,"13:22:44,321",40,80,True,PREFLOP,3270,6570,160,"[?s,?h]",,"Guest84440 checks.
+"
+300,23,"13:22:44,374",40,80,False,FLOP,3270,6570,160,"[?s,?h]","[Js,Qs,8s]","FLOP [board cards Js,Qs,8s]
+"
+301,23,"13:22:50,694",40,80,True,FLOP,3270,6490,240,"[?s,?h]","[Js,Qs,8s]","Guest84440 bets $80.
+"
+302,23,"13:22:51,903",40,80,False,FLOP,3270,6490,240,"[?s,?h]","[Js,Qs,8s]","Guest15166 folds.
+"
+303,23,"13:22:51,966",40,80,False,FLOP,3270,6730,0,"[?s,?h]","[Js,Qs,8s]","Guest84440 wins $240
+"
+304,23,"13:22:55,607",40,80,False,FLOP,3270,6730,0,"[?s,?h]","[Js,Qs,8s]","Guest84440 shows [Ts,6s]
+"
+305,24,"13:22:59,048",40,80,False,PREFLOP,3190,6690,120,"[Td,Qd]",,"PREFLOP
+"
+306,24,"13:23:03,288",40,80,True,PREFLOP,3190,6650,160,"[Td,Qd]",,"Guest84440 calls $40.
+"
+307,24,"13:23:03,416",40,80,False,PREFLOP,3110,6650,240,"[Td,Qd]",,"Guest15166 bets $80.
+"
+308,24,"13:23:06,454",40,80,True,PREFLOP,3110,6570,320,"[Td,Qd]",,"Guest84440 calls $80.
+"
+309,24,"13:23:06,470",40,80,True,FLOP,3110,6570,320,"[Td,Qd]","[Js,2s,5c]","FLOP [board cards Js,2s,5c]
+"
+310,24,"13:23:13,797",40,80,False,FLOP,3110,6570,320,"[Td,Qd]","[Js,2s,5c]","Guest15166 checks.
+"
+311,24,"13:23:13,989",40,80,True,FLOP,3110,6570,320,"[Td,Qd]","[Js,2s,5c]","Guest84440 checks.
+"
+312,24,"13:23:14,039",40,80,True,TURN,3110,6570,320,"[Td,Qd]","[Js,2s,5c,Ts]","TURN [board cards Js,2s,5c,Ts]
+"
+313,24,"13:23:18,231",40,80,False,TURN,3030,6570,400,"[Td,Qd]","[Js,2s,5c,Ts]","Guest15166 bets $80.
+"
+314,24,"13:23:19,774",40,80,True,TURN,3030,6490,480,"[Td,Qd]","[Js,2s,5c,Ts]","Guest84440 calls $80.
+"
+315,24,"13:23:19,786",40,80,True,RIVER,3030,6490,480,"[Td,Qd]","[Js,2s,5c,Ts,7h]","RIVER [board cards Js,2s,5c,Ts,7h]
+"
+316,24,"13:23:22,723",40,80,False,RIVER,2950,6490,560,"[Td,Qd]","[Js,2s,5c,Ts,7h]","Guest15166 bets $80.
+"
+317,24,"13:23:24,066",40,80,True,RIVER,2950,6410,640,"[Td,Qd]","[Js,2s,5c,Ts,7h]","Guest84440 calls $80.
+"
+317,24,"13:23:24,066",40,80,False,RIVER,2950,6410,640,"[Td,Qd]","[Js,2s,5c,Ts,7h]","Guest15166 shows [ Td,Qd] - One Pair, Tens
+"
+317,24,"13:23:24,066",40,80,False,RIVER,2950,6410,640,"[Td,Qd]","[Js,2s,5c,Ts,7h]","Guest84440 shows [ Jd,6s] - One Pair, Jacks
+"
+318,24,"13:23:24,102",40,80,False,RIVER,2950,7050,0,"[Td,Qd]","[Js,2s,5c,Ts,7h]","Guest84440 wins $640
+"
+319,25,"13:23:31,103",80,160,True,PREFLOP,2870,6890,240,"[4d,4h]",,"PREFLOP
+"
+320,25,"13:23:35,951",80,160,False,PREFLOP,2630,6890,480,"[4d,4h]",,"Guest15166 bets $240.
+"
+321,25,"13:23:38,486",80,160,True,PREFLOP,2630,6730,640,"[4d,4h]",,"Guest84440 calls $160.
+"
+322,25,"13:23:38,498",80,160,False,FLOP,2630,6730,640,"[4d,4h]","[9h,Th,2s]","FLOP [board cards 9h,Th,2s]
+"
+323,25,"13:23:43,554",80,160,True,FLOP,2630,6730,640,"[4d,4h]","[9h,Th,2s]","Guest84440 checks.
+"
+324,25,"13:23:43,699",80,160,False,FLOP,2470,6730,800,"[4d,4h]","[9h,Th,2s]","Guest15166 bets $160.
+"
+325,25,"13:23:52,337",80,160,True,FLOP,2470,6570,960,"[4d,4h]","[9h,Th,2s]","Guest84440 calls $160.
+"
+326,25,"13:23:52,337",80,160,False,TURN,2470,6570,960,"[4d,4h]","[9h,Th,2s,Ah]","TURN [board cards 9h,Th,2s,Ah]
+"
+327,25,"13:23:54,506",80,160,True,TURN,2470,6570,960,"[4d,4h]","[9h,Th,2s,Ah]","Guest84440 checks.
+"
+328,25,"13:23:59,167",80,160,False,TURN,2310,6570,1120,"[4d,4h]","[9h,Th,2s,Ah]","Guest15166 bets $160.
+"
+329,25,"13:24:01,554",80,160,True,TURN,2310,6410,1280,"[4d,4h]","[9h,Th,2s,Ah]","Guest84440 calls $160.
+"
+330,25,"13:24:01,586",80,160,False,RIVER,2310,6410,1280,"[4d,4h]","[9h,Th,2s,Ah,Kh]","RIVER [board cards 9h,Th,2s,Ah,Kh]
+"
+331,25,"13:24:08,005",80,160,True,RIVER,2310,6410,1280,"[4d,4h]","[9h,Th,2s,Ah,Kh]","Guest84440 checks.
+"
+332,25,"13:24:08,119",80,160,False,RIVER,1810,6410,1780,"[4d,4h]","[9h,Th,2s,Ah,Kh]","Guest15166 bets $500.
+"
+333,25,"13:24:10,054",80,160,True,RIVER,1810,6410,1780,"[4d,4h]","[9h,Th,2s,Ah,Kh]","Guest84440 folds.
+"
+334,25,"13:24:11,973",80,160,False,RIVER,3590,6410,0,"[4d,4h]","[9h,Th,2s,Ah,Kh]","Guest15166 wins $1780
+"
+335,25,"13:24:17,074",80,160,False,RIVER,3590,6410,0,"[4d,4h]","[9h,Th,2s,Ah,Kh]","Guest15166 shows [4d,4h]
+"
+336,26,"13:24:17,528",80,160,False,PREFLOP,3430,6330,240,"[Kc,7c]",,"PREFLOP
+"
+337,26,"13:24:19,888",80,160,True,PREFLOP,3430,6090,480,"[Kc,7c]",,"Guest84440 bets $240.
+"
+338,26,"13:24:19,937",80,160,False,PREFLOP,3270,6090,640,"[Kc,7c]",,"Guest15166 calls $160.
+"
+339,26,"13:24:19,937",80,160,True,FLOP,3270,6090,640,"[Kc,7c]","[4c,Ks,8c]","FLOP [board cards 4c,Ks,8c]
+"
+340,26,"13:24:27,328",80,160,False,FLOP,2970,6090,940,"[Kc,7c]","[4c,Ks,8c]","Guest15166 bets $300.
+"
+341,26,"13:24:37,701",80,160,True,FLOP,2970,6090,940,"[Kc,7c]","[4c,Ks,8c]","Guest84440 folds.
+"
+342,26,"13:24:37,727",80,160,False,FLOP,3910,6090,0,"[Kc,7c]","[4c,Ks,8c]","Guest15166 wins $940
+"
+343,26,"13:24:43,088",80,160,False,FLOP,3910,6090,0,"[Kc,7c]","[4c,Ks,8c]","Guest15166 shows [Kc,7c]
+"
+344,27,"13:24:44,869",80,160,True,PREFLOP,3830,5930,240,"[Qh,8h]",,"PREFLOP
+"
+345,27,"13:24:48,422",80,160,False,PREFLOP,3750,5930,320,"[Qh,8h]",,"Guest15166 calls $80.
+"
+346,27,"13:24:48,585",80,160,True,PREFLOP,3750,5930,320,"[Qh,8h]",,"Guest84440 checks.
+"
+347,27,"13:24:48,635",80,160,False,FLOP,3750,5930,320,"[Qh,8h]","[Th,5s,6s]","FLOP [board cards Th,5s,6s]
+"
+348,27,"13:24:53,857",80,160,True,FLOP,3750,5930,320,"[Qh,8h]","[Th,5s,6s]","Guest84440 checks.
+"
+349,27,"13:24:54,002",80,160,False,FLOP,3750,5930,320,"[Qh,8h]","[Th,5s,6s]","Guest15166 checks.
+"
+350,27,"13:24:54,053",80,160,False,TURN,3750,5930,320,"[Qh,8h]","[Th,5s,6s,4c]","TURN [board cards Th,5s,6s,4c]
+"
+351,27,"13:24:58,797",80,160,True,TURN,3750,5930,320,"[Qh,8h]","[Th,5s,6s,4c]","Guest84440 checks.
+"
+352,27,"13:25:01,041",80,160,False,TURN,3750,5930,320,"[Qh,8h]","[Th,5s,6s,4c]","Guest15166 checks.
+"
+353,27,"13:25:01,088",80,160,False,RIVER,3750,5930,320,"[Qh,8h]","[Th,5s,6s,4c,6c]","RIVER [board cards Th,5s,6s,4c,6c]
+"
+354,27,"13:25:07,193",80,160,True,RIVER,3750,5930,320,"[Qh,8h]","[Th,5s,6s,4c,6c]","Guest84440 folds.
+"
+355,27,"13:25:07,229",80,160,False,RIVER,4070,5930,0,"[Qh,8h]","[Th,5s,6s,4c,6c]","Guest15166 wins $320
+"
+356,27,"13:25:09,711",80,160,False,RIVER,4070,5930,0,"[Qh,8h]","[Th,5s,6s,4c,6c]","Guest15166 shows [Qh,8h]
+"
+357,28,"13:25:14,317",80,160,False,PREFLOP,3910,5850,240,"[8d,7c]",,"PREFLOP
+"
+358,28,"13:25:17,125",80,160,True,PREFLOP,3910,5770,320,"[8d,7c]",,"Guest84440 calls $80.
+"
+359,28,"13:25:17,378",80,160,False,PREFLOP,3910,5770,320,"[8d,7c]",,"Guest15166 checks.
+"
+360,28,"13:25:17,431",80,160,True,FLOP,3910,5770,320,"[8d,7c]","[Th,4c,Kd]","FLOP [board cards Th,4c,Kd]
+"
+361,28,"13:25:23,245",80,160,False,FLOP,3910,5770,320,"[8d,7c]","[Th,4c,Kd]","Guest15166 checks.
+"
+362,28,"13:25:23,428",80,160,True,FLOP,3910,5770,320,"[8d,7c]","[Th,4c,Kd]","Guest84440 checks.
+"
+363,28,"13:25:23,479",80,160,True,TURN,3910,5770,320,"[8d,7c]","[Th,4c,Kd,Js]","TURN [board cards Th,4c,Kd,Js]
+"
+364,28,"13:25:26,634",80,160,False,TURN,3910,5770,320,"[8d,7c]","[Th,4c,Kd,Js]","Guest15166 checks.
+"
+365,28,"13:25:26,847",80,160,True,TURN,3910,5770,320,"[8d,7c]","[Th,4c,Kd,Js]","Guest84440 checks.
+"
+366,28,"13:25:26,897",80,160,True,RIVER,3910,5770,320,"[8d,7c]","[Th,4c,Kd,Js,7s]","RIVER [board cards Th,4c,Kd,Js,7s]
+"
+367,28,"13:25:30,195",80,160,False,RIVER,3750,5770,480,"[8d,7c]","[Th,4c,Kd,Js,7s]","Guest15166 bets $160.
+"
+368,28,"13:25:37,097",80,160,True,RIVER,3750,5770,480,"[8d,7c]","[Th,4c,Kd,Js,7s]","Guest84440 folds.
+"
+369,28,"13:25:37,110",80,160,False,RIVER,4230,5770,0,"[8d,7c]","[Th,4c,Kd,Js,7s]","Guest15166 wins $480
+"
+370,28,"13:25:39,155",80,160,False,RIVER,4230,5770,0,"[8d,7c]","[Th,4c,Kd,Js,7s]","Guest15166 shows [8d,7c]
+"
+371,29,"13:25:44,116",80,160,True,PREFLOP,4150,5610,240,"[2d,As]",,"PREFLOP
+"
+372,29,"13:25:47,957",80,160,False,PREFLOP,4070,5610,320,"[2d,As]",,"Guest15166 calls $80.
+"
+373,29,"13:25:49,689",80,160,True,PREFLOP,4070,5610,320,"[2d,As]",,"Guest84440 checks.
+"
+374,29,"13:25:49,701",80,160,False,FLOP,4070,5610,320,"[2d,As]","[4s,8d,Ah]","FLOP [board cards 4s,8d,Ah]
+"
+375,29,"13:25:54,847",80,160,True,FLOP,4070,5610,320,"[2d,As]","[4s,8d,Ah]","Guest84440 checks.
+"
+376,29,"13:25:54,998",80,160,False,FLOP,3910,5610,480,"[2d,As]","[4s,8d,Ah]","Guest15166 bets $160.
+"
+377,29,"13:25:57,471",80,160,True,FLOP,3910,5450,640,"[2d,As]","[4s,8d,Ah]","Guest84440 calls $160.
+"
+378,29,"13:25:57,504",80,160,False,TURN,3910,5450,640,"[2d,As]","[4s,8d,Ah,Qs]","TURN [board cards 4s,8d,Ah,Qs]
+"
+379,29,"13:25:59,930",80,160,True,TURN,3910,5450,640,"[2d,As]","[4s,8d,Ah,Qs]","Guest84440 checks.
+"
+380,29,"13:26:02,021",80,160,False,TURN,3710,5450,840,"[2d,As]","[4s,8d,Ah,Qs]","Guest15166 bets $200.
+"
+381,29,"13:26:04,166",80,160,True,TURN,3710,5250,1040,"[2d,As]","[4s,8d,Ah,Qs]","Guest84440 calls $200.
+"
+382,29,"13:26:04,216",80,160,False,RIVER,3710,5250,1040,"[2d,As]","[4s,8d,Ah,Qs,Kc]","RIVER [board cards 4s,8d,Ah,Qs,Kc]
+"
+383,29,"13:26:09,247",80,160,True,RIVER,3710,5250,1040,"[2d,As]","[4s,8d,Ah,Qs,Kc]","Guest84440 checks.
+"
+384,29,"13:26:10,046",80,160,False,RIVER,3710,5250,1040,"[2d,As]","[4s,8d,Ah,Qs,Kc]","Guest15166 checks.
+"
+384,29,"13:26:10,046",80,160,False,RIVER,3710,5250,1040,"[2d,As]","[4s,8d,Ah,Qs,Kc]","Guest15166 shows [ 2d,As] - One Pair, Aces
+"
+385,29,"13:26:10,100",80,160,False,RIVER,4750,5250,0,"[2d,As]","[4s,8d,Ah,Qs,Kc]","Guest15166 wins $1040
+"
+386,29,"13:26:14,060",80,160,False,RIVER,4750,5250,0,"[2d,As]","[4s,8d,Ah,Qs,Kc]","Guest84440 shows [ 5c,3s] - High Card, Ace
+"
+387,30,"13:26:17,192",80,160,False,PREFLOP,4590,5170,240,"[?s,?h]",,"PREFLOP
+"
+388,30,"13:26:19,795",80,160,True,PREFLOP,4590,5090,320,"[?s,?h]",,"Guest84440 calls $80.
+"
+389,30,"13:26:19,922",80,160,False,PREFLOP,4590,5090,320,"[?s,?h]",,"Guest15166 checks.
+"
+390,30,"13:26:19,974",80,160,True,FLOP,4590,5090,320,"[?s,?h]","[8h,8s,6s]","FLOP [board cards 8h,8s,6s]
+"
+391,30,"13:26:25,111",80,160,False,FLOP,4590,5090,320,"[?s,?h]","[8h,8s,6s]","Guest15166 checks.
+"
+392,30,"13:26:25,273",80,160,True,FLOP,4590,5090,320,"[?s,?h]","[8h,8s,6s]","Guest84440 checks.
+"
+393,30,"13:26:25,320",80,160,True,TURN,4590,5090,320,"[?s,?h]","[8h,8s,6s,Ks]","TURN [board cards 8h,8s,6s,Ks]
+"
+394,30,"13:26:28,847",80,160,False,TURN,4590,5090,320,"[?s,?h]","[8h,8s,6s,Ks]","Guest15166 checks.
+"
+395,30,"13:26:29,062",80,160,True,TURN,4590,4930,480,"[?s,?h]","[8h,8s,6s,Ks]","Guest84440 bets $160.
+"
+396,30,"13:26:30,765",80,160,False,TURN,4590,4930,480,"[?s,?h]","[8h,8s,6s,Ks]","Guest15166 folds.
+"
+397,30,"13:26:30,832",80,160,False,TURN,4590,5410,0,"[?s,?h]","[8h,8s,6s,Ks]","Guest84440 wins $480
+"
+398,31,"13:26:37,979",80,160,True,PREFLOP,4510,5250,240,"[?s,?h]",,"PREFLOP
+"
+399,31,"13:26:42,953",80,160,False,PREFLOP,4430,5250,320,"[?s,?h]",,"Guest15166 calls $80.
+"
+400,31,"13:26:43,133",80,160,True,PREFLOP,4430,5090,480,"[?s,?h]",,"Guest84440 bets $160.
+"
+401,31,"13:26:45,637",80,160,False,PREFLOP,4430,5090,480,"[?s,?h]",,"Guest15166 folds.
+"
+402,31,"13:26:45,698",80,160,False,PREFLOP,4430,5570,0,"[?s,?h]",,"Guest84440 wins $480
+"
+403,32,"13:26:52,830",80,160,False,PREFLOP,4270,5490,240,"[5s,4s]",,"PREFLOP
+"
+404,32,"13:26:55,532",80,160,True,PREFLOP,4270,5410,320,"[5s,4s]",,"Guest84440 calls $80.
+"
+405,32,"13:26:55,663",80,160,False,PREFLOP,4270,5410,320,"[5s,4s]",,"Guest15166 checks.
+"
+406,32,"13:26:55,703",80,160,True,FLOP,4270,5410,320,"[5s,4s]","[5d,2h,Kd]","FLOP [board cards 5d,2h,Kd]
+"
+407,32,"13:27:00,849",80,160,False,FLOP,4110,5410,480,"[5s,4s]","[5d,2h,Kd]","Guest15166 bets $160.
+"
+408,32,"13:27:02,905",80,160,True,FLOP,4110,5250,640,"[5s,4s]","[5d,2h,Kd]","Guest84440 calls $160.
+"
+409,32,"13:27:02,905",80,160,True,TURN,4110,5250,640,"[5s,4s]","[5d,2h,Kd,Td]","TURN [board cards 5d,2h,Kd,Td]
+"
+410,32,"13:27:07,475",80,160,False,TURN,3810,5250,940,"[5s,4s]","[5d,2h,Kd,Td]","Guest15166 bets $300.
+"
+411,32,"13:27:12,736",80,160,True,TURN,3810,4950,1240,"[5s,4s]","[5d,2h,Kd,Td]","Guest84440 calls $300.
+"
+412,32,"13:27:12,749",80,160,True,RIVER,3810,4950,1240,"[5s,4s]","[5d,2h,Kd,Td,Tc]","RIVER [board cards 5d,2h,Kd,Td,Tc]
+"
+413,32,"13:27:16,200",80,160,False,RIVER,3810,4950,1240,"[5s,4s]","[5d,2h,Kd,Td,Tc]","Guest15166 checks.
+"
+414,32,"13:27:16,362",80,160,True,RIVER,3810,4950,1240,"[5s,4s]","[5d,2h,Kd,Td,Tc]","Guest84440 checks.
+"
+414,32,"13:27:16,362",80,160,False,RIVER,3810,4950,1240,"[5s,4s]","[5d,2h,Kd,Td,Tc]","Guest15166 shows [ 5s,4s] - Two Pair, Tens and Fives
+"
+415,32,"13:27:16,412",80,160,False,RIVER,5050,4950,0,"[5s,4s]","[5d,2h,Kd,Td,Tc]","Guest15166 wins $1240
+"
+416,33,"13:27:23,550",160,320,True,PREFLOP,4890,4630,480,"[6s,4h]",,"PREFLOP
+"
+417,33,"13:27:26,042",160,320,False,PREFLOP,4730,4630,640,"[6s,4h]",,"Guest15166 calls $160.
+"
+418,33,"13:27:29,222",160,320,True,PREFLOP,4730,4630,640,"[6s,4h]",,"Guest84440 checks.
+"
+419,33,"13:27:29,246",160,320,False,FLOP,4730,4630,640,"[6s,4h]","[9c,Ks,Jh]","FLOP [board cards 9c,Ks,Jh]
+"
+420,33,"13:27:39,463",160,320,True,FLOP,4730,4630,640,"[6s,4h]","[9c,Ks,Jh]","Guest84440 checks.
+"
+421,33,"13:27:39,595",160,320,False,FLOP,4730,4630,640,"[6s,4h]","[9c,Ks,Jh]","Guest15166 checks.
+"
+422,33,"13:27:39,645",160,320,False,TURN,4730,4630,640,"[6s,4h]","[9c,Ks,Jh,6c]","TURN [board cards 9c,Ks,Jh,6c]
+"
+423,33,"13:27:41,878",160,320,True,TURN,4730,4630,640,"[6s,4h]","[9c,Ks,Jh,6c]","Guest84440 checks.
+"
+424,33,"13:27:43,248",160,320,False,TURN,4410,4630,960,"[6s,4h]","[9c,Ks,Jh,6c]","Guest15166 bets $320.
+"
+425,33,"13:27:45,354",160,320,True,TURN,4410,4310,1280,"[6s,4h]","[9c,Ks,Jh,6c]","Guest84440 calls $320.
+"
+426,33,"13:27:45,520",160,320,False,RIVER,4410,4310,1280,"[6s,4h]","[9c,Ks,Jh,6c,7h]","RIVER [board cards 9c,Ks,Jh,6c,7h]
+"
+427,33,"13:27:48,366",160,320,True,RIVER,4410,4310,1280,"[6s,4h]","[9c,Ks,Jh,6c,7h]","Guest84440 checks.
+"
+428,33,"13:27:48,485",160,320,False,RIVER,4410,4310,1280,"[6s,4h]","[9c,Ks,Jh,6c,7h]","Guest15166 checks.
+"
+428,33,"13:27:48,485",160,320,False,RIVER,4410,4310,1280,"[6s,4h]","[9c,Ks,Jh,6c,7h]","Guest15166 shows [ 6s,4h] - One Pair, Sixes
+"
+429,33,"13:27:48,536",160,320,False,RIVER,5690,4310,0,"[6s,4h]","[9c,Ks,Jh,6c,7h]","Guest15166 wins $1280
+"
+430,33,"13:27:53,799",160,320,False,RIVER,5690,4310,0,"[6s,4h]","[9c,Ks,Jh,6c,7h]","Guest84440 shows [ 8s,Ac] - High Card, Ace
+"
+431,34,"13:27:55,703",160,320,False,PREFLOP,5370,4150,480,"[?s,?h]",,"PREFLOP
+"
+432,34,"13:27:58,920",160,320,True,PREFLOP,5370,3670,960,"[?s,?h]",,"Guest84440 bets $480.
+"
+433,34,"13:28:05,664",160,320,False,PREFLOP,5050,3670,1280,"[?s,?h]",,"Guest15166 calls $320.
+"
+434,34,"13:28:05,713",160,320,True,FLOP,5050,3670,1280,"[?s,?h]","[4d,2h,9h]","FLOP [board cards 4d,2h,9h]
+"
+435,34,"13:28:15,856",160,320,False,FLOP,5050,3670,1280,"[?s,?h]","[4d,2h,9h]","Guest15166 checks.
+"
+436,34,"13:28:16,012",160,320,True,FLOP,5050,3350,1600,"[?s,?h]","[4d,2h,9h]","Guest84440 bets $320.
+"
+437,34,"13:28:17,071",160,320,False,FLOP,5050,3350,1600,"[?s,?h]","[4d,2h,9h]","Guest15166 folds.
+"
+438,34,"13:28:17,122",160,320,False,FLOP,5050,4950,0,"[?s,?h]","[4d,2h,9h]","Guest84440 wins $1600
+"
+439,35,"13:28:24,275",160,320,True,PREFLOP,4890,4630,480,"[Js,Ks]",,"PREFLOP
+"
+440,35,"13:28:26,869",160,320,False,PREFLOP,4730,4630,640,"[Js,Ks]",,"Guest15166 calls $160.
+"
+441,35,"13:28:27,038",160,320,True,PREFLOP,4730,4630,640,"[Js,Ks]",,"Guest84440 checks.
+"
+442,35,"13:28:27,087",160,320,False,FLOP,4730,4630,640,"[Js,Ks]","[7s,6h,7d]","FLOP [board cards 7s,6h,7d]
+"
+443,35,"13:28:32,212",160,320,True,FLOP,4730,3730,1540,"[Js,Ks]","[7s,6h,7d]","Guest84440 bets $900.
+"
+444,35,"13:28:34,411",160,320,False,FLOP,3830,3730,2440,"[Js,Ks]","[7s,6h,7d]","Guest15166 calls $900.
+"
+445,35,"13:28:34,460",160,320,False,TURN,3830,3730,2440,"[Js,Ks]","[7s,6h,7d,3s]","TURN [board cards 7s,6h,7d,3s]
+"
+446,35,"13:28:37,934",160,320,True,TURN,3830,3410,2760,"[Js,Ks]","[7s,6h,7d,3s]","Guest84440 bets $320.
+"
+447,35,"13:28:39,186",160,320,False,TURN,3190,3410,3400,"[Js,Ks]","[7s,6h,7d,3s]","Guest15166 bets $640.
+"
+448,35,"13:28:41,005",160,320,True,TURN,3190,2770,4040,"[Js,Ks]","[7s,6h,7d,3s]","Guest84440 bets $640.
+"
+449,35,"13:28:42,227",160,320,False,TURN,2870,2770,4360,"[Js,Ks]","[7s,6h,7d,3s]","Guest15166 calls $320.
+"
+450,35,"13:28:42,277",160,320,False,RIVER,2870,2770,4360,"[Js,Ks]","[7s,6h,7d,3s,Jh]","RIVER [board cards 7s,6h,7d,3s,Jh]
+"
+451,35,"13:28:44,876",160,320,True,RIVER,2870,2450,4680,"[Js,Ks]","[7s,6h,7d,3s,Jh]","Guest84440 bets $320.
+"
+452,35,"13:28:46,099",160,320,False,RIVER,2230,2450,5320,"[Js,Ks]","[7s,6h,7d,3s,Jh]","Guest15166 bets $640.
+"
+453,35,"13:28:47,139",160,320,True,RIVER,2230,1810,5960,"[Js,Ks]","[7s,6h,7d,3s,Jh]","Guest84440 bets $640.
+"
+454,35,"13:28:48,835",160,320,False,RIVER,1910,1810,6280,"[Js,Ks]","[7s,6h,7d,3s,Jh]","Guest15166 calls $320.
+"
+454,35,"13:28:48,835",160,320,False,RIVER,1910,1810,6280,"[Js,Ks]","[7s,6h,7d,3s,Jh]","Guest84440 shows [ 7h,Qd] - Three of a Kind, Sevens
+"
+455,35,"13:28:48,885",160,320,False,RIVER,1910,8090,0,"[Js,Ks]","[7s,6h,7d,3s,Jh]","Guest84440 wins $6280
+"
+456,35,"13:28:51,646",160,320,False,RIVER,1910,8090,0,"[Js,Ks]","[7s,6h,7d,3s,Jh]","Guest15166 shows [ Js,Ks] - Two Pair, Jacks and Sevens
+"
+457,36,"13:28:56,016",160,320,False,PREFLOP,1590,7930,480,"[Kd,9s]",,"PREFLOP
+"
+458,36,"13:28:59,239",160,320,True,PREFLOP,1590,7770,640,"[Kd,9s]",,"Guest84440 calls $160.
+"
+459,36,"13:29:01,241",160,320,False,PREFLOP,1590,7770,640,"[Kd,9s]",,"Guest15166 checks.
+"
+460,36,"13:29:01,291",160,320,True,FLOP,1590,7770,640,"[Kd,9s]","[Ad,5c,3c]","FLOP [board cards Ad,5c,3c]
+"
+461,36,"13:29:07,065",160,320,False,FLOP,1590,7770,640,"[Kd,9s]","[Ad,5c,3c]","Guest15166 checks.
+"
+462,36,"13:29:07,425",160,320,True,FLOP,1590,7770,640,"[Kd,9s]","[Ad,5c,3c]","Guest84440 checks.
+"
+463,36,"13:29:07,456",160,320,True,TURN,1590,7770,640,"[Kd,9s]","[Ad,5c,3c,Td]","TURN [board cards Ad,5c,3c,Td]
+"
+464,36,"13:29:10,023",160,320,False,TURN,1590,7770,640,"[Kd,9s]","[Ad,5c,3c,Td]","Guest15166 checks.
+"
+465,36,"13:29:10,238",160,320,True,TURN,1590,7770,640,"[Kd,9s]","[Ad,5c,3c,Td]","Guest84440 checks.
+"
+466,36,"13:29:10,288",160,320,True,RIVER,1590,7770,640,"[Kd,9s]","[Ad,5c,3c,Td,5h]","RIVER [board cards Ad,5c,3c,Td,5h]
+"
+467,36,"13:29:12,564",160,320,False,RIVER,1590,7770,640,"[Kd,9s]","[Ad,5c,3c,Td,5h]","Guest15166 checks.
+"
+468,36,"13:29:18,989",160,320,True,RIVER,1590,7770,640,"[Kd,9s]","[Ad,5c,3c,Td,5h]","Guest84440 checks.
+"
+468,36,"13:29:18,989",160,320,False,RIVER,1590,7770,640,"[Kd,9s]","[Ad,5c,3c,Td,5h]","Guest15166 shows [ Kd,9s] - One Pair, Fives
+"
+469,36,"13:29:19,039",160,320,False,RIVER,2230,7770,0,"[Kd,9s]","[Ad,5c,3c,Td,5h]","Guest15166 wins $640
+"
+470,37,"13:29:26,101",160,320,True,PREFLOP,2070,7450,480,"[?s,?h]",,"PREFLOP
+"
+471,37,"13:29:29,912",160,320,False,PREFLOP,1910,7450,640,"[?s,?h]",,"Guest15166 calls $160.
+"
+472,37,"13:29:30,113",160,320,True,PREFLOP,1910,7130,960,"[?s,?h]",,"Guest84440 bets $320.
+"
+473,37,"13:29:31,651",160,320,False,PREFLOP,1910,7130,960,"[?s,?h]",,"Guest15166 folds.
+"
+474,37,"13:29:31,710",160,320,False,PREFLOP,1910,8090,0,"[?s,?h]",,"Guest84440 wins $960
+"
+475,38,"13:29:38,822",160,320,False,PREFLOP,1590,7930,480,"[6c,Th]",,"PREFLOP
+"
+476,38,"13:29:40,399",160,320,True,PREFLOP,1590,7450,960,"[6c,Th]",,"Guest84440 bets $480.
+"
+477,38,"13:29:42,644",160,320,False,PREFLOP,950,7450,1600,"[6c,Th]",,"Guest15166 bets $640.
+"
+478,38,"13:29:44,085",160,320,True,PREFLOP,950,6810,2240,"[6c,Th]",,"Guest84440 bets $640.
+"
+479,38,"13:29:46,043",160,320,False,PREFLOP,630,6810,2560,"[6c,Th]",,"Guest15166 calls $320.
+"
+480,38,"13:29:46,043",160,320,True,FLOP,630,6810,2560,"[6c,Th]","[As,8s,9c]","FLOP [board cards As,8s,9c]
+"
+481,38,"13:29:51,136",160,320,False,FLOP,630,6810,2560,"[6c,Th]","[As,8s,9c]","Guest15166 checks.
+"
+482,38,"13:29:51,302",160,320,True,FLOP,630,6490,2880,"[6c,Th]","[As,8s,9c]","Guest84440 bets $320.
+"
+483,38,"13:29:52,572",160,320,False,FLOP,310,6490,3200,"[6c,Th]","[As,8s,9c]","Guest15166 calls $320.
+"
+484,38,"13:29:52,621",160,320,True,TURN,310,6490,3200,"[6c,Th]","[As,8s,9c,5c]","TURN [board cards As,8s,9c,5c]
+"
+485,38,"13:29:55,506",160,320,False,TURN,310,6490,3200,"[6c,Th]","[As,8s,9c,5c]","Guest15166 checks.
+"
+486,38,"13:29:56,885",160,320,True,TURN,310,6170,3520,"[6c,Th]","[As,8s,9c,5c]","Guest84440 bets $320.
+"
+487,38,"13:29:59,914",160,320,False,TURN,0,6170,3830,"[6c,Th]","[As,8s,9c,5c]","Guest15166 is all in with $310.
+"
+487,38,"13:29:59,914",160,320,False,TURN,0,6170,3830,"[6c,Th]","[As,8s,9c,5c]","Guest15166 shows [6c,Th]
+"
+487,38,"13:29:59,914",160,320,False,TURN,0,6170,3830,"[6c,Th]","[As,8s,9c,5c]","Guest84440 shows [8c,4c]
+"
+488,38,"13:29:59,963",160,320,True,RIVER,0,6170,3830,"[6c,Th]","[As,8s,9c,5c,5h]","RIVER [board cards As,8s,9c,5c,5h]
+"
+489,38,"13:29:59,963",160,320,False,RIVER,0,10000,0,"[6c,Th]","[As,8s,9c,5c,5h]","Guest84440 wins $3830
+"
+490,39,"13:30:21,528",10,20,False,PREFLOP,4980,4990,30,"[4s,Ah]",,"PREFLOP
+"
+491,39,"13:30:33,338",10,20,True,PREFLOP,4980,4980,40,"[4s,Ah]",,"Guest84440 calls $10.
+"
+492,39,"13:30:33,459",10,20,False,PREFLOP,4980,4980,40,"[4s,Ah]",,"Guest15166 checks.
+"
+493,39,"13:30:33,516",10,20,True,FLOP,4980,4980,40,"[4s,Ah]","[7d,5d,6s]","FLOP [board cards 7d,5d,6s]
+"
+494,39,"13:30:38,656",10,20,False,FLOP,4980,4980,40,"[4s,Ah]","[7d,5d,6s]","Guest15166 checks.
+"
+495,39,"13:30:38,824",10,20,True,FLOP,4980,4980,40,"[4s,Ah]","[7d,5d,6s]","Guest84440 checks.
+"
+496,39,"13:30:38,874",10,20,True,TURN,4980,4980,40,"[4s,Ah]","[7d,5d,6s,Th]","TURN [board cards 7d,5d,6s,Th]
+"
+497,39,"13:30:41,271",10,20,False,TURN,4980,4980,40,"[4s,Ah]","[7d,5d,6s,Th]","Guest15166 checks.
+"
+498,39,"13:30:49,074",10,20,True,TURN,4980,4980,40,"[4s,Ah]","[7d,5d,6s,Th]","Guest84440 checks.
+"
+499,39,"13:30:49,089",10,20,True,RIVER,4980,4980,40,"[4s,Ah]","[7d,5d,6s,Th,7s]","RIVER [board cards 7d,5d,6s,Th,7s]
+"
+500,39,"13:30:51,840",10,20,False,RIVER,4980,4980,40,"[4s,Ah]","[7d,5d,6s,Th,7s]","Guest15166 checks.
+"
+501,39,"13:30:52,804",10,20,True,RIVER,4980,4980,40,"[4s,Ah]","[7d,5d,6s,Th,7s]","Guest84440 checks.
+"
+501,39,"13:30:52,804",10,20,False,RIVER,4980,4980,40,"[4s,Ah]","[7d,5d,6s,Th,7s]","Guest15166 shows [ 4s,Ah] - One Pair, Sevens
+"
+502,39,"13:30:52,815",10,20,False,RIVER,5020,4980,0,"[4s,Ah]","[7d,5d,6s,Th,7s]","Guest15166 wins $40
+"
+503,40,"13:30:59,925",10,20,True,PREFLOP,5010,4960,30,"[9h,Kd]",,"PREFLOP
+"
+504,40,"13:31:02,509",10,20,False,PREFLOP,5000,4960,40,"[9h,Kd]",,"Guest15166 calls $10.
+"
+505,40,"13:31:02,742",10,20,True,PREFLOP,5000,4960,40,"[9h,Kd]",,"Guest84440 checks.
+"
+506,40,"13:31:02,791",10,20,False,FLOP,5000,4960,40,"[9h,Kd]","[Td,9d,Tc]","FLOP [board cards Td,9d,Tc]
+"
+507,40,"13:31:07,990",10,20,True,FLOP,5000,4960,40,"[9h,Kd]","[Td,9d,Tc]","Guest84440 checks.
+"
+508,40,"13:31:08,177",10,20,False,FLOP,4980,4960,60,"[9h,Kd]","[Td,9d,Tc]","Guest15166 bets $20.
+"
+509,40,"13:31:09,895",10,20,True,FLOP,4980,4940,80,"[9h,Kd]","[Td,9d,Tc]","Guest84440 calls $20.
+"
+510,40,"13:31:09,907",10,20,False,TURN,4980,4940,80,"[9h,Kd]","[Td,9d,Tc,5d]","TURN [board cards Td,9d,Tc,5d]
+"
+511,40,"13:31:12,084",10,20,True,TURN,4980,4940,80,"[9h,Kd]","[Td,9d,Tc,5d]","Guest84440 checks.
+"
+512,40,"13:31:14,162",10,20,False,TURN,4960,4940,100,"[9h,Kd]","[Td,9d,Tc,5d]","Guest15166 bets $20.
+"
+513,40,"13:31:16,347",10,20,True,TURN,4960,4920,120,"[9h,Kd]","[Td,9d,Tc,5d]","Guest84440 calls $20.
+"
+514,40,"13:31:16,358",10,20,False,RIVER,4960,4920,120,"[9h,Kd]","[Td,9d,Tc,5d,6d]","RIVER [board cards Td,9d,Tc,5d,6d]
+"
+515,40,"13:31:18,568",10,20,True,RIVER,4960,4900,140,"[9h,Kd]","[Td,9d,Tc,5d,6d]","Guest84440 bets $20.
+"
+516,40,"13:31:21,487",10,20,False,RIVER,4810,4900,290,"[9h,Kd]","[Td,9d,Tc,5d,6d]","Guest15166 bets $150.
+"
+517,40,"13:31:24,131",10,20,True,RIVER,4810,2650,2540,"[9h,Kd]","[Td,9d,Tc,5d,6d]","Guest84440 bets $2250.
+"
+518,40,"13:31:25,513",10,20,False,RIVER,2690,2650,4660,"[9h,Kd]","[Td,9d,Tc,5d,6d]","Guest15166 calls $2120.
+"
+518,40,"13:31:25,513",10,20,False,RIVER,2690,2650,4660,"[9h,Kd]","[Td,9d,Tc,5d,6d]","Guest15166 shows [ 9h,Kd] - Flush, King high
+"
+518,40,"13:31:25,513",10,20,False,RIVER,2690,2650,4660,"[9h,Kd]","[Td,9d,Tc,5d,6d]","Guest84440 shows [ Jd,Ac] - Flush, Jack high
+"
+519,40,"13:31:25,563",10,20,False,RIVER,7350,2650,0,"[9h,Kd]","[Td,9d,Tc,5d,6d]","Guest15166 wins $4660
+"
+520,41,"13:31:32,687",10,20,False,PREFLOP,7330,2640,30,"[9c,4s]",,"PREFLOP
+"
+521,41,"13:31:35,703",10,20,True,PREFLOP,7330,2610,60,"[9c,4s]",,"Guest84440 bets $30.
+"
+522,41,"13:31:38,077",10,20,False,PREFLOP,7310,2610,80,"[9c,4s]",,"Guest15166 calls $20.
+"
+523,41,"13:31:38,128",10,20,True,FLOP,7310,2610,80,"[9c,4s]","[7d,Ac,Jh]","FLOP [board cards 7d,Ac,Jh]
+"
+524,41,"13:31:43,272",10,20,False,FLOP,7310,2610,80,"[9c,4s]","[7d,Ac,Jh]","Guest15166 checks.
+"
+525,41,"13:31:43,434",10,20,True,FLOP,7310,2610,80,"[9c,4s]","[7d,Ac,Jh]","Guest84440 checks.
+"
+526,41,"13:31:43,484",10,20,True,TURN,7310,2610,80,"[9c,4s]","[7d,Ac,Jh,Th]","TURN [board cards 7d,Ac,Jh,Th]
+"
+527,41,"13:31:46,497",10,20,False,TURN,7310,2610,80,"[9c,4s]","[7d,Ac,Jh,Th]","Guest15166 checks.
+"
+528,41,"13:31:46,708",10,20,True,TURN,7310,2610,80,"[9c,4s]","[7d,Ac,Jh,Th]","Guest84440 checks.
+"
+529,41,"13:31:46,758",10,20,True,RIVER,7310,2610,80,"[9c,4s]","[7d,Ac,Jh,Th,3c]","RIVER [board cards 7d,Ac,Jh,Th,3c]
+"
+530,41,"13:31:49,178",10,20,False,RIVER,7310,2610,80,"[9c,4s]","[7d,Ac,Jh,Th,3c]","Guest15166 checks.
+"
+531,41,"13:31:49,541",10,20,True,RIVER,7310,2610,80,"[9c,4s]","[7d,Ac,Jh,Th,3c]","Guest84440 checks.
+"
+531,41,"13:31:49,541",10,20,False,RIVER,7310,2610,80,"[9c,4s]","[7d,Ac,Jh,Th,3c]","Guest84440 shows [ Ks,7s] - One Pair, Sevens
+"
+532,41,"13:31:49,629",10,20,False,RIVER,7310,2690,0,"[9c,4s]","[7d,Ac,Jh,Th,3c]","Guest84440 wins $80
+"
+533,41,"13:31:51,768",10,20,False,RIVER,7310,2690,0,"[9c,4s]","[7d,Ac,Jh,Th,3c]","Guest15166 shows [ 9c,4s] - High Card, Ace
+"
+534,42,"13:31:56,754",10,20,True,PREFLOP,7300,2670,30,"[?s,?h]",,"PREFLOP
+"
+535,42,"13:31:58,619",10,20,False,PREFLOP,7290,2670,40,"[?s,?h]",,"Guest15166 calls $10.
+"
+536,42,"13:32:02,029",10,20,True,PREFLOP,7290,2420,290,"[?s,?h]",,"Guest84440 bets $250.
+"
+537,42,"13:32:05,145",10,20,False,PREFLOP,7290,2420,290,"[?s,?h]",,"Guest15166 folds.
+"
+538,42,"13:32:05,207",10,20,False,PREFLOP,7290,2710,0,"[?s,?h]",,"Guest84440 wins $290
+"
+539,43,"13:32:12,319",10,20,False,PREFLOP,7270,2700,30,"[Jc,7s]",,"PREFLOP
+"
+540,43,"13:32:14,715",10,20,True,PREFLOP,7270,2690,40,"[Jc,7s]",,"Guest84440 calls $10.
+"
+541,43,"13:32:16,969",10,20,False,PREFLOP,7250,2690,60,"[Jc,7s]",,"Guest15166 bets $20.
+"
+542,43,"13:32:18,300",10,20,True,PREFLOP,7250,2670,80,"[Jc,7s]",,"Guest84440 calls $20.
+"
+543,43,"13:32:18,320",10,20,True,FLOP,7250,2670,80,"[Jc,7s]","[5c,3h,9h]","FLOP [board cards 5c,3h,9h]
+"
+544,43,"13:32:25,367",10,20,False,FLOP,7150,2670,180,"[Jc,7s]","[5c,3h,9h]","Guest15166 bets $100.
+"
+545,43,"13:32:27,181",10,20,True,FLOP,7150,2570,280,"[Jc,7s]","[5c,3h,9h]","Guest84440 calls $100.
+"
+546,43,"13:32:27,192",10,20,True,TURN,7150,2570,280,"[Jc,7s]","[5c,3h,9h,8h]","TURN [board cards 5c,3h,9h,8h]
+"
+547,43,"13:32:33,460",10,20,False,TURN,7150,2570,280,"[Jc,7s]","[5c,3h,9h,8h]","Guest15166 checks.
+"
+548,43,"13:32:36,532",10,20,True,TURN,7150,2570,280,"[Jc,7s]","[5c,3h,9h,8h]","Guest84440 checks.
+"
+549,43,"13:32:36,545",10,20,True,RIVER,7150,2570,280,"[Jc,7s]","[5c,3h,9h,8h,Qs]","RIVER [board cards 5c,3h,9h,8h,Qs]
+"
+550,43,"13:32:40,059",10,20,False,RIVER,7150,2570,280,"[Jc,7s]","[5c,3h,9h,8h,Qs]","Guest15166 checks.
+"
+551,43,"13:32:40,830",10,20,True,RIVER,7150,2570,280,"[Jc,7s]","[5c,3h,9h,8h,Qs]","Guest84440 checks.
+"
+551,43,"13:32:40,830",10,20,False,RIVER,7150,2570,280,"[Jc,7s]","[5c,3h,9h,8h,Qs]","Guest15166 shows [ Jc,7s] - High Card, Queen
+"
+552,43,"13:32:40,864",10,20,False,RIVER,7430,2570,0,"[Jc,7s]","[5c,3h,9h,8h,Qs]","Guest15166 wins $280
+"
+553,44,"13:32:47,951",10,20,True,PREFLOP,7420,2550,30,"[As,Ac]",,"PREFLOP
+"
+554,44,"13:32:51,143",10,20,False,PREFLOP,7410,2550,40,"[As,Ac]",,"Guest15166 calls $10.
+"
+555,44,"13:32:51,580",10,20,True,PREFLOP,7410,2550,40,"[As,Ac]",,"Guest84440 checks.
+"
+556,44,"13:32:51,591",10,20,False,FLOP,7410,2550,40,"[As,Ac]","[5d,2h,Ad]","FLOP [board cards 5d,2h,Ad]
+"
+557,44,"13:32:56,668",10,20,True,FLOP,7410,2550,40,"[As,Ac]","[5d,2h,Ad]","Guest84440 checks.
+"
+558,44,"13:32:56,813",10,20,False,FLOP,7390,2550,60,"[As,Ac]","[5d,2h,Ad]","Guest15166 bets $20.
+"
+559,44,"13:32:58,340",10,20,True,FLOP,7390,2530,80,"[As,Ac]","[5d,2h,Ad]","Guest84440 calls $20.
+"
+560,44,"13:32:58,340",10,20,False,TURN,7390,2530,80,"[As,Ac]","[5d,2h,Ad,Ks]","TURN [board cards 5d,2h,Ad,Ks]
+"
+561,44,"13:33:05,303",10,20,True,TURN,7390,2530,80,"[As,Ac]","[5d,2h,Ad,Ks]","Guest84440 checks.
+"
+562,44,"13:33:05,409",10,20,False,TURN,7340,2530,130,"[As,Ac]","[5d,2h,Ad,Ks]","Guest15166 bets $50.
+"
+563,44,"13:33:07,044",10,20,True,TURN,7340,2480,180,"[As,Ac]","[5d,2h,Ad,Ks]","Guest84440 calls $50.
+"
+564,44,"13:33:07,065",10,20,False,RIVER,7340,2480,180,"[As,Ac]","[5d,2h,Ad,Ks,Jd]","RIVER [board cards 5d,2h,Ad,Ks,Jd]
+"
+565,44,"13:33:11,037",10,20,True,RIVER,7340,2480,180,"[As,Ac]","[5d,2h,Ad,Ks,Jd]","Guest84440 checks.
+"
+566,44,"13:33:14,246",10,20,False,RIVER,6840,2480,680,"[As,Ac]","[5d,2h,Ad,Ks,Jd]","Guest15166 bets $500.
+"
+567,44,"13:33:17,797",10,20,True,RIVER,6840,1980,1180,"[As,Ac]","[5d,2h,Ad,Ks,Jd]","Guest84440 calls $500.
+"
+567,44,"13:33:17,797",10,20,False,RIVER,6840,1980,1180,"[As,Ac]","[5d,2h,Ad,Ks,Jd]","Guest15166 shows [ As,Ac] - Three of a Kind, Aces
+"
+568,44,"13:33:17,808",10,20,False,RIVER,8020,1980,0,"[As,Ac]","[5d,2h,Ad,Ks,Jd]","Guest15166 wins $1180
+"
+569,45,"13:33:24,922",10,20,False,PREFLOP,8000,1970,30,"[?s,?h]",,"PREFLOP
+"
+570,45,"13:33:28,308",10,20,True,PREFLOP,8000,1960,40,"[?s,?h]",,"Guest84440 calls $10.
+"
+571,45,"13:33:28,680",10,20,False,PREFLOP,8000,1960,40,"[?s,?h]",,"Guest15166 checks.
+"
+572,45,"13:33:28,881",10,20,True,FLOP,8000,1960,40,"[?s,?h]","[Qs,8s,8d]","FLOP [board cards Qs,8s,8d]
+"
+573,45,"13:33:33,866",10,20,False,FLOP,8000,1960,40,"[?s,?h]","[Qs,8s,8d]","Guest15166 checks.
+"
+574,45,"13:33:34,021",10,20,True,FLOP,8000,1940,60,"[?s,?h]","[Qs,8s,8d]","Guest84440 bets $20.
+"
+575,45,"13:33:35,314",10,20,False,FLOP,8000,1940,60,"[?s,?h]","[Qs,8s,8d]","Guest15166 folds.
+"
+576,45,"13:33:35,364",10,20,False,FLOP,8000,2000,0,"[?s,?h]","[Qs,8s,8d]","Guest84440 wins $60
+"
+577,46,"13:33:42,532",10,20,True,PREFLOP,7990,1980,30,"[?s,?h]",,"PREFLOP
+"
+578,46,"13:33:44,644",10,20,False,PREFLOP,7980,1980,40,"[?s,?h]",,"Guest15166 calls $10.
+"
+579,46,"13:33:44,801",10,20,True,PREFLOP,7980,1980,40,"[?s,?h]",,"Guest84440 checks.
+"
+580,46,"13:33:44,851",10,20,False,FLOP,7980,1980,40,"[?s,?h]","[8d,7c,Ac]","FLOP [board cards 8d,7c,Ac]
+"
+581,46,"13:33:52,407",10,20,True,FLOP,7980,1980,40,"[?s,?h]","[8d,7c,Ac]","Guest84440 folds.
+"
+582,46,"13:33:52,442",10,20,False,FLOP,8020,1980,0,"[?s,?h]","[8d,7c,Ac]","Guest15166 wins $40
+"
+583,47,"13:33:59,432",20,40,False,PREFLOP,7980,1960,60,"[?s,?h]",,"PREFLOP
+"
+584,47,"13:34:01,317",20,40,True,PREFLOP,7980,1940,80,"[?s,?h]",,"Guest84440 calls $20.
+"
+585,47,"13:34:03,327",20,40,False,PREFLOP,7940,1940,120,"[?s,?h]",,"Guest15166 bets $40.
+"
+586,47,"13:34:05,208",20,40,True,PREFLOP,7940,1900,160,"[?s,?h]",,"Guest84440 calls $40.
+"
+587,47,"13:34:05,219",20,40,True,FLOP,7940,1900,160,"[?s,?h]","[3s,Ks,3d]","FLOP [board cards 3s,Ks,3d]
+"
+588,47,"13:34:10,373",20,40,False,FLOP,7900,1900,200,"[?s,?h]","[3s,Ks,3d]","Guest15166 bets $40.
+"
+589,47,"13:34:10,603",20,40,True,FLOP,7900,1700,400,"[?s,?h]","[3s,Ks,3d]","Guest84440 bets $200.
+"
+590,47,"13:34:12,809",20,40,False,FLOP,7740,1700,560,"[?s,?h]","[3s,Ks,3d]","Guest15166 calls $160.
+"
+591,47,"13:34:12,859",20,40,True,TURN,7740,1700,560,"[?s,?h]","[3s,Ks,3d,2s]","TURN [board cards 3s,Ks,3d,2s]
+"
+592,47,"13:34:15,154",20,40,False,TURN,7740,1700,560,"[?s,?h]","[3s,Ks,3d,2s]","Guest15166 checks.
+"
+593,47,"13:34:16,984",20,40,True,TURN,7740,1700,560,"[?s,?h]","[3s,Ks,3d,2s]","Guest84440 checks.
+"
+594,47,"13:34:17,007",20,40,True,RIVER,7740,1700,560,"[?s,?h]","[3s,Ks,3d,2s,Tc]","RIVER [board cards 3s,Ks,3d,2s,Tc]
+"
+595,47,"13:34:19,370",20,40,False,RIVER,7740,1700,560,"[?s,?h]","[3s,Ks,3d,2s,Tc]","Guest15166 checks.
+"
+596,47,"13:34:19,795",20,40,True,RIVER,7740,1700,560,"[?s,?h]","[3s,Ks,3d,2s,Tc]","Guest84440 checks.
+"
+596,47,"13:34:19,795",20,40,False,RIVER,7740,1700,560,"[?s,?h]","[3s,Ks,3d,2s,Tc]","Guest84440 shows [ 7s,3c] - Three of a Kind, Threes
+"
+597,47,"13:34:19,845",20,40,False,RIVER,7740,2260,0,"[?s,?h]","[3s,Ks,3d,2s,Tc]","Guest84440 wins $560
+"
+598,48,"13:34:26,974",20,40,True,PREFLOP,7720,2220,60,"[?s,?h]",,"PREFLOP
+"
+599,48,"13:34:28,628",20,40,False,PREFLOP,7700,2220,80,"[?s,?h]",,"Guest15166 calls $20.
+"
+600,48,"13:34:29,487",20,40,True,PREFLOP,7700,2220,80,"[?s,?h]",,"Guest84440 checks.
+"
+601,48,"13:34:29,487",20,40,False,FLOP,7700,2220,80,"[?s,?h]","[8c,2d,9s]","FLOP [board cards 8c,2d,9s]
+"
+602,48,"13:34:34,599",20,40,True,FLOP,7700,2220,80,"[?s,?h]","[8c,2d,9s]","Guest84440 checks.
+"
+603,48,"13:34:35,746",20,40,False,FLOP,7660,2220,120,"[?s,?h]","[8c,2d,9s]","Guest15166 bets $40.
+"
+604,48,"13:34:38,251",20,40,True,FLOP,7660,2180,160,"[?s,?h]","[8c,2d,9s]","Guest84440 calls $40.
+"
+605,48,"13:34:38,270",20,40,False,TURN,7660,2180,160,"[?s,?h]","[8c,2d,9s,As]","TURN [board cards 8c,2d,9s,As]
+"
+606,48,"13:34:40,419",20,40,True,TURN,7660,2180,160,"[?s,?h]","[8c,2d,9s,As]","Guest84440 checks.
+"
+607,48,"13:34:42,882",20,40,False,TURN,7610,2180,210,"[?s,?h]","[8c,2d,9s,As]","Guest15166 bets $50.
+"
+608,48,"13:34:44,837",20,40,True,TURN,7610,2130,260,"[?s,?h]","[8c,2d,9s,As]","Guest84440 calls $50.
+"
+609,48,"13:34:44,837",20,40,False,RIVER,7610,2130,260,"[?s,?h]","[8c,2d,9s,As,Qs]","RIVER [board cards 8c,2d,9s,As,Qs]
+"
+610,48,"13:34:52,927",20,40,True,RIVER,7610,2130,260,"[?s,?h]","[8c,2d,9s,As,Qs]","Guest84440 checks.
+"
+611,48,"13:34:53,067",20,40,False,RIVER,7460,2130,410,"[?s,?h]","[8c,2d,9s,As,Qs]","Guest15166 bets $150.
+"
+612,48,"13:34:58,149",20,40,True,RIVER,7460,2130,410,"[?s,?h]","[8c,2d,9s,As,Qs]","Guest84440 folds.
+"
+613,48,"13:34:58,149",20,40,False,RIVER,7870,2130,0,"[?s,?h]","[8c,2d,9s,As,Qs]","Guest15166 wins $410
+"
+614,49,"13:35:05,277",20,40,False,PREFLOP,7830,2110,60,"[7h,Ks]",,"PREFLOP
+"
+615,49,"13:35:07,058",20,40,True,PREFLOP,7830,2090,80,"[7h,Ks]",,"Guest84440 calls $20.
+"
+616,49,"13:35:08,134",20,40,False,PREFLOP,7830,2090,80,"[7h,Ks]",,"Guest15166 checks.
+"
+617,49,"13:35:08,184",20,40,True,FLOP,7830,2090,80,"[7h,Ks]","[6c,Jd,Js]","FLOP [board cards 6c,Jd,Js]
+"
+618,49,"13:35:13,296",20,40,False,FLOP,7830,2090,80,"[7h,Ks]","[6c,Jd,Js]","Guest15166 checks.
+"
+619,49,"13:35:13,452",20,40,True,FLOP,7830,2090,80,"[7h,Ks]","[6c,Jd,Js]","Guest84440 checks.
+"
+620,49,"13:35:13,502",20,40,True,TURN,7830,2090,80,"[7h,Ks]","[6c,Jd,Js,6s]","TURN [board cards 6c,Jd,Js,6s]
+"
+621,49,"13:35:17,056",20,40,False,TURN,7830,2090,80,"[7h,Ks]","[6c,Jd,Js,6s]","Guest15166 checks.
+"
+622,49,"13:35:18,417",20,40,True,TURN,7830,2090,80,"[7h,Ks]","[6c,Jd,Js,6s]","Guest84440 checks.
+"
+623,49,"13:35:18,429",20,40,True,RIVER,7830,2090,80,"[7h,Ks]","[6c,Jd,Js,6s,3c]","RIVER [board cards 6c,Jd,Js,6s,3c]
+"
+624,49,"13:35:21,165",20,40,False,RIVER,7830,2090,80,"[7h,Ks]","[6c,Jd,Js,6s,3c]","Guest15166 checks.
+"
+625,49,"13:35:22,930",20,40,True,RIVER,7830,2090,80,"[7h,Ks]","[6c,Jd,Js,6s,3c]","Guest84440 checks.
+"
+625,49,"13:35:22,930",20,40,False,RIVER,7830,2090,80,"[7h,Ks]","[6c,Jd,Js,6s,3c]","Guest15166 shows [ 7h,Ks] - Two Pair, Jacks and Sixes
+"
+626,49,"13:35:22,949",20,40,False,RIVER,7910,2090,0,"[7h,Ks]","[6c,Jd,Js,6s,3c]","Guest15166 wins $80
+"
+627,50,"13:35:30,058",20,40,True,PREFLOP,7890,2050,60,"[?s,?h]",,"PREFLOP
+"
+628,50,"13:35:31,858",20,40,False,PREFLOP,7870,2050,80,"[?s,?h]",,"Guest15166 calls $20.
+"
+629,50,"13:35:32,025",20,40,True,PREFLOP,7870,2050,80,"[?s,?h]",,"Guest84440 checks.
+"
+630,50,"13:35:32,078",20,40,False,FLOP,7870,2050,80,"[?s,?h]","[8c,4h,Qh]","FLOP [board cards 8c,4h,Qh]
+"
+631,50,"13:35:37,186",20,40,True,FLOP,7870,2050,80,"[?s,?h]","[8c,4h,Qh]","Guest84440 checks.
+"
+632,50,"13:35:37,843",20,40,False,FLOP,7830,2050,120,"[?s,?h]","[8c,4h,Qh]","Guest15166 bets $40.
+"
+633,50,"13:35:45,560",20,40,True,FLOP,7830,2010,160,"[?s,?h]","[8c,4h,Qh]","Guest84440 calls $40.
+"
+634,50,"13:35:45,594",20,40,False,TURN,7830,2010,160,"[?s,?h]","[8c,4h,Qh,9c]","TURN [board cards 8c,4h,Qh,9c]
+"
+635,50,"13:35:49,146",20,40,True,TURN,7830,2010,160,"[?s,?h]","[8c,4h,Qh,9c]","Guest84440 folds.
+"
+636,50,"13:35:49,165",20,40,False,TURN,7990,2010,0,"[?s,?h]","[8c,4h,Qh,9c]","Guest15166 wins $160
+"
+637,51,"13:35:56,273",20,40,False,PREFLOP,7950,1990,60,"[?s,?h]",,"PREFLOP
+"
+638,51,"13:36:00,616",20,40,True,PREFLOP,7950,1990,60,"[?s,?h]",,"Guest84440 folds.
+"
+639,51,"13:36:00,636",20,40,False,PREFLOP,8010,1990,0,"[?s,?h]",,"Guest15166 wins $60
+"
+640,52,"13:36:07,743",20,40,True,PREFLOP,7990,1950,60,"[2s,5d]",,"PREFLOP
+"
+641,52,"13:36:11,308",20,40,False,PREFLOP,7970,1950,80,"[2s,5d]",,"Guest15166 calls $20.
+"
+642,52,"13:36:11,528",20,40,True,PREFLOP,7970,1950,80,"[2s,5d]",,"Guest84440 checks.
+"
+643,52,"13:36:11,578",20,40,False,FLOP,7970,1950,80,"[2s,5d]","[As,Js,Jd]","FLOP [board cards As,Js,Jd]
+"
+644,52,"13:36:16,715",20,40,True,FLOP,7970,1950,80,"[2s,5d]","[As,Js,Jd]","Guest84440 checks.
+"
+645,52,"13:36:17,215",20,40,False,FLOP,7930,1950,120,"[2s,5d]","[As,Js,Jd]","Guest15166 bets $40.
+"
+646,52,"13:36:21,820",20,40,True,FLOP,7930,1910,160,"[2s,5d]","[As,Js,Jd]","Guest84440 calls $40.
+"
+647,52,"13:36:21,871",20,40,False,TURN,7930,1910,160,"[2s,5d]","[As,Js,Jd,8h]","TURN [board cards As,Js,Jd,8h]
+"
+648,52,"13:36:25,900",20,40,True,TURN,7930,1910,160,"[2s,5d]","[As,Js,Jd,8h]","Guest84440 checks.
+"
+649,52,"13:36:28,492",20,40,False,TURN,7930,1910,160,"[2s,5d]","[As,Js,Jd,8h]","Guest15166 checks.
+"
+650,52,"13:36:28,543",20,40,False,RIVER,7930,1910,160,"[2s,5d]","[As,Js,Jd,8h,9c]","RIVER [board cards As,Js,Jd,8h,9c]
+"
+651,52,"13:36:31,031",20,40,True,RIVER,7930,1910,160,"[2s,5d]","[As,Js,Jd,8h,9c]","Guest84440 checks.
+"
+652,52,"13:36:31,160",20,40,False,RIVER,7930,1910,160,"[2s,5d]","[As,Js,Jd,8h,9c]","Guest15166 checks.
+"
+652,52,"13:36:31,160",20,40,False,RIVER,7930,1910,160,"[2s,5d]","[As,Js,Jd,8h,9c]","Guest15166 shows [ 2s,5d] - One Pair, Jacks
+"
+652,52,"13:36:31,160",20,40,False,RIVER,7930,1910,160,"[2s,5d]","[As,Js,Jd,8h,9c]","Guest84440 shows [ 8c,3h] - Two Pair, Jacks and Eights
+"
+653,52,"13:36:31,210",20,40,False,RIVER,7930,2070,0,"[2s,5d]","[As,Js,Jd,8h,9c]","Guest84440 wins $160
+"
+654,53,"13:36:38,359",20,40,False,PREFLOP,7890,2050,60,"[?s,?h]",,"PREFLOP
+"
+655,53,"13:36:40,041",20,40,True,PREFLOP,7890,2030,80,"[?s,?h]",,"Guest84440 calls $20.
+"
+656,53,"13:36:42,606",20,40,False,PREFLOP,7890,2030,80,"[?s,?h]",,"Guest15166 folds.
+"
+657,53,"13:36:42,669",20,40,False,PREFLOP,7890,2110,0,"[?s,?h]",,"Guest84440 wins $80
+"
+658,54,"13:36:49,823",20,40,True,PREFLOP,7870,2070,60,"[?s,?h]",,"PREFLOP
+"
+659,54,"13:36:52,076",20,40,False,PREFLOP,7850,2070,80,"[?s,?h]",,"Guest15166 calls $20.
+"
+660,54,"13:36:52,246",20,40,True,PREFLOP,7850,2070,80,"[?s,?h]",,"Guest84440 checks.
+"
+661,54,"13:36:52,296",20,40,False,FLOP,7850,2070,80,"[?s,?h]","[Td,6s,7d]","FLOP [board cards Td,6s,7d]
+"
+662,54,"13:36:57,457",20,40,True,FLOP,7850,2070,80,"[?s,?h]","[Td,6s,7d]","Guest84440 checks.
+"
+663,54,"13:36:57,592",20,40,False,FLOP,7810,2070,120,"[?s,?h]","[Td,6s,7d]","Guest15166 bets $40.
+"
+664,54,"13:36:59,187",20,40,True,FLOP,7810,2030,160,"[?s,?h]","[Td,6s,7d]","Guest84440 calls $40.
+"
+665,54,"13:36:59,200",20,40,False,TURN,7810,2030,160,"[?s,?h]","[Td,6s,7d,Qc]","TURN [board cards Td,6s,7d,Qc]
+"
+666,54,"13:37:01,344",20,40,True,TURN,7810,2030,160,"[?s,?h]","[Td,6s,7d,Qc]","Guest84440 checks.
+"
+667,54,"13:37:05,272",20,40,False,TURN,7710,2030,260,"[?s,?h]","[Td,6s,7d,Qc]","Guest15166 bets $100.
+"
+668,54,"13:37:07,584",20,40,True,TURN,7710,1730,560,"[?s,?h]","[Td,6s,7d,Qc]","Guest84440 bets $300.
+"
+669,54,"13:37:09,761",20,40,False,TURN,7510,1730,760,"[?s,?h]","[Td,6s,7d,Qc]","Guest15166 calls $200.
+"
+670,54,"13:37:09,810",20,40,False,RIVER,7510,1730,760,"[?s,?h]","[Td,6s,7d,Qc,3s]","RIVER [board cards Td,6s,7d,Qc,3s]
+"
+671,54,"13:37:13,526",20,40,True,RIVER,7510,1690,800,"[?s,?h]","[Td,6s,7d,Qc,3s]","Guest84440 bets $40.
+"
+672,54,"13:37:15,185",20,40,False,RIVER,7470,1690,840,"[?s,?h]","[Td,6s,7d,Qc,3s]","Guest15166 calls $40.
+"
+672,54,"13:37:15,185",20,40,False,RIVER,7470,1690,840,"[?s,?h]","[Td,6s,7d,Qc,3s]","Guest84440 shows [ Qh,3d] - Two Pair, Queens and Threes
+"
+673,54,"13:37:15,235",20,40,False,RIVER,7470,2530,0,"[?s,?h]","[Td,6s,7d,Qc,3s]","Guest84440 wins $840
+"
+674,55,"13:37:22,389",40,80,False,PREFLOP,7390,2490,120,"[3c,Qh]",,"PREFLOP
+"
+675,55,"13:37:24,405",40,80,True,PREFLOP,7390,2450,160,"[3c,Qh]",,"Guest84440 calls $40.
+"
+676,55,"13:37:24,548",40,80,False,PREFLOP,7390,2450,160,"[3c,Qh]",,"Guest15166 checks.
+"
+677,55,"13:37:24,599",40,80,True,FLOP,7390,2450,160,"[3c,Qh]","[7c,3d,Ks]","FLOP [board cards 7c,3d,Ks]
+"
+678,55,"13:37:30,353",40,80,False,FLOP,7310,2450,240,"[3c,Qh]","[7c,3d,Ks]","Guest15166 bets $80.
+"
+679,55,"13:37:32,263",40,80,True,FLOP,7310,2370,320,"[3c,Qh]","[7c,3d,Ks]","Guest84440 calls $80.
+"
+680,55,"13:37:32,286",40,80,True,TURN,7310,2370,320,"[3c,Qh]","[7c,3d,Ks,5s]","TURN [board cards 7c,3d,Ks,5s]
+"
+681,55,"13:37:37,016",40,80,False,TURN,7110,2370,520,"[3c,Qh]","[7c,3d,Ks,5s]","Guest15166 bets $200.
+"
+682,55,"13:37:38,794",40,80,True,TURN,7110,2170,720,"[3c,Qh]","[7c,3d,Ks,5s]","Guest84440 calls $200.
+"
+683,55,"13:37:38,833",40,80,True,RIVER,7110,2170,720,"[3c,Qh]","[7c,3d,Ks,5s,Ts]","RIVER [board cards 7c,3d,Ks,5s,Ts]
+"
+684,55,"13:37:41,444",40,80,False,RIVER,7110,2170,720,"[3c,Qh]","[7c,3d,Ks,5s,Ts]","Guest15166 checks.
+"
+685,55,"13:37:41,805",40,80,True,RIVER,7110,2170,720,"[3c,Qh]","[7c,3d,Ks,5s,Ts]","Guest84440 checks.
+"
+685,55,"13:37:41,805",40,80,False,RIVER,7110,2170,720,"[3c,Qh]","[7c,3d,Ks,5s,Ts]","Guest15166 shows [ 3c,Qh] - One Pair, Threes
+"
+686,55,"13:37:41,849",40,80,False,RIVER,7830,2170,0,"[3c,Qh]","[7c,3d,Ks,5s,Ts]","Guest15166 wins $720
+"
+687,56,"13:37:49,071",40,80,True,PREFLOP,7790,2090,120,"[?s,?h]",,"PREFLOP
+"
+688,56,"13:37:55,168",40,80,False,PREFLOP,7750,2090,160,"[?s,?h]",,"Guest15166 calls $40.
+"
+689,56,"13:37:55,444",40,80,True,PREFLOP,7750,2010,240,"[?s,?h]",,"Guest84440 bets $80.
+"
+690,56,"13:37:56,947",40,80,False,PREFLOP,7670,2010,320,"[?s,?h]",,"Guest15166 calls $80.
+"
+691,56,"13:37:57,010",40,80,False,FLOP,7670,2010,320,"[?s,?h]","[6h,Kd,8s]","FLOP [board cards 6h,Kd,8s]
+"
+692,56,"13:38:02,149",40,80,True,FLOP,7670,1610,720,"[?s,?h]","[6h,Kd,8s]","Guest84440 bets $400.
+"
+693,56,"13:38:03,721",40,80,False,FLOP,7270,1610,1120,"[?s,?h]","[6h,Kd,8s]","Guest15166 calls $400.
+"
+694,56,"13:38:03,767",40,80,False,TURN,7270,1610,1120,"[?s,?h]","[6h,Kd,8s,5s]","TURN [board cards 6h,Kd,8s,5s]
+"
+695,56,"13:38:06,387",40,80,True,TURN,7270,1610,1120,"[?s,?h]","[6h,Kd,8s,5s]","Guest84440 checks.
+"
+696,56,"13:38:11,704",40,80,False,TURN,7190,1610,1200,"[?s,?h]","[6h,Kd,8s,5s]","Guest15166 bets $80.
+"
+697,56,"13:38:16,203",40,80,True,TURN,7190,1310,1500,"[?s,?h]","[6h,Kd,8s,5s]","Guest84440 bets $300.
+"
+698,56,"13:38:17,956",40,80,False,TURN,6970,1310,1720,"[?s,?h]","[6h,Kd,8s,5s]","Guest15166 calls $220.
+"
+699,56,"13:38:18,000",40,80,False,RIVER,6970,1310,1720,"[?s,?h]","[6h,Kd,8s,5s,2h]","RIVER [board cards 6h,Kd,8s,5s,2h]
+"
+700,56,"13:38:20,127",40,80,True,RIVER,6970,1310,1720,"[?s,?h]","[6h,Kd,8s,5s,2h]","Guest84440 checks.
+"
+701,56,"13:38:21,567",40,80,False,RIVER,6970,1310,1720,"[?s,?h]","[6h,Kd,8s,5s,2h]","Guest15166 checks.
+"
+701,56,"13:38:21,567",40,80,False,RIVER,6970,1310,1720,"[?s,?h]","[6h,Kd,8s,5s,2h]","Guest84440 shows [ 8c,8h] - Three of a Kind, Eights
+"
+702,56,"13:38:21,603",40,80,False,RIVER,6970,3030,0,"[?s,?h]","[6h,Kd,8s,5s,2h]","Guest84440 wins $1720
+"
+703,57,"13:38:28,702",40,80,False,PREFLOP,6890,2990,120,"[Jc,As]",,"PREFLOP
+"
+704,57,"13:38:30,558",40,80,True,PREFLOP,6890,2870,240,"[Jc,As]",,"Guest84440 bets $120.
+"
+705,57,"13:38:30,923",40,80,False,PREFLOP,6730,2870,400,"[Jc,As]",,"Guest15166 bets $160.
+"
+706,57,"13:38:32,380",40,80,True,PREFLOP,6730,2790,480,"[Jc,As]",,"Guest84440 calls $80.
+"
+707,57,"13:38:32,399",40,80,True,FLOP,6730,2790,480,"[Jc,As]","[5h,3h,6h]","FLOP [board cards 5h,3h,6h]
+"
+708,57,"13:38:39,313",40,80,False,FLOP,6730,2790,480,"[Jc,As]","[5h,3h,6h]","Guest15166 checks.
+"
+709,57,"13:38:39,497",40,80,True,FLOP,6730,2790,480,"[Jc,As]","[5h,3h,6h]","Guest84440 checks.
+"
+710,57,"13:38:39,547",40,80,True,TURN,6730,2790,480,"[Jc,As]","[5h,3h,6h,6c]","TURN [board cards 5h,3h,6h,6c]
+"
+711,57,"13:38:42,520",40,80,False,TURN,6730,2790,480,"[Jc,As]","[5h,3h,6h,6c]","Guest15166 checks.
+"
+712,57,"13:38:44,658",40,80,True,TURN,6730,2790,480,"[Jc,As]","[5h,3h,6h,6c]","Guest84440 checks.
+"
+713,57,"13:38:44,672",40,80,True,RIVER,6730,2790,480,"[Jc,As]","[5h,3h,6h,6c,4d]","RIVER [board cards 5h,3h,6h,6c,4d]
+"
+714,57,"13:38:47,529",40,80,False,RIVER,6730,2790,480,"[Jc,As]","[5h,3h,6h,6c,4d]","Guest15166 checks.
+"
+715,57,"13:38:48,650",40,80,True,RIVER,6730,2790,480,"[Jc,As]","[5h,3h,6h,6c,4d]","Guest84440 checks.
+"
+715,57,"13:38:48,650",40,80,False,RIVER,6730,2790,480,"[Jc,As]","[5h,3h,6h,6c,4d]","Guest15166 shows [ Jc,As] - One Pair, Sixes
+"
+715,57,"13:38:48,650",40,80,False,RIVER,6730,2790,480,"[Jc,As]","[5h,3h,6h,6c,4d]","Guest84440 shows [ 8d,2d] - Straight, Six high
+"
+716,57,"13:38:48,683",40,80,False,RIVER,6730,3270,0,"[Jc,As]","[5h,3h,6h,6c,4d]","Guest84440 wins $480
+"
+717,58,"13:38:55,633",40,80,True,PREFLOP,6690,3190,120,"[9d,3s]",,"PREFLOP
+"
+718,58,"13:38:59,208",40,80,False,PREFLOP,6650,3190,160,"[9d,3s]",,"Guest15166 calls $40.
+"
+719,58,"13:39:06,355",40,80,True,PREFLOP,6650,3190,160,"[9d,3s]",,"Guest84440 checks.
+"
+720,58,"13:39:06,366",40,80,False,FLOP,6650,3190,160,"[9d,3s]","[6s,3h,Js]","FLOP [board cards 6s,3h,Js]
+"
+721,58,"13:39:11,628",40,80,True,FLOP,6650,3190,160,"[9d,3s]","[6s,3h,Js]","Guest84440 checks.
+"
+722,58,"13:39:11,816",40,80,False,FLOP,6570,3190,240,"[9d,3s]","[6s,3h,Js]","Guest15166 bets $80.
+"
+723,58,"13:39:19,448",40,80,True,FLOP,6570,3110,320,"[9d,3s]","[6s,3h,Js]","Guest84440 calls $80.
+"
+724,58,"13:39:19,498",40,80,False,TURN,6570,3110,320,"[9d,3s]","[6s,3h,Js,8d]","TURN [board cards 6s,3h,Js,8d]
+"
+725,58,"13:39:22,007",40,80,True,TURN,6570,3110,320,"[9d,3s]","[6s,3h,Js,8d]","Guest84440 checks.
+"
+726,58,"13:39:24,467",40,80,False,TURN,6420,3110,470,"[9d,3s]","[6s,3h,Js,8d]","Guest15166 bets $150.
+"
+727,58,"13:39:25,738",40,80,True,TURN,6420,2960,620,"[9d,3s]","[6s,3h,Js,8d]","Guest84440 calls $150.
+"
+728,58,"13:39:25,786",40,80,False,RIVER,6420,2960,620,"[9d,3s]","[6s,3h,Js,8d,6c]","RIVER [board cards 6s,3h,Js,8d,6c]
+"
+729,58,"13:39:31,729",40,80,True,RIVER,6420,2960,620,"[9d,3s]","[6s,3h,Js,8d,6c]","Guest84440 checks.
+"
+730,58,"13:39:33,992",40,80,False,RIVER,6120,2960,920,"[9d,3s]","[6s,3h,Js,8d,6c]","Guest15166 bets $300.
+"
+731,58,"13:39:35,721",40,80,True,RIVER,6120,2660,1220,"[9d,3s]","[6s,3h,Js,8d,6c]","Guest84440 calls $300.
+"
+731,58,"13:39:35,721",40,80,False,RIVER,6120,2660,1220,"[9d,3s]","[6s,3h,Js,8d,6c]","Guest15166 shows [ 9d,3s] - Two Pair, Sixes and Threes
+"
+732,58,"13:39:35,756",40,80,False,RIVER,7340,2660,0,"[9d,3s]","[6s,3h,Js,8d,6c]","Guest15166 wins $1220
+"
+733,59,"13:39:42,778",40,80,False,PREFLOP,7260,2620,120,"[?s,?h]",,"PREFLOP
+"
+734,59,"13:39:45,339",40,80,True,PREFLOP,7260,2500,240,"[?s,?h]",,"Guest84440 bets $120.
+"
+735,59,"13:39:52,697",40,80,False,PREFLOP,7260,2500,240,"[?s,?h]",,"Guest15166 folds.
+"
+736,59,"13:39:52,758",40,80,False,PREFLOP,7260,2740,0,"[?s,?h]",,"Guest84440 wins $240
+"
+737,60,"13:40:00,301",40,80,True,PREFLOP,7220,2660,120,"[?s,?h]",,"PREFLOP
+"
+738,60,"13:40:04,726",40,80,False,PREFLOP,7180,2660,160,"[?s,?h]",,"Guest15166 calls $40.
+"
+739,60,"13:40:06,113",40,80,True,PREFLOP,7180,2660,160,"[?s,?h]",,"Guest84440 checks.
+"
+740,60,"13:40:06,127",40,80,False,FLOP,7180,2660,160,"[?s,?h]","[8h,Jh,Ac]","FLOP [board cards 8h,Jh,Ac]
+"
+741,60,"13:40:11,537",40,80,True,FLOP,7180,2660,160,"[?s,?h]","[8h,Jh,Ac]","Guest84440 checks.
+"
+742,60,"13:40:12,555",40,80,False,FLOP,7180,2660,160,"[?s,?h]","[8h,Jh,Ac]","Guest15166 checks.
+"
+743,60,"13:40:12,587",40,80,False,TURN,7180,2660,160,"[?s,?h]","[8h,Jh,Ac,As]","TURN [board cards 8h,Jh,Ac,As]
+"
+744,60,"13:40:15,648",40,80,True,TURN,7180,2660,160,"[?s,?h]","[8h,Jh,Ac,As]","Guest84440 checks.
+"
+745,60,"13:40:15,792",40,80,False,TURN,7180,2660,160,"[?s,?h]","[8h,Jh,Ac,As]","Guest15166 checks.
+"
+746,60,"13:40:15,838",40,80,False,RIVER,7180,2660,160,"[?s,?h]","[8h,Jh,Ac,As,9h]","RIVER [board cards 8h,Jh,Ac,As,9h]
+"
+747,60,"13:40:18,046",40,80,True,RIVER,7180,2580,240,"[?s,?h]","[8h,Jh,Ac,As,9h]","Guest84440 bets $80.
+"
+748,60,"13:40:27,537",40,80,False,RIVER,7180,2580,240,"[?s,?h]","[8h,Jh,Ac,As,9h]","Guest15166 folds.
+"
+749,60,"13:40:27,586",40,80,False,RIVER,7180,2820,0,"[?s,?h]","[8h,Jh,Ac,As,9h]","Guest84440 wins $240
+"
+750,61,"13:40:35,153",40,80,False,PREFLOP,7100,2780,120,"[8h,Qc]",,"PREFLOP
+"
+751,61,"13:40:37,018",40,80,True,PREFLOP,7100,2740,160,"[8h,Qc]",,"Guest84440 calls $40.
+"
+752,61,"13:40:37,167",40,80,False,PREFLOP,7100,2740,160,"[8h,Qc]",,"Guest15166 checks.
+"
+753,61,"13:40:37,216",40,80,True,FLOP,7100,2740,160,"[8h,Qc]","[Qh,As,6d]","FLOP [board cards Qh,As,6d]
+"
+754,61,"13:40:42,347",40,80,False,FLOP,7020,2740,240,"[8h,Qc]","[Qh,As,6d]","Guest15166 bets $80.
+"
+755,61,"13:40:44,385",40,80,True,FLOP,7020,2660,320,"[8h,Qc]","[Qh,As,6d]","Guest84440 calls $80.
+"
+756,61,"13:40:44,439",40,80,True,TURN,7020,2660,320,"[8h,Qc]","[Qh,As,6d,7s]","TURN [board cards Qh,As,6d,7s]
+"
+757,61,"13:40:50,357",40,80,False,TURN,6870,2660,470,"[8h,Qc]","[Qh,As,6d,7s]","Guest15166 bets $150.
+"
+758,61,"13:40:51,761",40,80,True,TURN,6870,2510,620,"[8h,Qc]","[Qh,As,6d,7s]","Guest84440 calls $150.
+"
+759,61,"13:40:51,772",40,80,True,RIVER,6870,2510,620,"[8h,Qc]","[Qh,As,6d,7s,Jd]","RIVER [board cards Qh,As,6d,7s,Jd]
+"
+760,61,"13:40:54,199",40,80,False,RIVER,6870,2510,620,"[8h,Qc]","[Qh,As,6d,7s,Jd]","Guest15166 checks.
+"
+761,61,"13:40:56,666",40,80,True,RIVER,6870,2510,620,"[8h,Qc]","[Qh,As,6d,7s,Jd]","Guest84440 checks.
+"
+761,61,"13:40:56,666",40,80,False,RIVER,6870,2510,620,"[8h,Qc]","[Qh,As,6d,7s,Jd]","Guest15166 shows [ 8h,Qc] - One Pair, Queens
+"
+762,61,"13:40:56,703",40,80,False,RIVER,7490,2510,0,"[8h,Qc]","[Qh,As,6d,7s,Jd]","Guest15166 wins $620
+"
+763,62,"13:41:03,989",40,80,True,PREFLOP,7450,2430,120,"[?s,?h]",,"PREFLOP
+"
+764,62,"13:41:06,557",40,80,False,PREFLOP,7410,2430,160,"[?s,?h]",,"Guest15166 calls $40.
+"
+765,62,"13:41:06,757",40,80,True,PREFLOP,7410,2430,160,"[?s,?h]",,"Guest84440 checks.
+"
+766,62,"13:41:06,816",40,80,False,FLOP,7410,2430,160,"[?s,?h]","[Ah,Tc,5d]","FLOP [board cards Ah,Tc,5d]
+"
+767,62,"13:41:11,977",40,80,True,FLOP,7410,2430,160,"[?s,?h]","[Ah,Tc,5d]","Guest84440 checks.
+"
+768,62,"13:41:12,147",40,80,False,FLOP,7330,2430,240,"[?s,?h]","[Ah,Tc,5d]","Guest15166 bets $80.
+"
+769,62,"13:41:16,929",40,80,True,FLOP,7330,2350,320,"[?s,?h]","[Ah,Tc,5d]","Guest84440 calls $80.
+"
+770,62,"13:41:16,949",40,80,False,TURN,7330,2350,320,"[?s,?h]","[Ah,Tc,5d,4d]","TURN [board cards Ah,Tc,5d,4d]
+"
+771,62,"13:41:19,282",40,80,True,TURN,7330,2350,320,"[?s,?h]","[Ah,Tc,5d,4d]","Guest84440 folds.
+"
+772,62,"13:41:19,328",40,80,False,TURN,7650,2350,0,"[?s,?h]","[Ah,Tc,5d,4d]","Guest15166 wins $320
+"
+773,63,"13:41:26,656",80,160,False,PREFLOP,7490,2270,240,"[?s,?h]",,"PREFLOP
+"
+774,63,"13:41:28,067",80,160,True,PREFLOP,7490,2190,320,"[?s,?h]",,"Guest84440 calls $80.
+"
+775,63,"13:41:28,893",80,160,False,PREFLOP,7490,2190,320,"[?s,?h]",,"Guest15166 checks.
+"
+776,63,"13:41:28,935",80,160,True,FLOP,7490,2190,320,"[?s,?h]","[Tc,3s,Kd]","FLOP [board cards Tc,3s,Kd]
+"
+777,63,"13:41:34,148",80,160,False,FLOP,7490,2190,320,"[?s,?h]","[Tc,3s,Kd]","Guest15166 checks.
+"
+778,63,"13:41:34,428",80,160,True,FLOP,7490,2030,480,"[?s,?h]","[Tc,3s,Kd]","Guest84440 bets $160.
+"
+779,63,"13:41:37,650",80,160,False,FLOP,7490,2030,480,"[?s,?h]","[Tc,3s,Kd]","Guest15166 folds.
+"
+780,63,"13:41:37,700",80,160,False,FLOP,7490,2510,0,"[?s,?h]","[Tc,3s,Kd]","Guest84440 wins $480
+"
+781,64,"13:41:45,029",80,160,True,PREFLOP,7410,2350,240,"[Kc,2d]",,"PREFLOP
+"
+782,64,"13:41:46,401",80,160,False,PREFLOP,7330,2350,320,"[Kc,2d]",,"Guest15166 calls $80.
+"
+783,64,"13:41:47,232",80,160,True,PREFLOP,7330,2350,320,"[Kc,2d]",,"Guest84440 checks.
+"
+784,64,"13:41:47,287",80,160,False,FLOP,7330,2350,320,"[Kc,2d]","[Ac,Ks,3h]","FLOP [board cards Ac,Ks,3h]
+"
+785,64,"13:41:52,417",80,160,True,FLOP,7330,2350,320,"[Kc,2d]","[Ac,Ks,3h]","Guest84440 checks.
+"
+786,64,"13:41:52,578",80,160,False,FLOP,7170,2350,480,"[Kc,2d]","[Ac,Ks,3h]","Guest15166 bets $160.
+"
+787,64,"13:41:57,349",80,160,True,FLOP,7170,2190,640,"[Kc,2d]","[Ac,Ks,3h]","Guest84440 calls $160.
+"
+788,64,"13:41:57,360",80,160,False,TURN,7170,2190,640,"[Kc,2d]","[Ac,Ks,3h,4s]","TURN [board cards Ac,Ks,3h,4s]
+"
+789,64,"13:42:01,443",80,160,True,TURN,7170,2190,640,"[Kc,2d]","[Ac,Ks,3h,4s]","Guest84440 checks.
+"
+790,64,"13:42:03,188",80,160,False,TURN,7010,2190,800,"[Kc,2d]","[Ac,Ks,3h,4s]","Guest15166 bets $160.
+"
+791,64,"13:42:07,274",80,160,True,TURN,7010,2030,960,"[Kc,2d]","[Ac,Ks,3h,4s]","Guest84440 calls $160.
+"
+792,64,"13:42:07,318",80,160,False,RIVER,7010,2030,960,"[Kc,2d]","[Ac,Ks,3h,4s,8s]","RIVER [board cards Ac,Ks,3h,4s,8s]
+"
+793,64,"13:42:15,667",80,160,True,RIVER,7010,2030,960,"[Kc,2d]","[Ac,Ks,3h,4s,8s]","Guest84440 checks.
+"
+794,64,"13:42:15,807",80,160,False,RIVER,6850,2030,1120,"[Kc,2d]","[Ac,Ks,3h,4s,8s]","Guest15166 bets $160.
+"
+795,64,"13:42:17,100",80,160,True,RIVER,6850,1870,1280,"[Kc,2d]","[Ac,Ks,3h,4s,8s]","Guest84440 calls $160.
+"
+795,64,"13:42:17,100",80,160,False,RIVER,6850,1870,1280,"[Kc,2d]","[Ac,Ks,3h,4s,8s]","Guest15166 shows [ Kc,2d] - One Pair, Kings
+"
+796,64,"13:42:17,112",80,160,False,RIVER,8130,1870,0,"[Kc,2d]","[Ac,Ks,3h,4s,8s]","Guest15166 wins $1280
+"
+797,65,"13:42:24,124",80,160,False,PREFLOP,7970,1790,240,"[?s,?h]",,"PREFLOP
+"
+798,65,"13:42:26,313",80,160,True,PREFLOP,7970,1550,480,"[?s,?h]",,"Guest84440 bets $240.
+"
+799,65,"13:42:28,771",80,160,False,PREFLOP,7810,1550,640,"[?s,?h]",,"Guest15166 calls $160.
+"
+800,65,"13:42:28,817",80,160,True,FLOP,7810,1550,640,"[?s,?h]","[3h,7c,Qd]","FLOP [board cards 3h,7c,Qd]
+"
+801,65,"13:42:34,708",80,160,False,FLOP,7810,1550,640,"[?s,?h]","[3h,7c,Qd]","Guest15166 checks.
+"
+802,65,"13:42:35,115",80,160,True,FLOP,7810,1550,640,"[?s,?h]","[3h,7c,Qd]","Guest84440 checks.
+"
+803,65,"13:42:35,127",80,160,True,TURN,7810,1550,640,"[?s,?h]","[3h,7c,Qd,5s]","TURN [board cards 3h,7c,Qd,5s]
+"
+804,65,"13:42:37,610",80,160,False,TURN,7810,1550,640,"[?s,?h]","[3h,7c,Qd,5s]","Guest15166 checks.
+"
+805,65,"13:42:37,770",80,160,True,TURN,7810,1390,800,"[?s,?h]","[3h,7c,Qd,5s]","Guest84440 bets $160.
+"
+806,65,"13:42:39,579",80,160,False,TURN,7650,1390,960,"[?s,?h]","[3h,7c,Qd,5s]","Guest15166 calls $160.
+"
+807,65,"13:42:39,607",80,160,True,RIVER,7650,1390,960,"[?s,?h]","[3h,7c,Qd,5s,4d]","RIVER [board cards 3h,7c,Qd,5s,4d]
+"
+808,65,"13:42:41,798",80,160,False,RIVER,7650,1390,960,"[?s,?h]","[3h,7c,Qd,5s,4d]","Guest15166 checks.
+"
+809,65,"13:42:42,580",80,160,True,RIVER,7650,1230,1120,"[?s,?h]","[3h,7c,Qd,5s,4d]","Guest84440 bets $160.
+"
+810,65,"13:42:45,497",80,160,False,RIVER,7650,1230,1120,"[?s,?h]","[3h,7c,Qd,5s,4d]","Guest15166 folds.
+"
+811,65,"13:42:45,549",80,160,False,RIVER,7650,2350,0,"[?s,?h]","[3h,7c,Qd,5s,4d]","Guest84440 wins $1120
+"
+812,66,"13:42:52,989",80,160,True,PREFLOP,7570,2190,240,"[?s,?h]",,"PREFLOP
+"
+813,66,"13:42:54,478",80,160,False,PREFLOP,7490,2190,320,"[?s,?h]",,"Guest15166 calls $80.
+"
+814,66,"13:42:54,637",80,160,True,PREFLOP,7490,2190,320,"[?s,?h]",,"Guest84440 checks.
+"
+815,66,"13:42:54,688",80,160,False,FLOP,7490,2190,320,"[?s,?h]","[Qc,2c,Kc]","FLOP [board cards Qc,2c,Kc]
+"
+816,66,"13:42:59,829",80,160,True,FLOP,7490,2190,320,"[?s,?h]","[Qc,2c,Kc]","Guest84440 folds.
+"
+817,66,"13:42:59,878",80,160,False,FLOP,7810,2190,0,"[?s,?h]","[Qc,2c,Kc]","Guest15166 wins $320
+"
+818,67,"13:43:07,233",80,160,False,PREFLOP,7650,2110,240,"[6d,8d]",,"PREFLOP
+"
+819,67,"13:43:07,358",80,160,True,PREFLOP,7650,1870,480,"[6d,8d]",,"Guest84440 bets $240.
+"
+820,67,"13:43:11,000",80,160,False,PREFLOP,7490,1870,640,"[6d,8d]",,"Guest15166 calls $160.
+"
+821,67,"13:43:11,052",80,160,True,FLOP,7490,1870,640,"[6d,8d]","[5d,Ad,Th]","FLOP [board cards 5d,Ad,Th]
+"
+822,67,"13:43:16,170",80,160,False,FLOP,7330,1870,800,"[6d,8d]","[5d,Ad,Th]","Guest15166 bets $160.
+"
+823,67,"13:43:17,417",80,160,True,FLOP,7330,1550,1120,"[6d,8d]","[5d,Ad,Th]","Guest84440 bets $320.
+"
+824,67,"13:43:18,868",80,160,False,FLOP,7170,1550,1280,"[6d,8d]","[5d,Ad,Th]","Guest15166 calls $160.
+"
+825,67,"13:43:18,917",80,160,True,TURN,7170,1550,1280,"[6d,8d]","[5d,Ad,Th,8c]","TURN [board cards 5d,Ad,Th,8c]
+"
+826,67,"13:43:23,938",80,160,False,TURN,7010,1550,1440,"[6d,8d]","[5d,Ad,Th,8c]","Guest15166 bets $160.
+"
+827,67,"13:43:30,574",80,160,True,TURN,7010,1230,1760,"[6d,8d]","[5d,Ad,Th,8c]","Guest84440 bets $320.
+"
+828,67,"13:43:31,920",80,160,False,TURN,6850,1230,1920,"[6d,8d]","[5d,Ad,Th,8c]","Guest15166 calls $160.
+"
+829,67,"13:43:31,957",80,160,True,RIVER,6850,1230,1920,"[6d,8d]","[5d,Ad,Th,8c,7d]","RIVER [board cards 5d,Ad,Th,8c,7d]
+"
+830,67,"13:43:43,088",80,160,False,RIVER,6550,1230,2220,"[6d,8d]","[5d,Ad,Th,8c,7d]","Guest15166 bets $300.
+"
+831,67,"13:43:43,673",80,160,True,RIVER,6550,630,2820,"[6d,8d]","[5d,Ad,Th,8c,7d]","Guest84440 bets $600.
+"
+832,67,"13:43:45,054",80,160,False,RIVER,6250,630,3120,"[6d,8d]","[5d,Ad,Th,8c,7d]","Guest15166 calls $300.
+"
+832,67,"13:43:45,054",80,160,False,RIVER,6250,630,3120,"[6d,8d]","[5d,Ad,Th,8c,7d]","Guest15166 shows [ 6d,8d] - Flush, Ace high
+"
+832,67,"13:43:45,054",80,160,False,RIVER,6250,630,3120,"[6d,8d]","[5d,Ad,Th,8c,7d]","Guest84440 shows [ As,Kh] - One Pair, Aces
+"
+833,67,"13:43:45,078",80,160,False,RIVER,9370,630,0,"[6d,8d]","[5d,Ad,Th,8c,7d]","Guest15166 wins $3120
+"
+834,68,"13:43:52,441",80,160,True,PREFLOP,9290,470,240,"[?s,?h]",,"PREFLOP
+"
+835,68,"13:43:53,609",80,160,False,PREFLOP,9210,470,320,"[?s,?h]",,"Guest15166 calls $80.
+"
+836,68,"13:43:53,771",80,160,True,PREFLOP,9210,310,480,"[?s,?h]",,"Guest84440 bets $160.
+"
+837,68,"13:44:01,229",80,160,False,PREFLOP,9210,310,480,"[?s,?h]",,"Guest15166 folds.
+"
+838,68,"13:44:01,278",80,160,False,PREFLOP,9210,790,0,"[?s,?h]",,"Guest84440 wins $480
+"
+839,69,"13:44:08,649",80,160,False,PREFLOP,9050,710,240,"[6d,5c]",,"PREFLOP
+"
+840,69,"13:44:10,078",80,160,True,PREFLOP,9050,630,320,"[6d,5c]",,"Guest84440 calls $80.
+"
+841,69,"13:44:10,227",80,160,False,PREFLOP,9050,630,320,"[6d,5c]",,"Guest15166 checks.
+"
+842,69,"13:44:10,279",80,160,True,FLOP,9050,630,320,"[6d,5c]","[Td,3c,9h]","FLOP [board cards Td,3c,9h]
+"
+843,69,"13:44:15,407",80,160,False,FLOP,9050,630,320,"[6d,5c]","[Td,3c,9h]","Guest15166 checks.
+"
+844,69,"13:44:15,568",80,160,True,FLOP,9050,630,320,"[6d,5c]","[Td,3c,9h]","Guest84440 checks.
+"
+845,69,"13:44:15,618",80,160,True,TURN,9050,630,320,"[6d,5c]","[Td,3c,9h,Qd]","TURN [board cards Td,3c,9h,Qd]
+"
+846,69,"13:44:18,628",80,160,False,TURN,9050,630,320,"[6d,5c]","[Td,3c,9h,Qd]","Guest15166 checks.
+"
+847,69,"13:44:18,791",80,160,True,TURN,9050,630,320,"[6d,5c]","[Td,3c,9h,Qd]","Guest84440 checks.
+"
+848,69,"13:44:18,838",80,160,True,RIVER,9050,630,320,"[6d,5c]","[Td,3c,9h,Qd,Kc]","RIVER [board cards Td,3c,9h,Qd,Kc]
+"
+849,69,"13:44:21,187",80,160,False,RIVER,9050,630,320,"[6d,5c]","[Td,3c,9h,Qd,Kc]","Guest15166 checks.
+"
+850,69,"13:44:21,742",80,160,True,RIVER,9050,630,320,"[6d,5c]","[Td,3c,9h,Qd,Kc]","Guest84440 checks.
+"
+850,69,"13:44:21,742",80,160,False,RIVER,9050,630,320,"[6d,5c]","[Td,3c,9h,Qd,Kc]","Guest15166 shows [ 6d,5c] - High Card, King
+"
+850,69,"13:44:21,742",80,160,False,RIVER,9050,630,320,"[6d,5c]","[Td,3c,9h,Qd,Kc]","Guest84440 shows [ As,8c] - High Card, Ace
+"
+851,69,"13:44:21,761",80,160,False,RIVER,9050,950,0,"[6d,5c]","[Td,3c,9h,Qd,Kc]","Guest84440 wins $320
+"
+852,70,"13:44:28,774",80,160,True,PREFLOP,8970,790,240,"[?s,?h]",,"PREFLOP
+"
+853,70,"13:44:30,638",80,160,False,PREFLOP,8890,790,320,"[?s,?h]",,"Guest15166 calls $80.
+"
+854,70,"13:44:32,408",80,160,True,PREFLOP,8890,790,320,"[?s,?h]",,"Guest84440 checks.
+"
+855,70,"13:44:32,457",80,160,False,FLOP,8890,790,320,"[?s,?h]","[9h,Th,Tc]","FLOP [board cards 9h,Th,Tc]
+"
+856,70,"13:44:37,708",80,160,True,FLOP,8890,790,320,"[?s,?h]","[9h,Th,Tc]","Guest84440 checks.
+"
+857,70,"13:44:37,859",80,160,False,FLOP,8890,790,320,"[?s,?h]","[9h,Th,Tc]","Guest15166 checks.
+"
+858,70,"13:44:37,899",80,160,False,TURN,8890,790,320,"[?s,?h]","[9h,Th,Tc,Jh]","TURN [board cards 9h,Th,Tc,Jh]
+"
+859,70,"13:44:40,267",80,160,True,TURN,8890,790,320,"[?s,?h]","[9h,Th,Tc,Jh]","Guest84440 checks.
+"
+860,70,"13:44:40,408",80,160,False,TURN,8890,790,320,"[?s,?h]","[9h,Th,Tc,Jh]","Guest15166 checks.
+"
+861,70,"13:44:40,458",80,160,False,RIVER,8890,790,320,"[?s,?h]","[9h,Th,Tc,Jh,Qs]","RIVER [board cards 9h,Th,Tc,Jh,Qs]
+"
+862,70,"13:44:45,408",80,160,True,RIVER,8890,790,320,"[?s,?h]","[9h,Th,Tc,Jh,Qs]","Guest84440 checks.
+"
+863,70,"13:44:47,533",80,160,False,RIVER,8490,790,720,"[?s,?h]","[9h,Th,Tc,Jh,Qs]","Guest15166 bets $400.
+"
+864,70,"13:44:55,428",80,160,True,RIVER,8490,790,720,"[?s,?h]","[9h,Th,Tc,Jh,Qs]","Guest84440 folds.
+"
+865,70,"13:44:55,461",80,160,False,RIVER,9210,790,0,"[?s,?h]","[9h,Th,Tc,Jh,Qs]","Guest15166 wins $720
+"
+866,71,"13:45:02,528",160,320,False,PREFLOP,8890,630,480,"[6s,3s]",,"PREFLOP
+"
+867,71,"13:45:05,769",160,320,True,PREFLOP,8890,470,640,"[6s,3s]",,"Guest84440 calls $160.
+"
+868,71,"13:45:05,929",160,320,False,PREFLOP,8890,470,640,"[6s,3s]",,"Guest15166 checks.
+"
+869,71,"13:45:05,979",160,320,True,FLOP,8890,470,640,"[6s,3s]","[8d,Qd,6d]","FLOP [board cards 8d,Qd,6d]
+"
+870,71,"13:45:11,816",160,320,False,FLOP,8570,470,960,"[6s,3s]","[8d,Qd,6d]","Guest15166 bets $320.
+"
+871,71,"13:45:13,932",160,320,True,FLOP,8570,150,1280,"[6s,3s]","[8d,Qd,6d]","Guest84440 calls $320.
+"
+872,71,"13:45:13,944",160,320,True,TURN,8570,150,1280,"[6s,3s]","[8d,Qd,6d,Qh]","TURN [board cards 8d,Qd,6d,Qh]
+"
+873,71,"13:45:16,233",160,320,False,TURN,8250,150,1600,"[6s,3s]","[8d,Qd,6d,Qh]","Guest15166 bets $320.
+"
+874,71,"13:45:18,058",160,320,True,TURN,8250,0,1750,"[6s,3s]","[8d,Qd,6d,Qh]","Guest84440 is all in with $150.
+"
+874,71,"13:45:18,058",160,320,False,TURN,8250,0,1750,"[6s,3s]","[8d,Qd,6d,Qh]","Guest15166 shows [6s,3s]
+"
+874,71,"13:45:18,058",160,320,False,TURN,8250,0,1750,"[6s,3s]","[8d,Qd,6d,Qh]","Guest84440 shows [9s,8s]
+"
+875,71,"13:45:18,069",160,320,True,RIVER,8250,0,1750,"[6s,3s]","[8d,Qd,6d,Qh,6c]","RIVER [board cards 8d,Qd,6d,Qh,6c]
+"
+876,71,"13:45:18,069",160,320,False,RIVER,10000,0,0,"[6s,3s]","[8d,Qd,6d,Qh,6c]","Guest15166 wins $1750
+"
+877,72,"13:45:35,633",10,20,True,PREFLOP,4990,4980,30,"[?s,?h]",,"PREFLOP
+"
+878,72,"13:45:38,678",10,20,False,PREFLOP,4980,4980,40,"[?s,?h]",,"Guest15166 calls $10.
+"
+879,72,"13:45:40,538",10,20,True,PREFLOP,4980,4980,40,"[?s,?h]",,"Guest84440 checks.
+"
+880,72,"13:45:40,551",10,20,False,FLOP,4980,4980,40,"[?s,?h]","[2s,Ac,8c]","FLOP [board cards 2s,Ac,8c]
+"
+881,72,"13:45:45,608",10,20,True,FLOP,4980,4980,40,"[?s,?h]","[2s,Ac,8c]","Guest84440 checks.
+"
+882,72,"13:45:48,698",10,20,False,FLOP,4960,4980,60,"[?s,?h]","[2s,Ac,8c]","Guest15166 bets $20.
+"
+883,72,"13:45:51,284",10,20,True,FLOP,4960,4960,80,"[?s,?h]","[2s,Ac,8c]","Guest84440 calls $20.
+"
+884,72,"13:45:51,284",10,20,False,TURN,4960,4960,80,"[?s,?h]","[2s,Ac,8c,Qc]","TURN [board cards 2s,Ac,8c,Qc]
+"
+885,72,"13:45:54,463",10,20,True,TURN,4960,4960,80,"[?s,?h]","[2s,Ac,8c,Qc]","Guest84440 checks.
+"
+886,72,"13:45:54,585",10,20,False,TURN,4940,4960,100,"[?s,?h]","[2s,Ac,8c,Qc]","Guest15166 bets $20.
+"
+887,72,"13:45:57,013",10,20,True,TURN,4940,4940,120,"[?s,?h]","[2s,Ac,8c,Qc]","Guest84440 calls $20.
+"
+888,72,"13:45:57,025",10,20,False,RIVER,4940,4940,120,"[?s,?h]","[2s,Ac,8c,Qc,5c]","RIVER [board cards 2s,Ac,8c,Qc,5c]
+"
+889,72,"13:46:03,975",10,20,True,RIVER,4940,4940,120,"[?s,?h]","[2s,Ac,8c,Qc,5c]","Guest84440 folds.
+"
+890,72,"13:46:03,975",10,20,False,RIVER,5060,4940,0,"[?s,?h]","[2s,Ac,8c,Qc,5c]","Guest15166 wins $120
+"
+891,73,"13:46:11,321",10,20,False,PREFLOP,5040,4930,30,"[?s,?h]",,"PREFLOP
+"
+892,73,"13:46:13,509",10,20,True,PREFLOP,5040,4920,40,"[?s,?h]",,"Guest84440 calls $10.
+"
+893,73,"13:46:13,674",10,20,False,PREFLOP,5040,4920,40,"[?s,?h]",,"Guest15166 checks.
+"
+894,73,"13:46:13,719",10,20,True,FLOP,5040,4920,40,"[?s,?h]","[9s,Td,6d]","FLOP [board cards 9s,Td,6d]
+"
+895,73,"13:46:18,839",10,20,False,FLOP,5040,4920,40,"[?s,?h]","[9s,Td,6d]","Guest15166 checks.
+"
+896,73,"13:46:18,998",10,20,True,FLOP,5040,4900,60,"[?s,?h]","[9s,Td,6d]","Guest84440 bets $20.
+"
+897,73,"13:46:20,268",10,20,False,FLOP,5020,4900,80,"[?s,?h]","[9s,Td,6d]","Guest15166 calls $20.
+"
+898,73,"13:46:20,308",10,20,True,TURN,5020,4900,80,"[?s,?h]","[9s,Td,6d,7s]","TURN [board cards 9s,Td,6d,7s]
+"
+899,73,"13:46:23,569",10,20,False,TURN,5020,4900,80,"[?s,?h]","[9s,Td,6d,7s]","Guest15166 checks.
+"
+900,73,"13:46:26,793",10,20,True,TURN,5020,4450,530,"[?s,?h]","[9s,Td,6d,7s]","Guest84440 bets $450.
+"
+901,73,"13:46:29,017",10,20,False,TURN,5020,4450,530,"[?s,?h]","[9s,Td,6d,7s]","Guest15166 folds.
+"
+902,73,"13:46:29,077",10,20,False,TURN,5020,4980,0,"[?s,?h]","[9s,Td,6d,7s]","Guest84440 wins $530
+"
+903,74,"13:46:36,164",10,20,True,PREFLOP,5010,4960,30,"[?s,?h]",,"PREFLOP
+"
+904,74,"13:46:38,430",10,20,False,PREFLOP,5000,4960,40,"[?s,?h]",,"Guest15166 calls $10.
+"
+905,74,"13:46:38,649",10,20,True,PREFLOP,5000,4960,40,"[?s,?h]",,"Guest84440 checks.
+"
+906,74,"13:46:38,708",10,20,False,FLOP,5000,4960,40,"[?s,?h]","[3s,Tc,Ac]","FLOP [board cards 3s,Tc,Ac]
+"
+907,74,"13:46:43,849",10,20,True,FLOP,5000,4660,340,"[?s,?h]","[3s,Tc,Ac]","Guest84440 bets $300.
+"
+908,74,"13:46:49,498",10,20,False,FLOP,5000,4660,340,"[?s,?h]","[3s,Tc,Ac]","Guest15166 folds.
+"
+909,74,"13:46:49,566",10,20,False,FLOP,5000,5000,0,"[?s,?h]","[3s,Tc,Ac]","Guest84440 wins $340
+"
+910,75,"13:46:56,885",10,20,False,PREFLOP,4980,4990,30,"[3c,9s]",,"PREFLOP
+"
+911,75,"13:46:58,669",10,20,True,PREFLOP,4980,4980,40,"[3c,9s]",,"Guest84440 calls $10.
+"
+912,75,"13:46:58,828",10,20,False,PREFLOP,4980,4980,40,"[3c,9s]",,"Guest15166 checks.
+"
+913,75,"13:46:58,879",10,20,True,FLOP,4980,4980,40,"[3c,9s]","[2c,Kd,9h]","FLOP [board cards 2c,Kd,9h]
+"
+914,75,"13:47:03,991",10,20,False,FLOP,4960,4980,60,"[3c,9s]","[2c,Kd,9h]","Guest15166 bets $20.
+"
+915,75,"13:47:05,788",10,20,True,FLOP,4960,4960,80,"[3c,9s]","[2c,Kd,9h]","Guest84440 calls $20.
+"
+916,75,"13:47:05,839",10,20,True,TURN,4960,4960,80,"[3c,9s]","[2c,Kd,9h,9c]","TURN [board cards 2c,Kd,9h,9c]
+"
+917,75,"13:47:11,409",10,20,False,TURN,4910,4960,130,"[3c,9s]","[2c,Kd,9h,9c]","Guest15166 bets $50.
+"
+918,75,"13:47:13,456",10,20,True,TURN,4910,4910,180,"[3c,9s]","[2c,Kd,9h,9c]","Guest84440 calls $50.
+"
+919,75,"13:47:13,471",10,20,True,RIVER,4910,4910,180,"[3c,9s]","[2c,Kd,9h,9c,Js]","RIVER [board cards 2c,Kd,9h,9c,Js]
+"
+920,75,"13:47:17,159",10,20,False,RIVER,4710,4910,380,"[3c,9s]","[2c,Kd,9h,9c,Js]","Guest15166 bets $200.
+"
+921,75,"13:47:21,030",10,20,True,RIVER,4710,4160,1130,"[3c,9s]","[2c,Kd,9h,9c,Js]","Guest84440 bets $750.
+"
+922,75,"13:47:22,975",10,20,False,RIVER,3610,4160,2230,"[3c,9s]","[2c,Kd,9h,9c,Js]","Guest15166 bets $1100.
+"
+923,75,"13:47:24,815",10,20,True,RIVER,3610,3610,2780,"[3c,9s]","[2c,Kd,9h,9c,Js]","Guest84440 calls $550.
+"
+923,75,"13:47:24,815",10,20,False,RIVER,3610,3610,2780,"[3c,9s]","[2c,Kd,9h,9c,Js]","Guest15166 shows [ 3c,9s] - Three of a Kind, Nines
+"
+924,75,"13:47:24,827",10,20,False,RIVER,6390,3610,0,"[3c,9s]","[2c,Kd,9h,9c,Js]","Guest15166 wins $2780
+"
+925,76,"13:47:31,777",10,20,True,PREFLOP,6380,3590,30,"[?s,?h]",,"PREFLOP
+"
+926,76,"13:47:33,318",10,20,False,PREFLOP,6370,3590,40,"[?s,?h]",,"Guest15166 calls $10.
+"
+927,76,"13:47:34,509",10,20,True,PREFLOP,6370,3590,40,"[?s,?h]",,"Guest84440 checks.
+"
+928,76,"13:47:34,558",10,20,False,FLOP,6370,3590,40,"[?s,?h]","[2s,6h,8s]","FLOP [board cards 2s,6h,8s]
+"
+929,76,"13:47:39,718",10,20,True,FLOP,6370,3240,390,"[?s,?h]","[2s,6h,8s]","Guest84440 bets $350.
+"
+930,76,"13:47:42,800",10,20,False,FLOP,6370,3240,390,"[?s,?h]","[2s,6h,8s]","Guest15166 folds.
+"
+931,76,"13:47:42,862",10,20,False,FLOP,6370,3630,0,"[?s,?h]","[2s,6h,8s]","Guest84440 wins $390
+"
+932,77,"13:47:49,944",10,20,False,PREFLOP,6350,3620,30,"[?s,?h]",,"PREFLOP
+"
+933,77,"13:47:51,932",10,20,True,PREFLOP,6350,3610,40,"[?s,?h]",,"Guest84440 calls $10.
+"
+934,77,"13:47:52,089",10,20,False,PREFLOP,6330,3610,60,"[?s,?h]",,"Guest15166 bets $20.
+"
+935,77,"13:47:53,878",10,20,True,PREFLOP,6330,3590,80,"[?s,?h]",,"Guest84440 calls $20.
+"
+936,77,"13:47:53,889",10,20,True,FLOP,6330,3590,80,"[?s,?h]","[9s,Qh,4c]","FLOP [board cards 9s,Qh,4c]
+"
+937,77,"13:47:58,918",10,20,False,FLOP,6310,3590,100,"[?s,?h]","[9s,Qh,4c]","Guest15166 bets $20.
+"
+938,77,"13:47:59,151",10,20,True,FLOP,6310,3550,140,"[?s,?h]","[9s,Qh,4c]","Guest84440 bets $40.
+"
+939,77,"13:48:01,320",10,20,False,FLOP,6290,3550,160,"[?s,?h]","[9s,Qh,4c]","Guest15166 calls $20.
+"
+940,77,"13:48:01,367",10,20,True,TURN,6290,3550,160,"[?s,?h]","[9s,Qh,4c,2c]","TURN [board cards 9s,Qh,4c,2c]
+"
+941,77,"13:48:06,199",10,20,False,TURN,6290,3550,160,"[?s,?h]","[9s,Qh,4c,2c]","Guest15166 checks.
+"
+942,77,"13:48:06,365",10,20,True,TURN,6290,3530,180,"[?s,?h]","[9s,Qh,4c,2c]","Guest84440 bets $20.
+"
+943,77,"13:48:08,940",10,20,False,TURN,6270,3530,200,"[?s,?h]","[9s,Qh,4c,2c]","Guest15166 calls $20.
+"
+944,77,"13:48:08,978",10,20,True,RIVER,6270,3530,200,"[?s,?h]","[9s,Qh,4c,2c,Kh]","RIVER [board cards 9s,Qh,4c,2c,Kh]
+"
+945,77,"13:48:12,341",10,20,False,RIVER,6270,3530,200,"[?s,?h]","[9s,Qh,4c,2c,Kh]","Guest15166 checks.
+"
+946,77,"13:48:12,519",10,20,True,RIVER,6270,3130,600,"[?s,?h]","[9s,Qh,4c,2c,Kh]","Guest84440 bets $400.
+"
+947,77,"13:48:14,782",10,20,False,RIVER,6270,3130,600,"[?s,?h]","[9s,Qh,4c,2c,Kh]","Guest15166 folds.
+"
+948,77,"13:48:14,815",10,20,False,RIVER,6270,3730,0,"[?s,?h]","[9s,Qh,4c,2c,Kh]","Guest84440 wins $600
+"
+949,78,"13:48:21,874",10,20,True,PREFLOP,6260,3710,30,"[4c,5s]",,"PREFLOP
+"
+950,78,"13:48:24,479",10,20,False,PREFLOP,6250,3710,40,"[4c,5s]",,"Guest15166 calls $10.
+"
+951,78,"13:48:24,639",10,20,True,PREFLOP,6250,3710,40,"[4c,5s]",,"Guest84440 checks.
+"
+952,78,"13:48:24,689",10,20,False,FLOP,6250,3710,40,"[4c,5s]","[3d,8h,Kh]","FLOP [board cards 3d,8h,Kh]
+"
+953,78,"13:48:29,799",10,20,True,FLOP,6250,3690,60,"[4c,5s]","[3d,8h,Kh]","Guest84440 bets $20.
+"
+954,78,"13:48:30,099",10,20,False,FLOP,6210,3690,100,"[4c,5s]","[3d,8h,Kh]","Guest15166 bets $40.
+"
+955,78,"13:48:30,821",10,20,True,FLOP,6210,3650,140,"[4c,5s]","[3d,8h,Kh]","Guest84440 bets $40.
+"
+956,78,"13:48:32,719",10,20,False,FLOP,6190,3650,160,"[4c,5s]","[3d,8h,Kh]","Guest15166 calls $20.
+"
+957,78,"13:48:32,768",10,20,False,TURN,6190,3650,160,"[4c,5s]","[3d,8h,Kh,4s]","TURN [board cards 3d,8h,Kh,4s]
+"
+958,78,"13:48:35,079",10,20,True,TURN,6190,3650,160,"[4c,5s]","[3d,8h,Kh,4s]","Guest84440 checks.
+"
+959,78,"13:48:37,288",10,20,False,TURN,6140,3650,210,"[4c,5s]","[3d,8h,Kh,4s]","Guest15166 bets $50.
+"
+960,78,"13:48:39,518",10,20,True,TURN,6140,3600,260,"[4c,5s]","[3d,8h,Kh,4s]","Guest84440 calls $50.
+"
+961,78,"13:48:39,518",10,20,False,RIVER,6140,3600,260,"[4c,5s]","[3d,8h,Kh,4s,5h]","RIVER [board cards 3d,8h,Kh,4s,5h]
+"
+962,78,"13:48:44,533",10,20,True,RIVER,6140,3600,260,"[4c,5s]","[3d,8h,Kh,4s,5h]","Guest84440 checks.
+"
+963,78,"13:48:44,679",10,20,False,RIVER,5840,3600,560,"[4c,5s]","[3d,8h,Kh,4s,5h]","Guest15166 bets $300.
+"
+964,78,"13:48:50,781",10,20,True,RIVER,5840,3300,860,"[4c,5s]","[3d,8h,Kh,4s,5h]","Guest84440 calls $300.
+"
+964,78,"13:48:50,781",10,20,False,RIVER,5840,3300,860,"[4c,5s]","[3d,8h,Kh,4s,5h]","Guest15166 shows [ 4c,5s] - Two Pair, Fives and Fours
+"
+965,78,"13:48:50,805",10,20,False,RIVER,6700,3300,0,"[4c,5s]","[3d,8h,Kh,4s,5h]","Guest15166 wins $860
+"
+966,79,"13:48:57,793",10,20,False,PREFLOP,6680,3290,30,"[?s,?h]",,"PREFLOP
+"
+967,79,"13:49:00,450",10,20,True,PREFLOP,6680,3260,60,"[?s,?h]",,"Guest84440 bets $30.
+"
+968,79,"13:49:02,966",10,20,False,PREFLOP,6660,3260,80,"[?s,?h]",,"Guest15166 calls $20.
+"
+969,79,"13:49:02,998",10,20,True,FLOP,6660,3260,80,"[?s,?h]","[4h,6d,5d]","FLOP [board cards 4h,6d,5d]
+"
+970,79,"13:49:11,499",10,20,False,FLOP,6610,3260,130,"[?s,?h]","[4h,6d,5d]","Guest15166 bets $50.
+"
+971,79,"13:49:12,894",10,20,True,FLOP,6610,3210,180,"[?s,?h]","[4h,6d,5d]","Guest84440 calls $50.
+"
+972,79,"13:49:12,939",10,20,True,TURN,6610,3210,180,"[?s,?h]","[4h,6d,5d,6h]","TURN [board cards 4h,6d,5d,6h]
+"
+973,79,"13:49:18,090",10,20,False,TURN,6460,3210,330,"[?s,?h]","[4h,6d,5d,6h]","Guest15166 bets $150.
+"
+974,79,"13:49:24,750",10,20,True,TURN,6460,3060,480,"[?s,?h]","[4h,6d,5d,6h]","Guest84440 calls $150.
+"
+975,79,"13:49:24,761",10,20,True,RIVER,6460,3060,480,"[?s,?h]","[4h,6d,5d,6h,5c]","RIVER [board cards 4h,6d,5d,6h,5c]
+"
+976,79,"13:49:30,829",10,20,False,RIVER,5460,3060,1480,"[?s,?h]","[4h,6d,5d,6h,5c]","Guest15166 bets $1000.
+"
+977,79,"13:49:33,670",10,20,True,RIVER,5460,3060,1480,"[?s,?h]","[4h,6d,5d,6h,5c]","Guest84440 folds.
+"
+978,79,"13:49:33,684",10,20,False,RIVER,6940,3060,0,"[?s,?h]","[4h,6d,5d,6h,5c]","Guest15166 wins $1480
+"
+979,80,"13:49:40,725",20,40,True,PREFLOP,6920,3020,60,"[Tc,Ah]",,"PREFLOP
+"
+980,80,"13:49:44,299",20,40,False,PREFLOP,6900,3020,80,"[Tc,Ah]",,"Guest15166 calls $20.
+"
+981,80,"13:49:44,488",20,40,True,PREFLOP,6900,3020,80,"[Tc,Ah]",,"Guest84440 checks.
+"
+982,80,"13:49:44,550",20,40,False,FLOP,6900,3020,80,"[Tc,Ah]","[2h,6h,4s]","FLOP [board cards 2h,6h,4s]
+"
+983,80,"13:49:49,680",20,40,True,FLOP,6900,3020,80,"[Tc,Ah]","[2h,6h,4s]","Guest84440 checks.
+"
+984,80,"13:49:49,873",20,40,False,FLOP,6900,3020,80,"[Tc,Ah]","[2h,6h,4s]","Guest15166 checks.
+"
+985,80,"13:49:49,920",20,40,False,TURN,6900,3020,80,"[Tc,Ah]","[2h,6h,4s,Th]","TURN [board cards 2h,6h,4s,Th]
+"
+986,80,"13:49:52,410",20,40,True,TURN,6900,3020,80,"[Tc,Ah]","[2h,6h,4s,Th]","Guest84440 checks.
+"
+987,80,"13:49:54,248",20,40,False,TURN,6850,3020,130,"[Tc,Ah]","[2h,6h,4s,Th]","Guest15166 bets $50.
+"
+988,80,"13:49:59,338",20,40,True,TURN,6850,2970,180,"[Tc,Ah]","[2h,6h,4s,Th]","Guest84440 calls $50.
+"
+989,80,"13:49:59,349",20,40,False,RIVER,6850,2970,180,"[Tc,Ah]","[2h,6h,4s,Th,2s]","RIVER [board cards 2h,6h,4s,Th,2s]
+"
+990,80,"13:50:02,105",20,40,True,RIVER,6850,2970,180,"[Tc,Ah]","[2h,6h,4s,Th,2s]","Guest84440 checks.
+"
+991,80,"13:50:02,869",20,40,False,RIVER,6810,2970,220,"[Tc,Ah]","[2h,6h,4s,Th,2s]","Guest15166 bets $40.
+"
+992,80,"13:50:04,139",20,40,True,RIVER,6810,2930,260,"[Tc,Ah]","[2h,6h,4s,Th,2s]","Guest84440 calls $40.
+"
+992,80,"13:50:04,139",20,40,False,RIVER,6810,2930,260,"[Tc,Ah]","[2h,6h,4s,Th,2s]","Guest15166 shows [ Tc,Ah] - Two Pair, Tens and Deuces
+"
+993,80,"13:50:04,179",20,40,False,RIVER,7070,2930,0,"[Tc,Ah]","[2h,6h,4s,Th,2s]","Guest15166 wins $260
+"
+994,81,"13:50:11,272",20,40,False,PREFLOP,7030,2910,60,"[7d,6h]",,"PREFLOP
+"
+995,81,"13:50:12,838",20,40,True,PREFLOP,7030,2890,80,"[7d,6h]",,"Guest84440 calls $20.
+"
+996,81,"13:50:13,500",20,40,False,PREFLOP,7030,2890,80,"[7d,6h]",,"Guest15166 checks.
+"
+997,81,"13:50:13,550",20,40,True,FLOP,7030,2890,80,"[7d,6h]","[4d,Jc,2d]","FLOP [board cards 4d,Jc,2d]
+"
+998,81,"13:50:18,670",20,40,False,FLOP,7030,2890,80,"[7d,6h]","[4d,Jc,2d]","Guest15166 checks.
+"
+999,81,"13:50:18,829",20,40,True,FLOP,7030,2890,80,"[7d,6h]","[4d,Jc,2d]","Guest84440 checks.
+"
+1000,81,"13:50:18,878",20,40,True,TURN,7030,2890,80,"[7d,6h]","[4d,Jc,2d,As]","TURN [board cards 4d,Jc,2d,As]
+"
+1001,81,"13:50:21,335",20,40,False,TURN,7030,2890,80,"[7d,6h]","[4d,Jc,2d,As]","Guest15166 checks.
+"
+1002,81,"13:50:23,489",20,40,True,TURN,7030,2890,80,"[7d,6h]","[4d,Jc,2d,As]","Guest84440 checks.
+"
+1003,81,"13:50:23,501",20,40,True,RIVER,7030,2890,80,"[7d,6h]","[4d,Jc,2d,As,6d]","RIVER [board cards 4d,Jc,2d,As,6d]
+"
+1004,81,"13:50:27,914",20,40,False,RIVER,6930,2890,180,"[7d,6h]","[4d,Jc,2d,As,6d]","Guest15166 bets $100.
+"
+1005,81,"13:50:28,110",20,40,True,RIVER,6930,2790,280,"[7d,6h]","[4d,Jc,2d,As,6d]","Guest84440 calls $100.
+"
+1005,81,"13:50:28,110",20,40,False,RIVER,6930,2790,280,"[7d,6h]","[4d,Jc,2d,As,6d]","Guest15166 shows [ 7d,6h] - One Pair, Sixes
+"
+1006,81,"13:50:28,146",20,40,False,RIVER,7210,2790,0,"[7d,6h]","[4d,Jc,2d,As,6d]","Guest15166 wins $280
+"
+1007,82,"13:50:35,219",20,40,True,PREFLOP,7190,2750,60,"[?s,?h]",,"PREFLOP
+"
+1008,82,"13:50:37,204",20,40,False,PREFLOP,7130,2750,120,"[?s,?h]",,"Guest15166 bets $60.
+"
+1009,82,"13:50:39,044",20,40,True,PREFLOP,7130,2710,160,"[?s,?h]",,"Guest84440 calls $40.
+"
+1010,82,"13:50:39,068",20,40,False,FLOP,7130,2710,160,"[?s,?h]","[As,7c,Ts]","FLOP [board cards As,7c,Ts]
+"
+1011,82,"13:50:44,219",20,40,True,FLOP,7130,2710,160,"[?s,?h]","[As,7c,Ts]","Guest84440 checks.
+"
+1012,82,"13:50:45,749",20,40,False,FLOP,7080,2710,210,"[?s,?h]","[As,7c,Ts]","Guest15166 bets $50.
+"
+1013,82,"13:50:51,530",20,40,True,FLOP,7080,2710,210,"[?s,?h]","[As,7c,Ts]","Guest84440 folds.
+"
+1014,82,"13:50:51,549",20,40,False,FLOP,7290,2710,0,"[?s,?h]","[As,7c,Ts]","Guest15166 wins $210
+"
+1015,83,"13:50:58,546",20,40,False,PREFLOP,7250,2690,60,"[?s,?h]",,"PREFLOP
+"
+1016,83,"13:51:00,176",20,40,True,PREFLOP,7250,2670,80,"[?s,?h]",,"Guest84440 calls $20.
+"
+1017,83,"13:51:00,329",20,40,False,PREFLOP,7210,2670,120,"[?s,?h]",,"Guest15166 bets $40.
+"
+1018,83,"13:51:02,179",20,40,True,PREFLOP,7210,2630,160,"[?s,?h]",,"Guest84440 calls $40.
+"
+1019,83,"13:51:02,240",20,40,True,FLOP,7210,2630,160,"[?s,?h]","[Jd,Tc,7h]","FLOP [board cards Jd,Tc,7h]
+"
+1020,83,"13:51:07,595",20,40,False,FLOP,7110,2630,260,"[?s,?h]","[Jd,Tc,7h]","Guest15166 bets $100.
+"
+1021,83,"13:51:09,538",20,40,True,FLOP,7110,2530,360,"[?s,?h]","[Jd,Tc,7h]","Guest84440 calls $100.
+"
+1022,83,"13:51:09,579",20,40,True,TURN,7110,2530,360,"[?s,?h]","[Jd,Tc,7h,9h]","TURN [board cards Jd,Tc,7h,9h]
+"
+1023,83,"13:51:13,109",20,40,False,TURN,7070,2530,400,"[?s,?h]","[Jd,Tc,7h,9h]","Guest15166 bets $40.
+"
+1024,83,"13:51:17,929",20,40,True,TURN,7070,2530,400,"[?s,?h]","[Jd,Tc,7h,9h]","Guest84440 folds.
+"
+1025,83,"13:51:17,969",20,40,False,TURN,7470,2530,0,"[?s,?h]","[Jd,Tc,7h,9h]","Guest15166 wins $400
+"
+1026,84,"13:51:25,031",20,40,True,PREFLOP,7450,2490,60,"[?s,?h]",,"PREFLOP
+"
+1027,84,"13:51:28,150",20,40,False,PREFLOP,7450,2490,60,"[?s,?h]",,"Guest15166 folds.
+"
+1028,84,"13:51:28,199",20,40,False,PREFLOP,7450,2550,0,"[?s,?h]",,"Guest84440 wins $60
+"
+1029,85,"13:51:35,287",20,40,False,PREFLOP,7410,2530,60,"[Jh,4h]",,"PREFLOP
+"
+1030,85,"13:51:37,783",20,40,True,PREFLOP,7410,2510,80,"[Jh,4h]",,"Guest84440 calls $20.
+"
+1031,85,"13:51:37,939",20,40,False,PREFLOP,7410,2510,80,"[Jh,4h]",,"Guest15166 checks.
+"
+1032,85,"13:51:37,989",20,40,True,FLOP,7410,2510,80,"[Jh,4h]","[7h,Qc,4c]","FLOP [board cards 7h,Qc,4c]
+"
+1033,85,"13:51:43,110",20,40,False,FLOP,7310,2510,180,"[Jh,4h]","[7h,Qc,4c]","Guest15166 bets $100.
+"
+1034,85,"13:51:48,549",20,40,True,FLOP,7310,2410,280,"[Jh,4h]","[7h,Qc,4c]","Guest84440 calls $100.
+"
+1035,85,"13:51:48,564",20,40,True,TURN,7310,2410,280,"[Jh,4h]","[7h,Qc,4c,8h]","TURN [board cards 7h,Qc,4c,8h]
+"
+1036,85,"13:51:53,649",20,40,False,TURN,7110,2410,480,"[Jh,4h]","[7h,Qc,4c,8h]","Guest15166 bets $200.
+"
+1037,85,"13:51:56,829",20,40,True,TURN,7110,2210,680,"[Jh,4h]","[7h,Qc,4c,8h]","Guest84440 calls $200.
+"
+1038,85,"13:51:56,841",20,40,True,RIVER,7110,2210,680,"[Jh,4h]","[7h,Qc,4c,8h,5s]","RIVER [board cards 7h,Qc,4c,8h,5s]
+"
+1039,85,"13:52:01,479",20,40,False,RIVER,7110,2210,680,"[Jh,4h]","[7h,Qc,4c,8h,5s]","Guest15166 checks.
+"
+1040,85,"13:52:02,958",20,40,True,RIVER,7110,2210,680,"[Jh,4h]","[7h,Qc,4c,8h,5s]","Guest84440 checks.
+"
+1040,85,"13:52:02,958",20,40,False,RIVER,7110,2210,680,"[Jh,4h]","[7h,Qc,4c,8h,5s]","Guest15166 shows [ Jh,4h] - One Pair, Fours
+"
+1041,85,"13:52:02,993",20,40,False,RIVER,7790,2210,0,"[Jh,4h]","[7h,Qc,4c,8h,5s]","Guest15166 wins $680
+"
+1042,86,"13:52:10,079",20,40,True,PREFLOP,7770,2170,60,"[?s,?h]",,"PREFLOP
+"
+1043,86,"13:52:12,404",20,40,False,PREFLOP,7750,2170,80,"[?s,?h]",,"Guest15166 calls $20.
+"
+1044,86,"13:52:12,580",20,40,True,PREFLOP,7750,2170,80,"[?s,?h]",,"Guest84440 checks.
+"
+1045,86,"13:52:12,629",20,40,False,FLOP,7750,2170,80,"[?s,?h]","[4c,Th,6s]","FLOP [board cards 4c,Th,6s]
+"
+1046,86,"13:52:17,769",20,40,True,FLOP,7750,2170,80,"[?s,?h]","[4c,Th,6s]","Guest84440 folds.
+"
+1047,86,"13:52:17,821",20,40,False,FLOP,7830,2170,0,"[?s,?h]","[4c,Th,6s]","Guest15166 wins $80
+"
+1048,87,"13:52:24,915",20,40,False,PREFLOP,7790,2150,60,"[?s,?h]",,"PREFLOP
+"
+1049,87,"13:52:26,626",20,40,True,PREFLOP,7790,2130,80,"[?s,?h]",,"Guest84440 calls $20.
+"
+1050,87,"13:52:27,590",20,40,False,PREFLOP,7750,2130,120,"[?s,?h]",,"Guest15166 bets $40.
+"
+1051,87,"13:52:30,076",20,40,True,PREFLOP,7750,2090,160,"[?s,?h]",,"Guest84440 calls $40.
+"
+1052,87,"13:52:30,088",20,40,True,FLOP,7750,2090,160,"[?s,?h]","[5s,3h,Kd]","FLOP [board cards 5s,3h,Kd]
+"
+1053,87,"13:52:35,312",20,40,False,FLOP,7750,2090,160,"[?s,?h]","[5s,3h,Kd]","Guest15166 checks.
+"
+1054,87,"13:52:35,500",20,40,True,FLOP,7750,2090,160,"[?s,?h]","[5s,3h,Kd]","Guest84440 checks.
+"
+1055,87,"13:52:35,550",20,40,True,TURN,7750,2090,160,"[?s,?h]","[5s,3h,Kd,Ac]","TURN [board cards 5s,3h,Kd,Ac]
+"
+1056,87,"13:52:38,301",20,40,False,TURN,7710,2090,200,"[?s,?h]","[5s,3h,Kd,Ac]","Guest15166 bets $40.
+"
+1057,87,"13:52:40,010",20,40,True,TURN,7710,2050,240,"[?s,?h]","[5s,3h,Kd,Ac]","Guest84440 calls $40.
+"
+1058,87,"13:52:40,023",20,40,True,RIVER,7710,2050,240,"[?s,?h]","[5s,3h,Kd,Ac,9h]","RIVER [board cards 5s,3h,Kd,Ac,9h]
+"
+1059,87,"13:52:43,015",20,40,False,RIVER,7710,2050,240,"[?s,?h]","[5s,3h,Kd,Ac,9h]","Guest15166 checks.
+"
+1060,87,"13:52:46,142",20,40,True,RIVER,7710,2050,240,"[?s,?h]","[5s,3h,Kd,Ac,9h]","Guest84440 folds.
+"
+1061,87,"13:52:46,178",20,40,False,RIVER,7950,2050,0,"[?s,?h]","[5s,3h,Kd,Ac,9h]","Guest15166 wins $240
+"
+1062,88,"13:52:53,525",40,80,True,PREFLOP,7910,1970,120,"[?s,?h]",,"PREFLOP
+"
+1063,88,"13:52:55,490",40,80,False,PREFLOP,7870,1970,160,"[?s,?h]",,"Guest15166 calls $40.
+"
+1064,88,"13:53:00,265",40,80,True,PREFLOP,7870,1970,160,"[?s,?h]",,"Guest84440 checks.
+"
+1065,88,"13:53:00,311",40,80,False,FLOP,7870,1970,160,"[?s,?h]","[3c,3h,Qs]","FLOP [board cards 3c,3h,Qs]
+"
+1066,88,"13:53:05,516",40,80,True,FLOP,7870,1970,160,"[?s,?h]","[3c,3h,Qs]","Guest84440 checks.
+"
+1067,88,"13:53:06,210",40,80,False,FLOP,7870,1970,160,"[?s,?h]","[3c,3h,Qs]","Guest15166 checks.
+"
+1068,88,"13:53:06,289",40,80,False,TURN,7870,1970,160,"[?s,?h]","[3c,3h,Qs,8c]","TURN [board cards 3c,3h,Qs,8c]
+"
+1069,88,"13:53:12,679",40,80,True,TURN,7870,1970,160,"[?s,?h]","[3c,3h,Qs,8c]","Guest84440 checks.
+"
+1070,88,"13:53:13,602",40,80,False,TURN,7790,1970,240,"[?s,?h]","[3c,3h,Qs,8c]","Guest15166 bets $80.
+"
+1071,88,"13:53:21,588",40,80,True,TURN,7790,1970,240,"[?s,?h]","[3c,3h,Qs,8c]","Guest84440 folds.
+"
+1072,88,"13:53:21,623",40,80,False,TURN,8030,1970,0,"[?s,?h]","[3c,3h,Qs,8c]","Guest15166 wins $240
+"
+1073,89,"13:53:28,670",40,80,False,PREFLOP,7950,1930,120,"[?s,?h]",,"PREFLOP
+"
+1074,89,"13:53:31,231",40,80,True,PREFLOP,7950,1890,160,"[?s,?h]",,"Guest84440 calls $40.
+"
+1075,89,"13:53:31,390",40,80,False,PREFLOP,7870,1890,240,"[?s,?h]",,"Guest15166 bets $80.
+"
+1076,89,"13:53:33,112",40,80,True,PREFLOP,7870,1810,320,"[?s,?h]",,"Guest84440 calls $80.
+"
+1077,89,"13:53:33,163",40,80,True,FLOP,7870,1810,320,"[?s,?h]","[8s,Kd,4s]","FLOP [board cards 8s,Kd,4s]
+"
+1078,89,"13:53:38,389",40,80,False,FLOP,7790,1810,400,"[?s,?h]","[8s,Kd,4s]","Guest15166 bets $80.
+"
+1079,89,"13:53:39,149",40,80,True,FLOP,7790,1610,600,"[?s,?h]","[8s,Kd,4s]","Guest84440 bets $200.
+"
+1080,89,"13:53:40,741",40,80,False,FLOP,7670,1610,720,"[?s,?h]","[8s,Kd,4s]","Guest15166 calls $120.
+"
+1081,89,"13:53:40,790",40,80,True,TURN,7670,1610,720,"[?s,?h]","[8s,Kd,4s,6h]","TURN [board cards 8s,Kd,4s,6h]
+"
+1082,89,"13:53:43,161",40,80,False,TURN,7670,1610,720,"[?s,?h]","[8s,Kd,4s,6h]","Guest15166 checks.
+"
+1083,89,"13:53:49,998",40,80,True,TURN,7670,1530,800,"[?s,?h]","[8s,Kd,4s,6h]","Guest84440 bets $80.
+"
+1084,89,"13:53:52,130",40,80,False,TURN,7590,1530,880,"[?s,?h]","[8s,Kd,4s,6h]","Guest15166 calls $80.
+"
+1085,89,"13:53:52,187",40,80,True,RIVER,7590,1530,880,"[?s,?h]","[8s,Kd,4s,6h,Jh]","RIVER [board cards 8s,Kd,4s,6h,Jh]
+"
+1086,89,"13:53:55,985",40,80,False,RIVER,7590,1530,880,"[?s,?h]","[8s,Kd,4s,6h,Jh]","Guest15166 checks.
+"
+1087,89,"13:53:56,139",40,80,True,RIVER,7590,1450,960,"[?s,?h]","[8s,Kd,4s,6h,Jh]","Guest84440 bets $80.
+"
+1088,89,"13:53:57,409",40,80,False,RIVER,7510,1450,1040,"[?s,?h]","[8s,Kd,4s,6h,Jh]","Guest15166 calls $80.
+"
+1088,89,"13:53:57,409",40,80,False,RIVER,7510,1450,1040,"[?s,?h]","[8s,Kd,4s,6h,Jh]","Guest84440 shows [ 2h,8d] - One Pair, Eights
+"
+1089,89,"13:53:57,450",40,80,False,RIVER,7510,2490,0,"[?s,?h]","[8s,Kd,4s,6h,Jh]","Guest84440 wins $1040
+"
+1090,90,"13:54:04,791",40,80,True,PREFLOP,7470,2410,120,"[?s,?h]",,"PREFLOP
+"
+1091,90,"13:54:06,720",40,80,False,PREFLOP,7430,2410,160,"[?s,?h]",,"Guest15166 calls $40.
+"
+1092,90,"13:54:06,882",40,80,True,PREFLOP,7430,2410,160,"[?s,?h]",,"Guest84440 checks.
+"
+1093,90,"13:54:06,934",40,80,False,FLOP,7430,2410,160,"[?s,?h]","[4d,Ac,5s]","FLOP [board cards 4d,Ac,5s]
+"
+1094,90,"13:54:12,061",40,80,True,FLOP,7430,2410,160,"[?s,?h]","[4d,Ac,5s]","Guest84440 checks.
+"
+1095,90,"13:54:12,342",40,80,False,FLOP,7230,2410,360,"[?s,?h]","[4d,Ac,5s]","Guest15166 bets $200.
+"
+1096,90,"13:54:15,891",40,80,True,FLOP,7230,2410,360,"[?s,?h]","[4d,Ac,5s]","Guest84440 folds.
+"
+1097,90,"13:54:15,919",40,80,False,FLOP,7590,2410,0,"[?s,?h]","[4d,Ac,5s]","Guest15166 wins $360
+"
+1098,91,"13:54:23,200",40,80,False,PREFLOP,7510,2370,120,"[?s,?h]",,"PREFLOP
+"
+1099,91,"13:54:25,010",40,80,True,PREFLOP,7510,2330,160,"[?s,?h]",,"Guest84440 calls $40.
+"
+1100,91,"13:54:25,170",40,80,False,PREFLOP,7430,2330,240,"[?s,?h]",,"Guest15166 bets $80.
+"
+1101,91,"13:54:26,672",40,80,True,PREFLOP,7430,2250,320,"[?s,?h]",,"Guest84440 calls $80.
+"
+1102,91,"13:54:26,720",40,80,True,FLOP,7430,2250,320,"[?s,?h]","[7s,3h,3c]","FLOP [board cards 7s,3h,3c]
+"
+1103,91,"13:54:32,399",40,80,False,FLOP,7330,2250,420,"[?s,?h]","[7s,3h,3c]","Guest15166 bets $100.
+"
+1104,91,"13:54:33,990",40,80,True,FLOP,7330,2150,520,"[?s,?h]","[7s,3h,3c]","Guest84440 calls $100.
+"
+1105,91,"13:54:34,052",40,80,True,TURN,7330,2150,520,"[?s,?h]","[7s,3h,3c,4s]","TURN [board cards 7s,3h,3c,4s]
+"
+1106,91,"13:54:37,893",40,80,False,TURN,7130,2150,720,"[?s,?h]","[7s,3h,3c,4s]","Guest15166 bets $200.
+"
+1107,91,"13:54:41,481",40,80,True,TURN,7130,2150,720,"[?s,?h]","[7s,3h,3c,4s]","Guest84440 folds.
+"
+1108,91,"13:54:41,533",40,80,False,TURN,7850,2150,0,"[?s,?h]","[7s,3h,3c,4s]","Guest15166 wins $720
+"
+1109,92,"13:54:48,598",40,80,True,PREFLOP,7810,2070,120,"[?s,?h]",,"PREFLOP
+"
+1110,92,"13:54:51,672",40,80,False,PREFLOP,7770,2070,160,"[?s,?h]",,"Guest15166 calls $40.
+"
+1111,92,"13:54:51,832",40,80,True,PREFLOP,7770,2070,160,"[?s,?h]",,"Guest84440 checks.
+"
+1112,92,"13:54:51,880",40,80,False,FLOP,7770,2070,160,"[?s,?h]","[Jh,8h,Kh]","FLOP [board cards Jh,8h,Kh]
+"
+1113,92,"13:54:58,020",40,80,True,FLOP,7770,1920,310,"[?s,?h]","[Jh,8h,Kh]","Guest84440 bets $150.
+"
+1114,92,"13:54:59,711",40,80,False,FLOP,7770,1920,310,"[?s,?h]","[Jh,8h,Kh]","Guest15166 folds.
+"
+1115,92,"13:54:59,770",40,80,False,FLOP,7770,2230,0,"[?s,?h]","[Jh,8h,Kh]","Guest84440 wins $310
+"
+1116,93,"13:55:07,093",40,80,False,PREFLOP,7690,2190,120,"[?s,?h]",,"PREFLOP
+"
+1117,93,"13:55:10,535",40,80,True,PREFLOP,7690,2150,160,"[?s,?h]",,"Guest84440 calls $40.
+"
+1118,93,"13:55:10,661",40,80,False,PREFLOP,7690,2150,160,"[?s,?h]",,"Guest15166 checks.
+"
+1119,93,"13:55:10,710",40,80,True,FLOP,7690,2150,160,"[?s,?h]","[5d,6d,4d]","FLOP [board cards 5d,6d,4d]
+"
+1120,93,"13:55:16,035",40,80,False,FLOP,7610,2150,240,"[?s,?h]","[5d,6d,4d]","Guest15166 bets $80.
+"
+1121,93,"13:55:17,903",40,80,True,FLOP,7610,1990,400,"[?s,?h]","[5d,6d,4d]","Guest84440 bets $160.
+"
+1122,93,"13:55:22,670",40,80,False,FLOP,7310,1990,700,"[?s,?h]","[5d,6d,4d]","Guest15166 bets $300.
+"
+1123,93,"13:55:26,499",40,80,True,FLOP,7310,1770,920,"[?s,?h]","[5d,6d,4d]","Guest84440 calls $220.
+"
+1124,93,"13:55:26,510",40,80,True,TURN,7310,1770,920,"[?s,?h]","[5d,6d,4d,6s]","TURN [board cards 5d,6d,4d,6s]
+"
+1125,93,"13:55:30,951",40,80,False,TURN,7010,1770,1220,"[?s,?h]","[5d,6d,4d,6s]","Guest15166 bets $300.
+"
+1126,93,"13:55:34,583",40,80,True,TURN,7010,1470,1520,"[?s,?h]","[5d,6d,4d,6s]","Guest84440 calls $300.
+"
+1127,93,"13:55:34,596",40,80,True,RIVER,7010,1470,1520,"[?s,?h]","[5d,6d,4d,6s,5h]","RIVER [board cards 5d,6d,4d,6s,5h]
+"
+1128,93,"13:55:39,657",40,80,False,RIVER,6010,1470,2520,"[?s,?h]","[5d,6d,4d,6s,5h]","Guest15166 bets $1000.
+"
+1129,93,"13:55:51,470",40,80,True,RIVER,6010,1470,2520,"[?s,?h]","[5d,6d,4d,6s,5h]","Guest84440 folds.
+"
+1130,93,"13:55:51,507",40,80,False,RIVER,8530,1470,0,"[?s,?h]","[5d,6d,4d,6s,5h]","Guest15166 wins $2520
+"
+1131,94,"13:55:58,984",40,80,True,PREFLOP,8490,1390,120,"[?s,?h]",,"PREFLOP
+"
+1132,94,"13:56:00,251",40,80,False,PREFLOP,8450,1390,160,"[?s,?h]",,"Guest15166 calls $40.
+"
+1133,94,"13:56:00,472",40,80,True,PREFLOP,8450,1390,160,"[?s,?h]",,"Guest84440 checks.
+"
+1134,94,"13:56:00,483",40,80,False,FLOP,8450,1390,160,"[?s,?h]","[4d,7d,9c]","FLOP [board cards 4d,7d,9c]
+"
+1135,94,"13:56:05,580",40,80,True,FLOP,8450,1390,160,"[?s,?h]","[4d,7d,9c]","Guest84440 checks.
+"
+1136,94,"13:56:05,742",40,80,False,FLOP,8370,1390,240,"[?s,?h]","[4d,7d,9c]","Guest15166 bets $80.
+"
+1137,94,"13:56:07,533",40,80,True,FLOP,8370,1310,320,"[?s,?h]","[4d,7d,9c]","Guest84440 calls $80.
+"
+1138,94,"13:56:07,533",40,80,False,TURN,8370,1310,320,"[?s,?h]","[4d,7d,9c,Ac]","TURN [board cards 4d,7d,9c,Ac]
+"
+1139,94,"13:56:10,197",40,80,True,TURN,8370,1310,320,"[?s,?h]","[4d,7d,9c,Ac]","Guest84440 folds.
+"
+1140,94,"13:56:10,216",40,80,False,TURN,8690,1310,0,"[?s,?h]","[4d,7d,9c,Ac]","Guest15166 wins $320
+"
+1141,95,"13:56:17,567",40,80,False,PREFLOP,8610,1270,120,"[Ad,9h]",,"PREFLOP
+"
+1142,95,"13:56:20,120",40,80,True,PREFLOP,8610,1230,160,"[Ad,9h]",,"Guest84440 calls $40.
+"
+1143,95,"13:56:20,281",40,80,False,PREFLOP,8530,1230,240,"[Ad,9h]",,"Guest15166 bets $80.
+"
+1144,95,"13:56:22,192",40,80,True,PREFLOP,8530,1150,320,"[Ad,9h]",,"Guest84440 calls $80.
+"
+1145,95,"13:56:22,241",40,80,True,FLOP,8530,1150,320,"[Ad,9h]","[Qs,7d,As]","FLOP [board cards Qs,7d,As]
+"
+1146,95,"13:56:27,905",40,80,False,FLOP,8430,1150,420,"[Ad,9h]","[Qs,7d,As]","Guest15166 bets $100.
+"
+1147,95,"13:56:28,207",40,80,True,FLOP,8430,950,620,"[Ad,9h]","[Qs,7d,As]","Guest84440 bets $200.
+"
+1148,95,"13:56:30,072",40,80,False,FLOP,8230,950,820,"[Ad,9h]","[Qs,7d,As]","Guest15166 bets $200.
+"
+1149,95,"13:56:31,684",40,80,True,FLOP,8230,850,920,"[Ad,9h]","[Qs,7d,As]","Guest84440 calls $100.
+"
+1150,95,"13:56:31,741",40,80,True,TURN,8230,850,920,"[Ad,9h]","[Qs,7d,As,2c]","TURN [board cards Qs,7d,As,2c]
+"
+1151,95,"13:56:34,910",40,80,False,TURN,8150,850,1000,"[Ad,9h]","[Qs,7d,As,2c]","Guest15166 bets $80.
+"
+1152,95,"13:56:36,391",40,80,True,TURN,8150,770,1080,"[Ad,9h]","[Qs,7d,As,2c]","Guest84440 calls $80.
+"
+1153,95,"13:56:36,403",40,80,True,RIVER,8150,770,1080,"[Ad,9h]","[Qs,7d,As,2c,Kd]","RIVER [board cards Qs,7d,As,2c,Kd]
+"
+1154,95,"13:56:41,880",40,80,False,RIVER,7380,770,1850,"[Ad,9h]","[Qs,7d,As,2c,Kd]","Guest15166 bets $770.
+"
+1155,95,"13:56:43,454",40,80,True,RIVER,7380,0,2620,"[Ad,9h]","[Qs,7d,As,2c,Kd]","Guest84440 is all in with $770.
+"
+1155,95,"13:56:43,454",40,80,False,RIVER,7380,0,2620,"[Ad,9h]","[Qs,7d,As,2c,Kd]","Guest15166 shows [ Ad,9h] - One Pair, Aces
+"
+1155,95,"13:56:43,454",40,80,False,RIVER,7380,0,2620,"[Ad,9h]","[Qs,7d,As,2c,Kd]","Guest84440 shows [ 3c,Qc] - One Pair, Queens
+"
+1156,95,"13:56:43,454",40,80,False,RIVER,10000,0,0,"[Ad,9h]","[Qs,7d,As,2c,Kd]","Guest15166 wins $2620
+"

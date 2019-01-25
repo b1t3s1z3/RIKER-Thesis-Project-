@@ -1,0 +1,2211 @@
+Log-File for PokerTH 1.1.1 Session started on 2018-11-19 at 13:07:59
+
+----------- Game: 1 | Hand: 1 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($5000)
+Seat 2: Guest84440 ($5000)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 bets $20.
+Guest15166 calls $20.
+
+FLOP [board cards 2h,Ah,Ts]
+Guest84440 checks.
+Guest15166 checks.
+
+TURN [board cards 2h,Ah,Ts,Ad]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards 2h,Ah,Ts,Ad,Ks]
+Guest84440 checks.
+Guest15166 checks.
+Guest84440 shows [ 6h,6d] - Two Pair, Aces and Sixes
+Guest84440 wins $80
+
+----------- Game: 1 | Hand: 2 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($4960)
+Seat 2: Guest84440 ($5040)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $10.
+Guest15166 bets $20.
+Guest84440 calls $20.
+
+FLOP [board cards Qh,9s,4c]
+Guest15166 folds.
+Guest84440 wins $80
+Guest84440 shows [Ac,Kc]
+
+----------- Game: 1 | Hand: 3 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($4920)
+Seat 2: Guest84440 ($5080)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 checks.
+
+FLOP [board cards 4d,Kc,Ad]
+Guest84440 bets $20.
+Guest15166 calls $20.
+
+TURN [board cards 4d,Kc,Ad,6h]
+Guest84440 bets $20.
+Guest15166 calls $20.
+
+RIVER [board cards 4d,Kc,Ad,6h,3s]
+Guest84440 bets $20.
+Guest15166 bets $40.
+Guest84440 calls $20.
+Guest15166 shows [ Qh,3c] - One Pair, Threes
+Guest84440 shows [ 4s,Ah] - Two Pair, Aces and Fours
+Guest84440 wins $200
+
+----------- Game: 1 | Hand: 4 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($4820)
+Seat 2: Guest84440 ($5180)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 folds.
+Guest15166 wins $30
+Guest15166 shows [Ad,Th]
+
+----------- Game: 1 | Hand: 5 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($4830)
+Seat 2: Guest84440 ($5170)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 checks.
+
+FLOP [board cards Ts,Tc,4c]
+Guest84440 checks.
+Guest15166 checks.
+
+TURN [board cards Ts,Tc,4c,9d]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards Ts,Tc,4c,9d,3d]
+Guest84440 checks.
+Guest15166 checks.
+Guest84440 shows [ 8s,Qh] - One Pair, Tens
+Guest84440 wins $40
+Guest15166 shows [ Qc,7h] - One Pair, Tens, fifth card Seven
+
+----------- Game: 1 | Hand: 6 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($4810)
+Seat 2: Guest84440 ($5190)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $10.
+Guest15166 checks.
+
+FLOP [board cards Jd,Ks,9h]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards Jd,Ks,9h,Qh]
+Guest15166 bets $20.
+Guest84440 calls $20.
+
+RIVER [board cards Jd,Ks,9h,Qh,Kc]
+Guest15166 bets $20.
+Guest84440 folds.
+Guest15166 wins $100
+Guest15166 shows [Qs,2c]
+
+----------- Game: 1 | Hand: 7 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($4850)
+Seat 2: Guest84440 ($5150)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 checks.
+
+FLOP [board cards Kd,9s,8c]
+Guest84440 checks.
+Guest15166 checks.
+
+TURN [board cards Kd,9s,8c,3d]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards Kd,9s,8c,3d,Qs]
+Guest84440 checks.
+Guest15166 checks.
+Guest84440 shows [ 4c,7h] - High Card, King
+Guest84440 wins $40
+Guest15166 shows [ 5c,6c] - High Card, King, fifth card Six
+
+----------- Game: 1 | Hand: 8 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($4830)
+Seat 2: Guest84440 ($5170)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $10.
+Guest15166 checks.
+
+FLOP [board cards 4d,Kc,7s]
+Guest15166 checks.
+Guest84440 bets $20.
+Guest15166 folds.
+Guest84440 wins $60
+Guest84440 shows [Ac,7d]
+
+----------- Game: 1 | Hand: 9 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($4810)
+Seat 2: Guest84440 ($5190)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $20.
+Guest84440 bets $40.
+Guest15166 calls $40.
+
+FLOP [board cards 6c,7s,8d]
+Guest84440 bets $40.
+Guest15166 bets $80.
+Guest84440 calls $40.
+
+TURN [board cards 6c,7s,8d,Jc]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards 6c,7s,8d,Jc,5d]
+Guest84440 checks.
+Guest15166 bets $40.
+Guest84440 calls $40.
+Guest15166 shows [ 6d,5c] - Two Pair, Sixes and Fives
+Guest84440 shows [ 4s,8s] - Straight, Eight high
+Guest84440 wins $400
+
+----------- Game: 1 | Hand: 10 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($4610)
+Seat 2: Guest84440 ($5390)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 bets $60.
+Guest15166 calls $40.
+
+FLOP [board cards 6c,9s,4d]
+Guest15166 bets $50.
+Guest84440 calls $50.
+
+TURN [board cards 6c,9s,4d,5h]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards 6c,9s,4d,5h,2s]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ 6d,Jh] - One Pair, Sixes
+Guest84440 shows [ 7s,7h] - One Pair, Sevens
+Guest84440 wins $260
+
+----------- Game: 1 | Hand: 11 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($4480)
+Seat 2: Guest84440 ($5520)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $20.
+Guest84440 bets $40.
+Guest15166 calls $40.
+
+FLOP [board cards 4h,4c,5h]
+Guest84440 checks.
+Guest15166 checks.
+
+TURN [board cards 4h,4c,5h,Jh]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards 4h,4c,5h,Jh,8h]
+Guest84440 checks.
+Guest15166 checks.
+Guest84440 shows [ Kc,9c] - One Pair, Fours
+Guest84440 wins $160
+Guest15166 shows [ 7c,Qd] - One Pair, Fours, third card Queen
+
+----------- Game: 1 | Hand: 12 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($4400)
+Seat 2: Guest84440 ($5600)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $20.
+Guest15166 checks.
+
+FLOP [board cards Ks,2d,As]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards Ks,2d,As,9d]
+Guest15166 bets $40.
+Guest84440 bets $80.
+Guest15166 calls $40.
+
+RIVER [board cards Ks,2d,As,9d,6s]
+Guest15166 checks.
+Guest84440 bets $40.
+Guest15166 calls $40.
+Guest84440 shows [ 4c,9h] - One Pair, Nines
+Guest84440 wins $320
+Guest15166 shows [ Qd,Td] - High Card, Ace
+
+----------- Game: 1 | Hand: 13 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($4240)
+Seat 2: Guest84440 ($5760)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $20.
+Guest84440 checks.
+
+FLOP [board cards 5d,8c,9h]
+Guest84440 bets $40.
+Guest15166 bets $80.
+Guest84440 calls $40.
+
+TURN [board cards 5d,8c,9h,3h]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards 5d,8c,9h,3h,4s]
+Guest84440 checks.
+Guest15166 checks.
+Guest15166 shows [ Ad,Kd] - High Card, Ace
+Guest84440 shows [ 5s,Qh] - One Pair, Fives
+Guest84440 wins $240
+
+----------- Game: 1 | Hand: 14 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($4120)
+Seat 2: Guest84440 ($5880)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 bets $60.
+Guest15166 calls $40.
+
+FLOP [board cards Kc,Td,5c]
+Guest15166 folds.
+Guest84440 wins $160
+
+----------- Game: 1 | Hand: 15 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($4040)
+Seat 2: Guest84440 ($5960)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $20.
+Guest84440 bets $40.
+Guest15166 bets $80.
+Guest84440 calls $40.
+
+FLOP [board cards 5s,7s,7d]
+Guest84440 bets $40.
+Guest15166 bets $80.
+Guest84440 bets $80.
+Guest15166 calls $40.
+
+TURN [board cards 5s,7s,7d,Ad]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards 5s,7s,7d,Ad,2s]
+Guest84440 bets $40.
+Guest15166 calls $40.
+Guest84440 shows [ Ts,As] - Flush, Ace high
+Guest84440 wins $560
+Guest15166 shows [ Qd,8d] - One Pair, Sevens
+
+----------- Game: 1 | Hand: 16 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($3760)
+Seat 2: Guest84440 ($6240)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $20.
+Guest15166 checks.
+
+FLOP [board cards 9d,As,4h]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards 9d,As,4h,6c]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards 9d,As,4h,6c,9c]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ Qd,5h] - One Pair, Nines
+Guest15166 wins $80
+Guest84440 shows [ 3c,7c] - One Pair, Nines, fourth card Seven
+
+----------- Game: 1 | Hand: 17 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($3800)
+Seat 2: Guest84440 ($6200)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 checks.
+
+FLOP [board cards Jh,Tc,9d]
+Guest84440 bets $80.
+Guest15166 bets $160.
+Guest84440 calls $80.
+
+TURN [board cards Jh,Tc,9d,3s]
+Guest84440 bets $80.
+Guest15166 bets $160.
+Guest84440 bets $160.
+Guest15166 calls $80.
+
+RIVER [board cards Jh,Tc,9d,3s,2d]
+Guest84440 bets $80.
+Guest15166 bets $160.
+Guest84440 calls $80.
+Guest15166 shows [ Ah,Jc] - One Pair, Jacks
+Guest84440 shows [ 3c,Td] - Two Pair, Tens and Threes
+Guest84440 wins $1280
+
+----------- Game: 1 | Hand: 18 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($3160)
+Seat 2: Guest84440 ($6840)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $40.
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+FLOP [board cards 7d,Jc,Tc]
+Guest15166 bets $80.
+Guest84440 bets $160.
+Guest15166 bets $300.
+Guest84440 calls $220.
+
+TURN [board cards 7d,Jc,Tc,3s]
+Guest15166 bets $200.
+Guest84440 calls $200.
+
+RIVER [board cards 7d,Jc,Tc,3s,2h]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ Ts,7s] - Two Pair, Tens and Sevens
+Guest15166 wins $1480
+Guest84440 shows [ 6c,3c] - One Pair, Threes
+
+----------- Game: 1 | Hand: 19 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($3900)
+Seat 2: Guest84440 ($6100)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 checks.
+
+FLOP [board cards 7s,Th,Qd]
+Guest84440 checks.
+Guest15166 checks.
+
+TURN [board cards 7s,Th,Qd,9c]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards 7s,Th,Qd,9c,9h]
+Guest84440 bets $80.
+Guest15166 calls $80.
+Guest84440 shows [ 8h,Jh] - Straight, Queen high
+Guest84440 wins $320
+Guest15166 shows [ Jd,3d] - One Pair, Nines
+
+----------- Game: 1 | Hand: 20 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($3740)
+Seat 2: Guest84440 ($6260)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $40.
+Guest15166 checks.
+
+FLOP [board cards 4d,Qh,6c]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards 4d,Qh,6c,7c]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards 4d,Qh,6c,7c,Tc]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ 3h,Ac] - High Card, Ace
+Guest15166 wins $160
+Guest84440 shows [ Kh,9s] - High Card, King
+
+----------- Game: 1 | Hand: 21 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($3820)
+Seat 2: Guest84440 ($6180)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 checks.
+
+FLOP [board cards 6d,Kh,3c]
+Guest84440 checks.
+Guest15166 bets $200.
+Guest84440 calls $200.
+
+TURN [board cards 6d,Kh,3c,9s]
+Guest84440 checks.
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+RIVER [board cards 6d,Kh,3c,9s,2s]
+Guest84440 checks.
+Guest15166 bets $80.
+Guest84440 calls $80.
+Guest15166 shows [ Ts,Th] - One Pair, Tens
+Guest15166 wins $880
+Guest84440 shows [ 3h,7d] - One Pair, Threes
+
+----------- Game: 1 | Hand: 22 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($4260)
+Seat 2: Guest84440 ($5740)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $40.
+Guest15166 checks.
+
+FLOP [board cards Ks,5s,7s]
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+TURN [board cards Ks,5s,7s,As]
+Guest15166 bets $250.
+Guest84440 bets $500.
+Guest15166 bets $500.
+Guest84440 calls $250.
+
+RIVER [board cards Ks,5s,7s,As,4s]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ Ac,5d] - Flush, Ace high, fourth card Five
+Guest84440 shows [ 2d,6s] - Flush, Ace high, fourth card Six
+Guest84440 wins $1820
+
+----------- Game: 1 | Hand: 23 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($3350)
+Seat 2: Guest84440 ($6650)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 checks.
+
+FLOP [board cards Js,Qs,8s]
+Guest84440 bets $80.
+Guest15166 folds.
+Guest84440 wins $240
+Guest84440 shows [Ts,6s]
+
+----------- Game: 1 | Hand: 24 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($3270)
+Seat 2: Guest84440 ($6730)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $40.
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+FLOP [board cards Js,2s,5c]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards Js,2s,5c,Ts]
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+RIVER [board cards Js,2s,5c,Ts,7h]
+Guest15166 bets $80.
+Guest84440 calls $80.
+Guest15166 shows [ Td,Qd] - One Pair, Tens
+Guest84440 shows [ Jd,6s] - One Pair, Jacks
+Guest84440 wins $640
+
+----------- Game: 1 | Hand: 25 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($2950)
+Seat 2: Guest84440 ($7050)
+BLINDS: Guest15166 ($80), Guest84440 ($160)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 bets $240.
+Guest84440 calls $160.
+
+FLOP [board cards 9h,Th,2s]
+Guest84440 checks.
+Guest15166 bets $160.
+Guest84440 calls $160.
+
+TURN [board cards 9h,Th,2s,Ah]
+Guest84440 checks.
+Guest15166 bets $160.
+Guest84440 calls $160.
+
+RIVER [board cards 9h,Th,2s,Ah,Kh]
+Guest84440 checks.
+Guest15166 bets $500.
+Guest84440 folds.
+Guest15166 wins $1780
+Guest15166 shows [4d,4h]
+
+----------- Game: 1 | Hand: 26 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($3590)
+Seat 2: Guest84440 ($6410)
+BLINDS: Guest84440 ($80), Guest15166 ($160)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 bets $240.
+Guest15166 calls $160.
+
+FLOP [board cards 4c,Ks,8c]
+Guest15166 bets $300.
+Guest84440 folds.
+Guest15166 wins $940
+Guest15166 shows [Kc,7c]
+
+----------- Game: 1 | Hand: 27 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($3910)
+Seat 2: Guest84440 ($6090)
+BLINDS: Guest15166 ($80), Guest84440 ($160)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $80.
+Guest84440 checks.
+
+FLOP [board cards Th,5s,6s]
+Guest84440 checks.
+Guest15166 checks.
+
+TURN [board cards Th,5s,6s,4c]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards Th,5s,6s,4c,6c]
+Guest84440 folds.
+Guest15166 wins $320
+Guest15166 shows [Qh,8h]
+
+----------- Game: 1 | Hand: 28 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($4070)
+Seat 2: Guest84440 ($5930)
+BLINDS: Guest84440 ($80), Guest15166 ($160)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $80.
+Guest15166 checks.
+
+FLOP [board cards Th,4c,Kd]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards Th,4c,Kd,Js]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards Th,4c,Kd,Js,7s]
+Guest15166 bets $160.
+Guest84440 folds.
+Guest15166 wins $480
+Guest15166 shows [8d,7c]
+
+----------- Game: 1 | Hand: 29 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($4230)
+Seat 2: Guest84440 ($5770)
+BLINDS: Guest15166 ($80), Guest84440 ($160)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $80.
+Guest84440 checks.
+
+FLOP [board cards 4s,8d,Ah]
+Guest84440 checks.
+Guest15166 bets $160.
+Guest84440 calls $160.
+
+TURN [board cards 4s,8d,Ah,Qs]
+Guest84440 checks.
+Guest15166 bets $200.
+Guest84440 calls $200.
+
+RIVER [board cards 4s,8d,Ah,Qs,Kc]
+Guest84440 checks.
+Guest15166 checks.
+Guest15166 shows [ 2d,As] - One Pair, Aces
+Guest15166 wins $1040
+Guest84440 shows [ 5c,3s] - High Card, Ace
+
+----------- Game: 1 | Hand: 30 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($4750)
+Seat 2: Guest84440 ($5250)
+BLINDS: Guest84440 ($80), Guest15166 ($160)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $80.
+Guest15166 checks.
+
+FLOP [board cards 8h,8s,6s]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards 8h,8s,6s,Ks]
+Guest15166 checks.
+Guest84440 bets $160.
+Guest15166 folds.
+Guest84440 wins $480
+
+----------- Game: 1 | Hand: 31 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($4590)
+Seat 2: Guest84440 ($5410)
+BLINDS: Guest15166 ($80), Guest84440 ($160)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $80.
+Guest84440 bets $160.
+Guest15166 folds.
+Guest84440 wins $480
+
+----------- Game: 1 | Hand: 32 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($4430)
+Seat 2: Guest84440 ($5570)
+BLINDS: Guest84440 ($80), Guest15166 ($160)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $80.
+Guest15166 checks.
+
+FLOP [board cards 5d,2h,Kd]
+Guest15166 bets $160.
+Guest84440 calls $160.
+
+TURN [board cards 5d,2h,Kd,Td]
+Guest15166 bets $300.
+Guest84440 calls $300.
+
+RIVER [board cards 5d,2h,Kd,Td,Tc]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ 5s,4s] - Two Pair, Tens and Fives
+Guest15166 wins $1240
+
+----------- Game: 1 | Hand: 33 -----------
+BLIND LEVEL: $160 / $320
+Seat 1: Guest15166 ($5050)
+Seat 2: Guest84440 ($4950)
+BLINDS: Guest15166 ($160), Guest84440 ($320)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $160.
+Guest84440 checks.
+
+FLOP [board cards 9c,Ks,Jh]
+Guest84440 checks.
+Guest15166 checks.
+
+TURN [board cards 9c,Ks,Jh,6c]
+Guest84440 checks.
+Guest15166 bets $320.
+Guest84440 calls $320.
+
+RIVER [board cards 9c,Ks,Jh,6c,7h]
+Guest84440 checks.
+Guest15166 checks.
+Guest15166 shows [ 6s,4h] - One Pair, Sixes
+Guest15166 wins $1280
+Guest84440 shows [ 8s,Ac] - High Card, Ace
+
+----------- Game: 1 | Hand: 34 -----------
+BLIND LEVEL: $160 / $320
+Seat 1: Guest15166 ($5690)
+Seat 2: Guest84440 ($4310)
+BLINDS: Guest84440 ($160), Guest15166 ($320)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 bets $480.
+Guest15166 calls $320.
+
+FLOP [board cards 4d,2h,9h]
+Guest15166 checks.
+Guest84440 bets $320.
+Guest15166 folds.
+Guest84440 wins $1600
+
+----------- Game: 1 | Hand: 35 -----------
+BLIND LEVEL: $160 / $320
+Seat 1: Guest15166 ($5050)
+Seat 2: Guest84440 ($4950)
+BLINDS: Guest15166 ($160), Guest84440 ($320)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $160.
+Guest84440 checks.
+
+FLOP [board cards 7s,6h,7d]
+Guest84440 bets $900.
+Guest15166 calls $900.
+
+TURN [board cards 7s,6h,7d,3s]
+Guest84440 bets $320.
+Guest15166 bets $640.
+Guest84440 bets $640.
+Guest15166 calls $320.
+
+RIVER [board cards 7s,6h,7d,3s,Jh]
+Guest84440 bets $320.
+Guest15166 bets $640.
+Guest84440 bets $640.
+Guest15166 calls $320.
+Guest84440 shows [ 7h,Qd] - Three of a Kind, Sevens
+Guest84440 wins $6280
+Guest15166 shows [ Js,Ks] - Two Pair, Jacks and Sevens
+
+----------- Game: 1 | Hand: 36 -----------
+BLIND LEVEL: $160 / $320
+Seat 1: Guest15166 ($1910)
+Seat 2: Guest84440 ($8090)
+BLINDS: Guest84440 ($160), Guest15166 ($320)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $160.
+Guest15166 checks.
+
+FLOP [board cards Ad,5c,3c]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards Ad,5c,3c,Td]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards Ad,5c,3c,Td,5h]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ Kd,9s] - One Pair, Fives
+Guest15166 wins $640
+
+----------- Game: 1 | Hand: 37 -----------
+BLIND LEVEL: $160 / $320
+Seat 1: Guest15166 ($2230)
+Seat 2: Guest84440 ($7770)
+BLINDS: Guest15166 ($160), Guest84440 ($320)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $160.
+Guest84440 bets $320.
+Guest15166 folds.
+Guest84440 wins $960
+
+----------- Game: 1 | Hand: 38 -----------
+BLIND LEVEL: $160 / $320
+Seat 1: Guest15166 ($1910)
+Seat 2: Guest84440 ($8090)
+BLINDS: Guest84440 ($160), Guest15166 ($320)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 bets $480.
+Guest15166 bets $640.
+Guest84440 bets $640.
+Guest15166 calls $320.
+
+FLOP [board cards As,8s,9c]
+Guest15166 checks.
+Guest84440 bets $320.
+Guest15166 calls $320.
+
+TURN [board cards As,8s,9c,5c]
+Guest15166 checks.
+Guest84440 bets $320.
+Guest15166 is all in with $310.
+Guest15166 shows [6c,Th]
+Guest84440 shows [8c,4c]
+
+RIVER [board cards As,8s,9c,5c,5h]
+Guest15166 has [ 6c,Th] - One Pair, Fives
+Guest84440 has [ 8c,4c] - Two Pair, Eights and Fives
+Guest84440 wins $3830
+Guest15166 sits out
+Guest84440 wins gameGuest84440 wins game 1!
+
+----------- Game: 2 | Hand: 1 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($5000)
+Seat 2: Guest84440 ($5000)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $10.
+Guest15166 checks.
+
+FLOP [board cards 7d,5d,6s]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards 7d,5d,6s,Th]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards 7d,5d,6s,Th,7s]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ 4s,Ah] - One Pair, Sevens
+Guest15166 wins $40
+
+----------- Game: 2 | Hand: 2 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($5020)
+Seat 2: Guest84440 ($4980)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 checks.
+
+FLOP [board cards Td,9d,Tc]
+Guest84440 checks.
+Guest15166 bets $20.
+Guest84440 calls $20.
+
+TURN [board cards Td,9d,Tc,5d]
+Guest84440 checks.
+Guest15166 bets $20.
+Guest84440 calls $20.
+
+RIVER [board cards Td,9d,Tc,5d,6d]
+Guest84440 bets $20.
+Guest15166 bets $150.
+Guest84440 bets $2250.
+Guest15166 calls $2120.
+Guest15166 shows [ 9h,Kd] - Flush, King high
+Guest84440 shows [ Jd,Ac] - Flush, Jack high
+Guest15166 wins $4660
+
+----------- Game: 2 | Hand: 3 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($7350)
+Seat 2: Guest84440 ($2650)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 bets $30.
+Guest15166 calls $20.
+
+FLOP [board cards 7d,Ac,Jh]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards 7d,Ac,Jh,Th]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards 7d,Ac,Jh,Th,3c]
+Guest15166 checks.
+Guest84440 checks.
+Guest84440 shows [ Ks,7s] - One Pair, Sevens
+Guest84440 wins $80
+Guest15166 shows [ 9c,4s] - High Card, Ace
+
+----------- Game: 2 | Hand: 4 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($7310)
+Seat 2: Guest84440 ($2690)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 bets $250.
+Guest15166 folds.
+Guest84440 wins $290
+
+----------- Game: 2 | Hand: 5 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($7290)
+Seat 2: Guest84440 ($2710)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $10.
+Guest15166 bets $20.
+Guest84440 calls $20.
+
+FLOP [board cards 5c,3h,9h]
+Guest15166 bets $100.
+Guest84440 calls $100.
+
+TURN [board cards 5c,3h,9h,8h]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards 5c,3h,9h,8h,Qs]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ Jc,7s] - High Card, Queen
+Guest15166 wins $280
+
+----------- Game: 2 | Hand: 6 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($7430)
+Seat 2: Guest84440 ($2570)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 checks.
+
+FLOP [board cards 5d,2h,Ad]
+Guest84440 checks.
+Guest15166 bets $20.
+Guest84440 calls $20.
+
+TURN [board cards 5d,2h,Ad,Ks]
+Guest84440 checks.
+Guest15166 bets $50.
+Guest84440 calls $50.
+
+RIVER [board cards 5d,2h,Ad,Ks,Jd]
+Guest84440 checks.
+Guest15166 bets $500.
+Guest84440 calls $500.
+Guest15166 shows [ As,Ac] - Three of a Kind, Aces
+Guest15166 wins $1180
+
+----------- Game: 2 | Hand: 7 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($8020)
+Seat 2: Guest84440 ($1980)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $10.
+Guest15166 checks.
+
+FLOP [board cards Qs,8s,8d]
+Guest15166 checks.
+Guest84440 bets $20.
+Guest15166 folds.
+Guest84440 wins $60
+
+----------- Game: 2 | Hand: 8 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($8000)
+Seat 2: Guest84440 ($2000)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 checks.
+
+FLOP [board cards 8d,7c,Ac]
+Guest84440 folds.
+Guest15166 wins $40
+
+----------- Game: 2 | Hand: 9 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($8020)
+Seat 2: Guest84440 ($1980)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $20.
+Guest15166 bets $40.
+Guest84440 calls $40.
+
+FLOP [board cards 3s,Ks,3d]
+Guest15166 bets $40.
+Guest84440 bets $200.
+Guest15166 calls $160.
+
+TURN [board cards 3s,Ks,3d,2s]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards 3s,Ks,3d,2s,Tc]
+Guest15166 checks.
+Guest84440 checks.
+Guest84440 shows [ 7s,3c] - Three of a Kind, Threes
+Guest84440 wins $560
+
+----------- Game: 2 | Hand: 10 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7740)
+Seat 2: Guest84440 ($2260)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $20.
+Guest84440 checks.
+
+FLOP [board cards 8c,2d,9s]
+Guest84440 checks.
+Guest15166 bets $40.
+Guest84440 calls $40.
+
+TURN [board cards 8c,2d,9s,As]
+Guest84440 checks.
+Guest15166 bets $50.
+Guest84440 calls $50.
+
+RIVER [board cards 8c,2d,9s,As,Qs]
+Guest84440 checks.
+Guest15166 bets $150.
+Guest84440 folds.
+Guest15166 wins $410
+
+----------- Game: 2 | Hand: 11 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7870)
+Seat 2: Guest84440 ($2130)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $20.
+Guest15166 checks.
+
+FLOP [board cards 6c,Jd,Js]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards 6c,Jd,Js,6s]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards 6c,Jd,Js,6s,3c]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ 7h,Ks] - Two Pair, Jacks and Sixes
+Guest15166 wins $80
+
+----------- Game: 2 | Hand: 12 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7910)
+Seat 2: Guest84440 ($2090)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $20.
+Guest84440 checks.
+
+FLOP [board cards 8c,4h,Qh]
+Guest84440 checks.
+Guest15166 bets $40.
+Guest84440 calls $40.
+
+TURN [board cards 8c,4h,Qh,9c]
+Guest84440 folds.
+Guest15166 wins $160
+
+----------- Game: 2 | Hand: 13 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7990)
+Seat 2: Guest84440 ($2010)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 folds.
+Guest15166 wins $60
+
+----------- Game: 2 | Hand: 14 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($8010)
+Seat 2: Guest84440 ($1990)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $20.
+Guest84440 checks.
+
+FLOP [board cards As,Js,Jd]
+Guest84440 checks.
+Guest15166 bets $40.
+Guest84440 calls $40.
+
+TURN [board cards As,Js,Jd,8h]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards As,Js,Jd,8h,9c]
+Guest84440 checks.
+Guest15166 checks.
+Guest15166 shows [ 2s,5d] - One Pair, Jacks
+Guest84440 shows [ 8c,3h] - Two Pair, Jacks and Eights
+Guest84440 wins $160
+
+----------- Game: 2 | Hand: 15 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7930)
+Seat 2: Guest84440 ($2070)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $20.
+Guest15166 folds.
+Guest84440 wins $80
+
+----------- Game: 2 | Hand: 16 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7890)
+Seat 2: Guest84440 ($2110)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $20.
+Guest84440 checks.
+
+FLOP [board cards Td,6s,7d]
+Guest84440 checks.
+Guest15166 bets $40.
+Guest84440 calls $40.
+
+TURN [board cards Td,6s,7d,Qc]
+Guest84440 checks.
+Guest15166 bets $100.
+Guest84440 bets $300.
+Guest15166 calls $200.
+
+RIVER [board cards Td,6s,7d,Qc,3s]
+Guest84440 bets $40.
+Guest15166 calls $40.
+Guest84440 shows [ Qh,3d] - Two Pair, Queens and Threes
+Guest84440 wins $840
+
+----------- Game: 2 | Hand: 17 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($7470)
+Seat 2: Guest84440 ($2530)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $40.
+Guest15166 checks.
+
+FLOP [board cards 7c,3d,Ks]
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+TURN [board cards 7c,3d,Ks,5s]
+Guest15166 bets $200.
+Guest84440 calls $200.
+
+RIVER [board cards 7c,3d,Ks,5s,Ts]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ 3c,Qh] - One Pair, Threes
+Guest15166 wins $720
+
+----------- Game: 2 | Hand: 18 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($7830)
+Seat 2: Guest84440 ($2170)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 bets $80.
+Guest15166 calls $80.
+
+FLOP [board cards 6h,Kd,8s]
+Guest84440 bets $400.
+Guest15166 calls $400.
+
+TURN [board cards 6h,Kd,8s,5s]
+Guest84440 checks.
+Guest15166 bets $80.
+Guest84440 bets $300.
+Guest15166 calls $220.
+
+RIVER [board cards 6h,Kd,8s,5s,2h]
+Guest84440 checks.
+Guest15166 checks.
+Guest84440 shows [ 8c,8h] - Three of a Kind, Eights
+Guest84440 wins $1720
+
+----------- Game: 2 | Hand: 19 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($6970)
+Seat 2: Guest84440 ($3030)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 bets $120.
+Guest15166 bets $160.
+Guest84440 calls $80.
+
+FLOP [board cards 5h,3h,6h]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards 5h,3h,6h,6c]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards 5h,3h,6h,6c,4d]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ Jc,As] - One Pair, Sixes
+Guest84440 shows [ 8d,2d] - Straight, Six high
+Guest84440 wins $480
+
+----------- Game: 2 | Hand: 20 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($6730)
+Seat 2: Guest84440 ($3270)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 checks.
+
+FLOP [board cards 6s,3h,Js]
+Guest84440 checks.
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+TURN [board cards 6s,3h,Js,8d]
+Guest84440 checks.
+Guest15166 bets $150.
+Guest84440 calls $150.
+
+RIVER [board cards 6s,3h,Js,8d,6c]
+Guest84440 checks.
+Guest15166 bets $300.
+Guest84440 calls $300.
+Guest15166 shows [ 9d,3s] - Two Pair, Sixes and Threes
+Guest15166 wins $1220
+
+----------- Game: 2 | Hand: 21 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($7340)
+Seat 2: Guest84440 ($2660)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 bets $120.
+Guest15166 folds.
+Guest84440 wins $240
+
+----------- Game: 2 | Hand: 22 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($7260)
+Seat 2: Guest84440 ($2740)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 checks.
+
+FLOP [board cards 8h,Jh,Ac]
+Guest84440 checks.
+Guest15166 checks.
+
+TURN [board cards 8h,Jh,Ac,As]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards 8h,Jh,Ac,As,9h]
+Guest84440 bets $80.
+Guest15166 folds.
+Guest84440 wins $240
+
+----------- Game: 2 | Hand: 23 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($7180)
+Seat 2: Guest84440 ($2820)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $40.
+Guest15166 checks.
+
+FLOP [board cards Qh,As,6d]
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+TURN [board cards Qh,As,6d,7s]
+Guest15166 bets $150.
+Guest84440 calls $150.
+
+RIVER [board cards Qh,As,6d,7s,Jd]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ 8h,Qc] - One Pair, Queens
+Guest15166 wins $620
+
+----------- Game: 2 | Hand: 24 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($7490)
+Seat 2: Guest84440 ($2510)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 checks.
+
+FLOP [board cards Ah,Tc,5d]
+Guest84440 checks.
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+TURN [board cards Ah,Tc,5d,4d]
+Guest84440 folds.
+Guest15166 wins $320
+
+----------- Game: 2 | Hand: 25 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($7650)
+Seat 2: Guest84440 ($2350)
+BLINDS: Guest84440 ($80), Guest15166 ($160)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $80.
+Guest15166 checks.
+
+FLOP [board cards Tc,3s,Kd]
+Guest15166 checks.
+Guest84440 bets $160.
+Guest15166 folds.
+Guest84440 wins $480
+
+----------- Game: 2 | Hand: 26 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($7490)
+Seat 2: Guest84440 ($2510)
+BLINDS: Guest15166 ($80), Guest84440 ($160)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $80.
+Guest84440 checks.
+
+FLOP [board cards Ac,Ks,3h]
+Guest84440 checks.
+Guest15166 bets $160.
+Guest84440 calls $160.
+
+TURN [board cards Ac,Ks,3h,4s]
+Guest84440 checks.
+Guest15166 bets $160.
+Guest84440 calls $160.
+
+RIVER [board cards Ac,Ks,3h,4s,8s]
+Guest84440 checks.
+Guest15166 bets $160.
+Guest84440 calls $160.
+Guest15166 shows [ Kc,2d] - One Pair, Kings
+Guest15166 wins $1280
+
+----------- Game: 2 | Hand: 27 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($8130)
+Seat 2: Guest84440 ($1870)
+BLINDS: Guest84440 ($80), Guest15166 ($160)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 bets $240.
+Guest15166 calls $160.
+
+FLOP [board cards 3h,7c,Qd]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards 3h,7c,Qd,5s]
+Guest15166 checks.
+Guest84440 bets $160.
+Guest15166 calls $160.
+
+RIVER [board cards 3h,7c,Qd,5s,4d]
+Guest15166 checks.
+Guest84440 bets $160.
+Guest15166 folds.
+Guest84440 wins $1120
+
+----------- Game: 2 | Hand: 28 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($7650)
+Seat 2: Guest84440 ($2350)
+BLINDS: Guest15166 ($80), Guest84440 ($160)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $80.
+Guest84440 checks.
+
+FLOP [board cards Qc,2c,Kc]
+Guest84440 folds.
+Guest15166 wins $320
+
+----------- Game: 2 | Hand: 29 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($7810)
+Seat 2: Guest84440 ($2190)
+BLINDS: Guest84440 ($80), Guest15166 ($160)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 bets $240.
+Guest15166 calls $160.
+
+FLOP [board cards 5d,Ad,Th]
+Guest15166 bets $160.
+Guest84440 bets $320.
+Guest15166 calls $160.
+
+TURN [board cards 5d,Ad,Th,8c]
+Guest15166 bets $160.
+Guest84440 bets $320.
+Guest15166 calls $160.
+
+RIVER [board cards 5d,Ad,Th,8c,7d]
+Guest15166 bets $300.
+Guest84440 bets $600.
+Guest15166 calls $300.
+Guest15166 shows [ 6d,8d] - Flush, Ace high
+Guest84440 shows [ As,Kh] - One Pair, Aces
+Guest15166 wins $3120
+
+----------- Game: 2 | Hand: 30 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($9370)
+Seat 2: Guest84440 ($630)
+BLINDS: Guest15166 ($80), Guest84440 ($160)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $80.
+Guest84440 bets $160.
+Guest15166 folds.
+Guest84440 wins $480
+
+----------- Game: 2 | Hand: 31 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($9210)
+Seat 2: Guest84440 ($790)
+BLINDS: Guest84440 ($80), Guest15166 ($160)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $80.
+Guest15166 checks.
+
+FLOP [board cards Td,3c,9h]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards Td,3c,9h,Qd]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards Td,3c,9h,Qd,Kc]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ 6d,5c] - High Card, King
+Guest84440 shows [ As,8c] - High Card, Ace
+Guest84440 wins $320
+
+----------- Game: 2 | Hand: 32 -----------
+BLIND LEVEL: $80 / $160
+Seat 1: Guest15166 ($9050)
+Seat 2: Guest84440 ($950)
+BLINDS: Guest15166 ($80), Guest84440 ($160)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $80.
+Guest84440 checks.
+
+FLOP [board cards 9h,Th,Tc]
+Guest84440 checks.
+Guest15166 checks.
+
+TURN [board cards 9h,Th,Tc,Jh]
+Guest84440 checks.
+Guest15166 checks.
+
+RIVER [board cards 9h,Th,Tc,Jh,Qs]
+Guest84440 checks.
+Guest15166 bets $400.
+Guest84440 folds.
+Guest15166 wins $720
+
+----------- Game: 2 | Hand: 33 -----------
+BLIND LEVEL: $160 / $320
+Seat 1: Guest15166 ($9210)
+Seat 2: Guest84440 ($790)
+BLINDS: Guest84440 ($160), Guest15166 ($320)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $160.
+Guest15166 checks.
+
+FLOP [board cards 8d,Qd,6d]
+Guest15166 bets $320.
+Guest84440 calls $320.
+
+TURN [board cards 8d,Qd,6d,Qh]
+Guest15166 bets $320.
+Guest84440 is all in with $150.
+Guest15166 shows [6s,3s]
+Guest84440 shows [9s,8s]
+
+RIVER [board cards 8d,Qd,6d,Qh,6c]
+Guest15166 has [ 6s,3s] - Full House, Sixes full of Queens
+Guest84440 has [ 9s,8s] - Two Pair, Queens and Eights
+Guest15166 wins $1750
+Guest84440 sits out
+Guest15166 wins gameGuest15166 wins game 2!
+
+----------- Game: 3 | Hand: 1 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($5000)
+Seat 2: Guest84440 ($5000)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 checks.
+
+FLOP [board cards 2s,Ac,8c]
+Guest84440 checks.
+Guest15166 bets $20.
+Guest84440 calls $20.
+
+TURN [board cards 2s,Ac,8c,Qc]
+Guest84440 checks.
+Guest15166 bets $20.
+Guest84440 calls $20.
+
+RIVER [board cards 2s,Ac,8c,Qc,5c]
+Guest84440 folds.
+Guest15166 wins $120
+
+----------- Game: 3 | Hand: 2 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($5060)
+Seat 2: Guest84440 ($4940)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $10.
+Guest15166 checks.
+
+FLOP [board cards 9s,Td,6d]
+Guest15166 checks.
+Guest84440 bets $20.
+Guest15166 calls $20.
+
+TURN [board cards 9s,Td,6d,7s]
+Guest15166 checks.
+Guest84440 bets $450.
+Guest15166 folds.
+Guest84440 wins $530
+
+----------- Game: 3 | Hand: 3 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($5020)
+Seat 2: Guest84440 ($4980)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 checks.
+
+FLOP [board cards 3s,Tc,Ac]
+Guest84440 bets $300.
+Guest15166 folds.
+Guest84440 wins $340
+
+----------- Game: 3 | Hand: 4 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($5000)
+Seat 2: Guest84440 ($5000)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $10.
+Guest15166 checks.
+
+FLOP [board cards 2c,Kd,9h]
+Guest15166 bets $20.
+Guest84440 calls $20.
+
+TURN [board cards 2c,Kd,9h,9c]
+Guest15166 bets $50.
+Guest84440 calls $50.
+
+RIVER [board cards 2c,Kd,9h,9c,Js]
+Guest15166 bets $200.
+Guest84440 bets $750.
+Guest15166 bets $1100.
+Guest84440 calls $550.
+Guest15166 shows [ 3c,9s] - Three of a Kind, Nines
+Guest15166 wins $2780
+
+----------- Game: 3 | Hand: 5 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($6390)
+Seat 2: Guest84440 ($3610)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 checks.
+
+FLOP [board cards 2s,6h,8s]
+Guest84440 bets $350.
+Guest15166 folds.
+Guest84440 wins $390
+
+----------- Game: 3 | Hand: 6 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($6370)
+Seat 2: Guest84440 ($3630)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $10.
+Guest15166 bets $20.
+Guest84440 calls $20.
+
+FLOP [board cards 9s,Qh,4c]
+Guest15166 bets $20.
+Guest84440 bets $40.
+Guest15166 calls $20.
+
+TURN [board cards 9s,Qh,4c,2c]
+Guest15166 checks.
+Guest84440 bets $20.
+Guest15166 calls $20.
+
+RIVER [board cards 9s,Qh,4c,2c,Kh]
+Guest15166 checks.
+Guest84440 bets $400.
+Guest15166 folds.
+Guest84440 wins $600
+
+----------- Game: 3 | Hand: 7 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($6270)
+Seat 2: Guest84440 ($3730)
+BLINDS: Guest15166 ($10), Guest84440 ($20)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $10.
+Guest84440 checks.
+
+FLOP [board cards 3d,8h,Kh]
+Guest84440 bets $20.
+Guest15166 bets $40.
+Guest84440 bets $40.
+Guest15166 calls $20.
+
+TURN [board cards 3d,8h,Kh,4s]
+Guest84440 checks.
+Guest15166 bets $50.
+Guest84440 calls $50.
+
+RIVER [board cards 3d,8h,Kh,4s,5h]
+Guest84440 checks.
+Guest15166 bets $300.
+Guest84440 calls $300.
+Guest15166 shows [ 4c,5s] - Two Pair, Fives and Fours
+Guest15166 wins $860
+
+----------- Game: 3 | Hand: 8 -----------
+BLIND LEVEL: $10 / $20
+Seat 1: Guest15166 ($6700)
+Seat 2: Guest84440 ($3300)
+BLINDS: Guest84440 ($10), Guest15166 ($20)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 bets $30.
+Guest15166 calls $20.
+
+FLOP [board cards 4h,6d,5d]
+Guest15166 bets $50.
+Guest84440 calls $50.
+
+TURN [board cards 4h,6d,5d,6h]
+Guest15166 bets $150.
+Guest84440 calls $150.
+
+RIVER [board cards 4h,6d,5d,6h,5c]
+Guest15166 bets $1000.
+Guest84440 folds.
+Guest15166 wins $1480
+
+----------- Game: 3 | Hand: 9 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($6940)
+Seat 2: Guest84440 ($3060)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $20.
+Guest84440 checks.
+
+FLOP [board cards 2h,6h,4s]
+Guest84440 checks.
+Guest15166 checks.
+
+TURN [board cards 2h,6h,4s,Th]
+Guest84440 checks.
+Guest15166 bets $50.
+Guest84440 calls $50.
+
+RIVER [board cards 2h,6h,4s,Th,2s]
+Guest84440 checks.
+Guest15166 bets $40.
+Guest84440 calls $40.
+Guest15166 shows [ Tc,Ah] - Two Pair, Tens and Deuces
+Guest15166 wins $260
+
+----------- Game: 3 | Hand: 10 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7070)
+Seat 2: Guest84440 ($2930)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $20.
+Guest15166 checks.
+
+FLOP [board cards 4d,Jc,2d]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards 4d,Jc,2d,As]
+Guest15166 checks.
+Guest84440 checks.
+
+RIVER [board cards 4d,Jc,2d,As,6d]
+Guest15166 bets $100.
+Guest84440 calls $100.
+Guest15166 shows [ 7d,6h] - One Pair, Sixes
+Guest15166 wins $280
+
+----------- Game: 3 | Hand: 11 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7210)
+Seat 2: Guest84440 ($2790)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 bets $60.
+Guest84440 calls $40.
+
+FLOP [board cards As,7c,Ts]
+Guest84440 checks.
+Guest15166 bets $50.
+Guest84440 folds.
+Guest15166 wins $210
+
+----------- Game: 3 | Hand: 12 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7290)
+Seat 2: Guest84440 ($2710)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $20.
+Guest15166 bets $40.
+Guest84440 calls $40.
+
+FLOP [board cards Jd,Tc,7h]
+Guest15166 bets $100.
+Guest84440 calls $100.
+
+TURN [board cards Jd,Tc,7h,9h]
+Guest15166 bets $40.
+Guest84440 folds.
+Guest15166 wins $400
+
+----------- Game: 3 | Hand: 13 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7470)
+Seat 2: Guest84440 ($2530)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 folds.
+Guest84440 wins $60
+
+----------- Game: 3 | Hand: 14 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7450)
+Seat 2: Guest84440 ($2550)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $20.
+Guest15166 checks.
+
+FLOP [board cards 7h,Qc,4c]
+Guest15166 bets $100.
+Guest84440 calls $100.
+
+TURN [board cards 7h,Qc,4c,8h]
+Guest15166 bets $200.
+Guest84440 calls $200.
+
+RIVER [board cards 7h,Qc,4c,8h,5s]
+Guest15166 checks.
+Guest84440 checks.
+Guest15166 shows [ Jh,4h] - One Pair, Fours
+Guest15166 wins $680
+
+----------- Game: 3 | Hand: 15 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7790)
+Seat 2: Guest84440 ($2210)
+BLINDS: Guest15166 ($20), Guest84440 ($40)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $20.
+Guest84440 checks.
+
+FLOP [board cards 4c,Th,6s]
+Guest84440 folds.
+Guest15166 wins $80
+
+----------- Game: 3 | Hand: 16 -----------
+BLIND LEVEL: $20 / $40
+Seat 1: Guest15166 ($7830)
+Seat 2: Guest84440 ($2170)
+BLINDS: Guest84440 ($20), Guest15166 ($40)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $20.
+Guest15166 bets $40.
+Guest84440 calls $40.
+
+FLOP [board cards 5s,3h,Kd]
+Guest15166 checks.
+Guest84440 checks.
+
+TURN [board cards 5s,3h,Kd,Ac]
+Guest15166 bets $40.
+Guest84440 calls $40.
+
+RIVER [board cards 5s,3h,Kd,Ac,9h]
+Guest15166 checks.
+Guest84440 folds.
+Guest15166 wins $240
+
+----------- Game: 3 | Hand: 17 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($7950)
+Seat 2: Guest84440 ($2050)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 checks.
+
+FLOP [board cards 3c,3h,Qs]
+Guest84440 checks.
+Guest15166 checks.
+
+TURN [board cards 3c,3h,Qs,8c]
+Guest84440 checks.
+Guest15166 bets $80.
+Guest84440 folds.
+Guest15166 wins $240
+
+----------- Game: 3 | Hand: 18 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($8030)
+Seat 2: Guest84440 ($1970)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $40.
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+FLOP [board cards 8s,Kd,4s]
+Guest15166 bets $80.
+Guest84440 bets $200.
+Guest15166 calls $120.
+
+TURN [board cards 8s,Kd,4s,6h]
+Guest15166 checks.
+Guest84440 bets $80.
+Guest15166 calls $80.
+
+RIVER [board cards 8s,Kd,4s,6h,Jh]
+Guest15166 checks.
+Guest84440 bets $80.
+Guest15166 calls $80.
+Guest84440 shows [ 2h,8d] - One Pair, Eights
+Guest84440 wins $1040
+
+----------- Game: 3 | Hand: 19 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($7510)
+Seat 2: Guest84440 ($2490)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 checks.
+
+FLOP [board cards 4d,Ac,5s]
+Guest84440 checks.
+Guest15166 bets $200.
+Guest84440 folds.
+Guest15166 wins $360
+
+----------- Game: 3 | Hand: 20 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($7590)
+Seat 2: Guest84440 ($2410)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $40.
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+FLOP [board cards 7s,3h,3c]
+Guest15166 bets $100.
+Guest84440 calls $100.
+
+TURN [board cards 7s,3h,3c,4s]
+Guest15166 bets $200.
+Guest84440 folds.
+Guest15166 wins $720
+
+----------- Game: 3 | Hand: 21 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($7850)
+Seat 2: Guest84440 ($2150)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 checks.
+
+FLOP [board cards Jh,8h,Kh]
+Guest84440 bets $150.
+Guest15166 folds.
+Guest84440 wins $310
+
+----------- Game: 3 | Hand: 22 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($7770)
+Seat 2: Guest84440 ($2230)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $40.
+Guest15166 checks.
+
+FLOP [board cards 5d,6d,4d]
+Guest15166 bets $80.
+Guest84440 bets $160.
+Guest15166 bets $300.
+Guest84440 calls $220.
+
+TURN [board cards 5d,6d,4d,6s]
+Guest15166 bets $300.
+Guest84440 calls $300.
+
+RIVER [board cards 5d,6d,4d,6s,5h]
+Guest15166 bets $1000.
+Guest84440 folds.
+Guest15166 wins $2520
+
+----------- Game: 3 | Hand: 23 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($8530)
+Seat 2: Guest84440 ($1470)
+BLINDS: Guest15166 ($40), Guest84440 ($80)
+Guest15166 starts as dealer.
+
+PREFLOP
+Guest15166 calls $40.
+Guest84440 checks.
+
+FLOP [board cards 4d,7d,9c]
+Guest84440 checks.
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+TURN [board cards 4d,7d,9c,Ac]
+Guest84440 folds.
+Guest15166 wins $320
+
+----------- Game: 3 | Hand: 24 -----------
+BLIND LEVEL: $40 / $80
+Seat 1: Guest15166 ($8690)
+Seat 2: Guest84440 ($1310)
+BLINDS: Guest84440 ($40), Guest15166 ($80)
+Guest84440 starts as dealer.
+
+PREFLOP
+Guest84440 calls $40.
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+FLOP [board cards Qs,7d,As]
+Guest15166 bets $100.
+Guest84440 bets $200.
+Guest15166 bets $200.
+Guest84440 calls $100.
+
+TURN [board cards Qs,7d,As,2c]
+Guest15166 bets $80.
+Guest84440 calls $80.
+
+RIVER [board cards Qs,7d,As,2c,Kd]
+Guest15166 bets $770.
+Guest84440 is all in with $770.
+Guest15166 shows [ Ad,9h] - One Pair, Aces
+Guest84440 shows [ 3c,Qc] - One Pair, Queens
+Guest15166 wins $2620
+Guest84440 sits out
+Guest15166 wins gameGuest15166 wins game 3!
+Guest84440 has left the game
